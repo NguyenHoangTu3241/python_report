@@ -1,0 +1,1885 @@
+number,state,created_at,closed_at,title
+9926,closed,2024-06-07 03:37:29+00:00,2024-06-13 00:24:18+00:00,World Sensors
+9921,closed,2024-06-04 10:01:41+00:00,2024-06-06 05:59:12+00:00,Update servers_v7.json
+9920,closed,2024-06-03 13:32:32+00:00,2024-06-11 07:13:00+00:00,Update servers_v7.json
+9918,closed,2024-06-02 18:39:36+00:00,2024-06-11 14:52:04+00:00,More `MassDriverBolt` fixes
+9916,closed,2024-06-02 10:50:44+00:00,2024-06-02 17:24:44+00:00,Update servers_v7.json
+9906,closed,2024-05-31 17:28:37+00:00,2024-06-01 21:37:47+00:00,Update servers_v7.json
+9902,closed,2024-05-31 00:20:52+00:00,2024-05-31 00:47:57+00:00,put the ACP servers higher in the list
+9869,closed,2024-05-21 12:30:47+00:00,2024-05-27 14:03:37+00:00,Update servers_v7.json
+9865,closed,2024-05-20 05:51:47+00:00,2024-05-20 13:33:25+00:00,Update servers_v7.json
+9861,closed,2024-05-19 14:58:46+00:00,2024-05-20 13:34:23+00:00,Update servers_v7.json
+9851,closed,2024-05-14 09:25:54+00:00,2024-05-19 12:11:01+00:00,Update servers_v7.json
+9848,closed,2024-05-13 14:30:21+00:00,2024-05-22 14:32:26+00:00,Update servers_v7.json
+9839,closed,2024-05-12 07:14:59+00:00,2024-05-14 09:24:37+00:00,Update servers_v7.json
+9836,closed,2024-05-11 02:35:14+00:00,2024-05-12 07:14:24+00:00,Update servers_v7.json
+9832,closed,2024-05-09 16:25:24+00:00,2024-05-22 14:32:18+00:00,Update servers_v7.json
+9830,closed,2024-05-09 13:33:24+00:00,2024-05-09 17:24:01+00:00,Update servers_v7.json
+9827,closed,2024-05-08 14:06:39+00:00,2024-05-09 06:11:13+00:00,"Temporary ISP downtime in UK, need rush to be online asap"
+9800,closed,2024-05-02 09:49:44+00:00,2024-05-04 13:28:11+00:00,Update servers_v7.json
+9790,closed,2024-04-28 07:21:10+00:00,2024-04-28 12:46:51+00:00,allow units to mine coal and sand
+9785,closed,2024-04-26 21:56:08+00:00,2024-04-26 23:23:19+00:00,Switch order of literals to prevent NullPointerException
+9780,closed,2024-04-25 03:09:58+00:00,2024-04-25 03:41:32+00:00,Display Maximum Number of Rounds (or Shots) In Info
+9775,closed,2024-04-23 22:51:22+00:00,2024-04-23 22:54:20+00:00,Update servers_v7.json
+9764,closed,2024-04-21 11:41:28+00:00,2024-04-21 14:27:50+00:00,Better light blending
+9757,closed,2024-04-20 09:07:05+00:00,2024-04-20 11:28:33+00:00,allow modders to customize vanilla AIs..?
+9754,closed,2024-04-18 19:13:41+00:00,2024-04-24 16:39:32+00:00,Implementing Mindustry-Suggestions#4959
+9751,closed,2024-04-16 06:25:05+00:00,2024-04-20 07:30:45+00:00,Fixed some issues when construct a rotated block with missing region or awful rotation
+9737,closed,2024-04-12 13:58:38+00:00,2024-04-13 12:37:08+00:00,Add UnitCommandEvent
+9716,closed,2024-04-07 01:02:35+00:00,2024-04-07 02:59:22+00:00,Update servers_v7.json (vndustry is comeback?)
+9702,closed,2024-04-02 02:54:18+00:00,2024-04-02 03:04:30+00:00,Code smells detected and refactored
+9701,closed,2024-04-01 19:09:41+00:00,2024-04-06 16:37:29+00:00,wex balancing
+9691,closed,2024-03-31 10:07:31+00:00,2024-04-06 01:00:45+00:00,Fix snow weather name not match with bundle
+9689,closed,2024-03-31 04:36:54+00:00,2024-04-01 07:06:35+00:00,Update servers_v7.json
+9678,closed,2024-03-26 03:11:11+00:00,2024-04-17 14:02:18+00:00,"Trail, pierce and weave delaying"
+9668,closed,2024-03-23 05:33:05+00:00,2024-03-23 08:52:51+00:00,Update servers_v7.json
+9667,closed,2024-03-23 04:40:49+00:00,2024-04-02 09:48:40+00:00,"Allow fetching unit by type, and build without type"
+9620,closed,2024-03-03 16:58:43+00:00,2024-03-03 17:22:35+00:00,Update servers_v7.json
+9619,closed,2024-03-03 16:57:04+00:00,2024-03-03 16:57:22+00:00,Update servers_v7.json
+9608,closed,2024-03-02 13:35:55+00:00,2024-03-03 17:22:49+00:00,Update servers_v7.json
+9606,closed,2024-03-02 12:36:58+00:00,2024-03-02 13:33:56+00:00,Update servers_v7.json
+9603,closed,2024-03-01 21:49:15+00:00,2024-03-01 22:11:10+00:00,[AMENDED] Add diagonal symmetry compat
+9600,closed,2024-02-29 12:41:13+00:00,2024-02-29 12:42:21+00:00,Update servers_v7.json
+9594,closed,2024-02-26 13:39:40+00:00,2024-03-13 08:53:22+00:00,Update bundle_ko.properties
+9593,closed,2024-02-25 20:22:03+00:00,2024-02-25 20:40:37+00:00,Add diagonal symmetry compat
+9578,closed,2024-02-21 13:39:10+00:00,2024-02-21 13:39:26+00:00,Update servers_v7.json
+9575,closed,2024-02-20 11:32:41+00:00,2024-02-20 16:14:41+00:00,Update servers_v7.json
+9574,closed,2024-02-20 11:05:18+00:00,2024-02-20 14:50:15+00:00,Update servers_v7.json
+9555,closed,2024-02-14 20:19:14+00:00,2024-02-14 20:25:18+00:00,Turret animations
+9554,closed,2024-02-14 19:38:10+00:00,2024-02-14 19:46:09+00:00,Serpulo Turret Animations
+9546,closed,2024-02-13 19:14:47+00:00,2024-02-14 13:37:18+00:00,Foreshadow anims
+9542,closed,2024-02-13 03:25:07+00:00,2024-02-14 13:37:28+00:00,Meltdown anims
+9540,closed,2024-02-12 04:03:00+00:00,2024-02-14 13:37:36+00:00,Ripple animation
+9531,closed,2024-02-10 09:34:03+00:00,2024-03-09 22:58:19+00:00,Update servers_v7.json
+9529,closed,2024-02-10 06:12:34+00:00,2024-02-10 06:26:25+00:00,Update bundle_vi.properties
+9492,closed,2024-01-27 07:34:11+00:00,2024-01-27 14:22:05+00:00,Added logic sensor to unit spawned wave number
+9478,closed,2024-01-20 13:00:37+00:00,2024-03-09 17:00:35+00:00,Update bundle_ca.properties
+9460,closed,2024-01-17 07:28:57+00:00,2024-01-17 07:29:34+00:00,Indonesian localization for Steam game page
+9454,closed,2024-01-14 14:02:03+00:00,2024-01-16 13:22:12+00:00,Update bundle_hu.properties (Ready To Merge)
+9451,closed,2024-01-13 14:53:04+00:00,2024-01-14 13:37:42+00:00,Update bundle_hu.properties (ready to merge)
+9444,closed,2024-01-11 08:20:12+00:00,2024-03-29 19:09:58+00:00,Fixing typos in the Russian locale bundle
+9435,closed,2024-01-07 08:47:43+00:00,2024-01-07 10:42:48+00:00,Fix Erekir campaign map OnSet
+9416,closed,2023-12-30 02:10:38+00:00,2024-01-21 08:48:40+00:00,German Translation
+9414,closed,2023-12-29 17:50:18+00:00,2023-12-29 17:52:10+00:00,Adding servers to Cyandustry
+9390,closed,2023-12-17 16:50:44+00:00,2023-12-31 08:57:37+00:00,Update servers_v7.json
+9372,closed,2023-12-12 06:00:38+00:00,2024-01-16 05:13:50+00:00,Remove Tendhost
+9371,closed,2023-12-11 16:59:40+00:00,2023-12-31 08:57:15+00:00,Update servers_v7.json
+9363,closed,2023-12-09 08:56:45+00:00,2023-12-09 13:39:16+00:00,Fix servers-v7.json
+9351,closed,2023-12-06 15:53:58+00:00,2024-02-16 09:12:22+00:00,Update Vietnamese translation
+9350,closed,2023-12-06 15:23:45+00:00,2023-12-06 16:55:14+00:00,Update servers_v7.json
+9348,closed,2023-12-04 20:35:24+00:00,2023-12-07 15:03:11+00:00,Markers update
+9344,closed,2023-12-03 22:57:33+00:00,2024-01-20 12:49:08+00:00,Update bundle_ca.properties
+9339,closed,2023-12-02 14:57:30+00:00,2023-12-02 14:57:45+00:00,Update bundle_hu.properties
+9316,closed,2023-11-25 20:47:53+00:00,2023-11-25 22:24:22+00:00,Test cases for previous code smells fix
+9313,closed,2023-11-24 17:11:12+00:00,2023-11-25 12:17:42+00:00,Code smells fix
+9308,closed,2023-11-23 15:47:27+00:00,2023-11-23 17:43:51+00:00,Update servers_v7.json
+9306,closed,2023-11-23 15:17:07+00:00,2023-11-23 15:23:06+00:00,Update servers_v7.json
+9305,closed,2023-11-23 09:43:44+00:00,2023-11-23 11:41:16+00:00,Update bundle_zh_CN.properties
+9302,closed,2023-11-21 23:31:31+00:00,2023-11-22 08:05:17+00:00,Update servers_v7.json
+9274,closed,2023-11-13 10:21:17+00:00,2023-11-16 05:34:25+00:00,Nerfs/Buffs to mono tree
+9270,closed,2023-11-12 11:34:46+00:00,2023-11-30 14:43:55+00:00,increase the cost of the walls
+9264,closed,2023-11-11 15:53:19+00:00,2023-12-02 14:54:53+00:00,Update bundle_hu.properties
+9261,closed,2023-11-10 22:11:48+00:00,2023-11-10 22:27:06+00:00,tung cost for merui fac removed
+9240,closed,2023-11-04 21:13:23+00:00,2023-11-04 21:46:04+00:00,Venomcoolbotbranch
+9235,closed,2023-11-04 16:47:03+00:00,2023-12-06 15:47:05+00:00,Update Vietnamese translation
+9228,closed,2023-11-03 00:20:08+00:00,2023-11-03 01:27:47+00:00,Assignment 1
+9218,closed,2023-10-31 07:32:12+00:00,2023-10-31 12:37:18+00:00,setprop speed i guess
+9210,closed,2023-10-28 16:17:13+00:00,2023-11-04 16:45:32+00:00,Update Vietnamese translations
+9206,closed,2023-10-28 07:34:49+00:00,2023-10-28 07:35:37+00:00,Update bundle_hu.properties - The finishing touches
+9202,closed,2023-10-26 12:54:51+00:00,2023-10-26 13:33:01+00:00,Update bundle hu.properties
+9194,closed,2023-10-22 23:08:23+00:00,2023-10-23 08:27:37+00:00,`UnitAssembler` got away with it!
+9186,closed,2023-10-21 08:28:31+00:00,2023-10-21 12:49:33+00:00,Update bundle_hu.properties
+9185,closed,2023-10-21 07:59:17+00:00,2023-10-21 08:09:32+00:00,Update bundle hu.properties
+9179,closed,2023-10-20 09:25:11+00:00,2023-10-21 07:58:19+00:00,Update bundle hu.properties
+9161,closed,2023-10-13 07:52:06+00:00,2023-10-13 07:52:28+00:00,Update
+9160,closed,2023-10-13 00:37:06+00:00,2023-10-13 03:06:17+00:00,Update Indonesian Language Translation
+9157,closed,2023-10-12 08:11:55+00:00,2023-10-13 00:08:51+00:00,Update bundle_id_ID.properties
+9154,closed,2023-10-11 14:16:29+00:00,2023-10-24 05:48:36+00:00,Update servers_v7.json
+9151,closed,2023-10-10 15:59:44+00:00,2023-10-11 13:26:58+00:00,Update servers_v7.json
+9147,closed,2023-10-08 16:36:54+00:00,2023-10-08 16:38:14+00:00,[deleted]
+9145,closed,2023-10-08 07:53:02+00:00,2023-10-24 22:15:10+00:00,Update servers_v7.json
+9142,closed,2023-10-06 19:03:22+00:00,2023-10-07 20:28:37+00:00,Update servers_v7.json
+9133,closed,2023-10-03 18:08:44+00:00,2023-10-03 18:54:35+00:00,"Introduced protections against ""zip slip"" attacks "
+9119,closed,2023-09-30 11:35:30+00:00,2023-10-28 16:12:56+00:00,Update Vietnamese translation
+9117,closed,2023-09-30 02:33:17+00:00,2023-10-29 05:33:29+00:00,World cell upgrade
+9114,closed,2023-09-29 14:04:12+00:00,2023-09-29 14:24:35+00:00,Update servers_v7.json
+9113,closed,2023-09-29 14:01:31+00:00,2023-09-29 14:26:14+00:00,Update servers_v7.json
+9107,closed,2023-09-28 19:09:35+00:00,2023-09-30 22:20:52+00:00,update bundle_es properties
+9104,closed,2023-09-28 11:13:12+00:00,2023-09-30 19:33:17+00:00,Update servers_v7.json
+9102,closed,2023-09-28 00:15:43+00:00,2023-09-28 13:03:55+00:00,armor to serpulo blocks
+9090,closed,2023-09-24 00:46:47+00:00,2023-09-24 00:48:14+00:00,Change of ip
+9082,closed,2023-09-22 01:10:23+00:00,2023-09-22 01:10:35+00:00,Added name to contributors
+9081,closed,2023-09-22 01:06:10+00:00,2023-09-22 01:23:50+00:00,Minor buffs to Scathe
+9080,closed,2023-09-21 08:47:35+00:00,2023-09-25 05:13:53+00:00,Don't destroyToDerelict privileged blocks
+9069,closed,2023-09-18 18:50:08+00:00,2023-09-19 22:38:40+00:00,Update Servers_v7.json
+9068,closed,2023-09-18 12:43:51+00:00,2023-09-23 11:12:38+00:00,(draft) StatusEffect with level
+9067,closed,2023-09-18 11:14:05+00:00,2023-10-14 13:10:34+00:00,Remove Flush Message Having To Wait
+9062,closed,2023-09-16 17:11:14+00:00,2023-11-30 14:43:39+00:00,build146 TR Translate and corrections
+9059,closed,2023-09-15 15:06:10+00:00,2023-09-16 19:55:07+00:00,Update servers_v7.json
+9036,closed,2023-09-09 06:04:33+00:00,2023-09-09 14:40:03+00:00,Update servers_v7.json
+9016,closed,2023-09-04 11:15:47+00:00,2023-10-02 12:21:46+00:00,Update servers_v7.json
+9008,closed,2023-09-03 13:27:58+00:00,2023-10-20 09:24:01+00:00,Update bundle hu.properties
+9007,closed,2023-09-03 11:43:27+00:00,2023-09-03 13:28:16+00:00,Update bundle_hu.properties
+9005,closed,2023-09-03 10:31:08+00:00,2023-09-03 10:35:35+00:00,Update servers_v7.json
+9004,closed,2023-09-03 08:24:10+00:00,2023-09-03 10:27:46+00:00,Update servers_v7.json
+9000,closed,2023-09-02 19:02:19+00:00,2024-06-06 11:02:53+00:00,Update bundle_uk_UA.properties
+8991,closed,2023-08-30 15:31:05+00:00,2024-03-09 17:00:15+00:00,Update bundle_ca.properties
+8986,closed,2023-08-29 06:20:11+00:00,2023-08-29 06:27:02+00:00,let DrawRegion drawer can draw regions rotate with building rotation
+8984,closed,2023-08-28 21:50:10+00:00,2024-03-28 21:31:56+00:00,Edited some things in bundle_ru.properties
+8980,closed,2023-08-27 16:23:46+00:00,2024-03-17 11:46:32+00:00,"Update Issue Template, to sound a bit less agressive and some bug fixes"
+8970,closed,2023-08-24 10:32:30+00:00,2023-09-03 11:30:00+00:00,Update bundle_hu.properties
+8969,closed,2023-08-24 09:17:04+00:00,2024-03-07 02:02:14+00:00,update some translations
+8956,closed,2023-08-20 05:22:37+00:00,2023-12-20 09:52:27+00:00,Update bundle_zh_CN.properties
+8943,closed,2023-08-17 01:49:01+00:00,2023-11-12 11:31:52+00:00,Make heat conductors under bullets
+8931,closed,2023-08-14 08:43:26+00:00,2023-08-15 09:56:18+00:00,Update servers_v7.json
+8929,closed,2023-08-14 04:18:32+00:00,2023-08-17 06:10:04+00:00,Make afflict can't be overdrived
+8910,closed,2023-08-10 10:42:53+00:00,2023-08-10 10:50:46+00:00,Update servers_v7.json
+8909,closed,2023-08-10 09:55:48+00:00,2023-08-10 10:36:40+00:00,Update servers_v7.json
+8907,closed,2023-08-09 21:27:26+00:00,2023-08-09 21:31:12+00:00,Update server_v7.json
+8902,closed,2023-08-07 07:14:09+00:00,2023-08-07 12:57:10+00:00,Make liquid routers unable to be picked up
+8885,closed,2023-08-02 10:45:45+00:00,2024-04-25 22:54:04+00:00,More and Better Filipino Translations
+8878,closed,2023-07-31 20:54:02+00:00,2023-08-01 13:12:55+00:00,Update servers_v7.json
+8877,closed,2023-07-31 20:46:24+00:00,2023-07-31 20:46:55+00:00,Update servers_v7.json
+8857,closed,2023-07-28 13:12:16+00:00,2023-07-29 13:27:17+00:00,add keys(AWSD) for moving ui for research dialog
+8842,closed,2023-07-25 20:33:25+00:00,2024-03-17 11:46:32+00:00,Bug Report Form Improvements
+8839,closed,2023-07-25 12:40:05+00:00,2023-07-25 14:23:17+00:00,Allow Gas Coolant
+8835,closed,2023-07-24 08:33:59+00:00,2023-07-25 14:04:25+00:00,Same USID for same IP
+8815,closed,2023-07-14 14:26:09+00:00,2023-07-23 20:25:53+00:00,Update servers_v7.json
+8812,closed,2023-07-11 16:25:20+00:00,2023-07-23 20:26:06+00:00,Update servers_v7.json
+8811,closed,2023-07-11 11:19:52+00:00,2023-07-11 16:23:04+00:00,Update servers_v7.json
+8810,closed,2023-07-11 06:21:12+00:00,2023-07-23 20:30:31+00:00,Fix team color chaos caused by #8700
+8808,closed,2023-07-10 00:10:33+00:00,2023-07-18 02:25:08+00:00,Fixed: Units lose LogicAI after reading.
+8799,closed,2023-07-06 12:31:11+00:00,2023-07-23 20:27:39+00:00,Update servers_v7.json
+8798,closed,2023-07-06 05:08:03+00:00,2023-07-06 07:07:26+00:00,Adding Some Vndustry Server
+8786,closed,2023-07-02 07:31:51+00:00,2023-07-03 04:13:33+00:00,Add vaxe server
+8783,closed,2023-07-01 06:17:11+00:00,2024-02-03 19:21:04+00:00,atNotShoot option for StatusFieldAbillity
+8771,closed,2023-06-28 14:18:30+00:00,2023-10-06 11:36:31+00:00,Updated README
+8763,closed,2023-06-27 18:11:37+00:00,2023-06-27 18:43:29+00:00,new contributor
+8756,closed,2023-06-25 12:29:00+00:00,2023-06-25 14:24:25+00:00,Alphabetize contributers list
+8749,closed,2023-06-24 00:19:56+00:00,2023-07-06 08:33:23+00:00,Update bundle_ko.properties
+8747,closed,2023-06-22 18:18:56+00:00,2023-06-24 01:27:05+00:00,Use Base64 to Encode schematic filename
+8731,closed,2023-06-19 17:44:13+00:00,2023-09-02 19:06:00+00:00,A few changes
+8723,closed,2023-06-18 12:30:01+00:00,2023-06-18 13:25:47+00:00,Fix Anuken/Mindustry#8718
+8716,closed,2023-06-17 12:00:17+00:00,2023-11-30 15:16:48+00:00,Flag Float Display
+8699,closed,2023-06-10 16:15:55+00:00,2023-06-15 17:28:17+00:00,Save map tags
+8691,closed,2023-06-09 04:00:15+00:00,2024-04-28 06:38:21+00:00,add a invincibility field to blocks
+8690,closed,2023-06-08 05:39:25+00:00,2023-06-27 18:45:54+00:00,Updated German Translation (again... but bigger)
+8674,closed,2023-06-04 12:49:35+00:00,2023-09-30 12:33:30+00:00,Configurable unit movement speed
+8670,closed,2023-06-04 05:54:29+00:00,2023-06-19 04:51:24+00:00,Weather World Processor
+8662,closed,2023-06-03 04:24:27+00:00,2023-06-03 04:34:03+00:00,Update Vietnamese translattion
+8654,closed,2023-05-31 14:08:10+00:00,2023-06-03 04:07:53+00:00,Update Vietnamese translation
+8643,closed,2023-05-26 21:51:41+00:00,2024-04-21 09:27:49+00:00,ChatMode & history bugfix
+8635,closed,2023-05-23 22:12:39+00:00,2024-03-29 19:14:49+00:00,Add test case for Inventories
+8634,closed,2023-05-23 21:56:54+00:00,2023-05-23 22:14:47+00:00,Add test case for modules
+8616,closed,2023-05-16 09:08:28+00:00,2023-06-16 03:33:36+00:00,Allow admins to cancel the votekick
+8614,closed,2023-05-16 03:53:55+00:00,2023-05-16 04:20:18+00:00, only take the non color coding charecters into account for player name length
+8609,closed,2023-05-15 11:39:15+00:00,2023-06-19 11:19:06+00:00,Update bundle_ca.properties
+8597,closed,2023-05-13 06:33:30+00:00,2023-07-24 02:18:57+00:00,Update servers_v6.json
+8586,closed,2023-05-12 12:50:18+00:00,2023-06-12 01:32:21+00:00,"Remove Team#6, confilct with neoplastic"
+8574,closed,2023-05-09 23:59:27+00:00,2023-05-24 20:49:52+00:00,predictTarget for Turrets
+8567,closed,2023-05-07 18:46:53+00:00,2023-05-07 18:48:16+00:00,Update servers_v7.json
+8566,closed,2023-05-07 18:41:04+00:00,2023-05-07 18:48:31+00:00,Update servers_v7.json
+8547,closed,2023-04-30 12:00:50+00:00,2023-07-26 10:45:32+00:00,Arbitrary Block Sorting & De-Enum Categories
+8541,closed,2023-04-28 22:44:00+00:00,2023-04-29 02:10:10+00:00,No background at minimap
+8503,closed,2023-04-12 12:51:18+00:00,2023-04-12 12:59:56+00:00,Update servers_v7.json
+8502,closed,2023-04-11 23:11:26+00:00,2023-04-16 02:16:30+00:00,serpulo payload conveyor & router are now underBullets
+8493,closed,2023-04-09 11:24:06+00:00,2023-05-09 15:10:44+00:00,BetterPlanetSelection
+8484,closed,2023-04-07 13:56:51+00:00,2023-04-07 14:00:29+00:00,Ubdated
+8472,closed,2023-04-04 19:25:57+00:00,2023-04-09 11:06:37+00:00,Better Planet Selection UI
+8457,closed,2023-04-01 11:47:48+00:00,2023-04-06 22:14:29+00:00,tweak cultivator ratios to keep the designers on their toes
+8456,closed,2023-04-01 11:37:07+00:00,2024-03-29 19:15:14+00:00,Update CONTRIBUTING.md
+8453,closed,2023-04-01 08:00:42+00:00,2023-06-03 06:49:53+00:00,Update bundle_zh_CN.properties
+8451,closed,2023-04-01 01:01:50+00:00,2023-04-01 02:03:12+00:00,Fix hjson batteries without a drawer crashing the game
+8445,closed,2023-03-30 08:32:47+00:00,2023-05-08 21:03:10+00:00,Update Menus.java
+8444,closed,2023-03-29 03:14:42+00:00,2023-07-26 05:47:12+00:00,new server tamazia
+8442,closed,2023-03-27 16:49:12+00:00,2023-03-28 18:03:48+00:00,Return `Setting` value type for each `pref`methods.
+8431,closed,2023-03-26 08:23:56+00:00,2023-06-07 17:56:01+00:00,Fixed DNS pollution as China
+8425,closed,2023-03-24 10:07:16+00:00,2023-03-28 08:37:51+00:00,new server CreateDustry
+8417,closed,2023-03-22 01:23:56+00:00,2023-03-22 16:14:07+00:00,Damage multipliers aren't applied to bullet lightning damage
+8407,closed,2023-03-18 16:44:15+00:00,2023-04-09 18:46:39+00:00,Update servers_v7.json
+8405,closed,2023-03-18 14:48:07+00:00,2023-03-18 15:02:43+00:00,Add `Events.fire(Trigger.unitCommandChange);` when select/remove units by type.
+8396,closed,2023-03-16 07:50:51+00:00,2023-03-16 08:06:28+00:00,update bundle_be.properties
+8385,closed,2023-03-10 21:49:53+00:00,2023-10-09 20:43:21+00:00,Index wall ores
+8384,closed,2023-03-10 20:34:12+00:00,2023-03-25 17:51:05+00:00,Scale efficiency of attribute crafters
+8383,closed,2023-03-10 09:40:50+00:00,2023-03-10 09:47:04+00:00,Update bundle_be.properties
+8377,closed,2023-03-08 19:51:59+00:00,2024-03-29 19:15:25+00:00,Remove Omnidustry from servers_v7.json
+8360,closed,2023-03-04 04:24:56+00:00,2023-03-08 14:16:17+00:00,Force projectors with variable sides and rotation
+8354,closed,2023-03-01 16:04:31+00:00,2023-03-07 17:13:36+00:00,Add all block names and others
+8353,closed,2023-02-28 03:31:39+00:00,2023-03-04 03:05:02+00:00,Don't kill shooter if shooter is already dead
+8343,closed,2023-02-25 16:43:26+00:00,2023-02-25 18:28:11+00:00,Update servers_v7.json
+8336,closed,2023-02-24 06:20:30+00:00,2023-02-26 12:23:31+00:00,Update servers_v7.json
+8329,closed,2023-02-22 11:35:47+00:00,2023-02-22 15:25:04+00:00,Belarusian translate update
+8313,closed,2023-02-18 17:03:41+00:00,2023-02-19 16:36:55+00:00,Update servers_v7.json
+8303,closed,2023-02-15 00:29:18+00:00,2023-02-15 13:37:46+00:00,Fixed issue with Blocks scaledHealth
+8289,closed,2023-02-11 14:47:28+00:00,2023-02-11 14:48:45+00:00,update servers_v7.json
+8285,closed,2023-02-10 19:43:37+00:00,2023-02-11 06:57:36+00:00,Update servers_v7.json
+8284,closed,2023-02-10 12:10:48+00:00,2023-02-15 15:38:26+00:00,Update servers_v7.json
+8283,closed,2023-02-10 10:11:06+00:00,2023-02-13 14:56:15+00:00,Update servers_v7.json
+8280,closed,2023-02-10 04:37:17+00:00,2023-03-21 15:27:52+00:00,Add forcible move
+8274,closed,2023-02-09 09:53:43+00:00,2023-02-09 14:19:03+00:00,No random based on hashcode.
+8268,closed,2023-02-08 03:24:25+00:00,2023-02-09 14:20:43+00:00,Add forcible move
+8263,closed,2023-02-06 14:40:07+00:00,2023-02-06 16:43:52+00:00,Remove omnidustry from serverlist
+8261,closed,2023-02-06 02:29:56+00:00,2023-02-09 06:43:00+00:00,Remove dead servers v7
+8258,closed,2023-02-05 10:18:59+00:00,2023-03-08 14:18:34+00:00,Update servers_v7.json
+8254,closed,2023-02-03 23:04:43+00:00,2023-02-05 19:43:08+00:00,Update servers_v7.json
+8250,closed,2023-02-03 11:40:19+00:00,2023-02-03 22:58:51+00:00,"Change static ip v4 to DNSv4/v6, rename themselves"
+8246,closed,2023-02-01 18:59:10+00:00,2023-02-01 20:20:24+00:00,Random servers order + refactoring
+8243,closed,2023-01-31 19:44:26+00:00,2023-02-01 16:28:55+00:00,Ukr translation
+8229,closed,2023-01-28 07:22:52+00:00,2023-02-02 17:15:36+00:00,Added gameData folder detection.
+8227,closed,2023-01-27 09:55:16+00:00,2023-02-15 21:04:22+00:00,Bad drawArrow for mobile
+8206,closed,2023-01-22 16:24:02+00:00,2023-02-25 18:34:04+00:00,Removal of OmniDustry from servers_v7.json
+8203,closed,2023-01-22 11:57:57+00:00,2023-01-22 14:29:38+00:00,Rename omnidustry server to ohiodustry
+8199,closed,2023-01-19 16:01:36+00:00,2023-02-09 14:21:02+00:00,Add hiddenMods in ConnectPacket event
+8197,closed,2023-01-19 03:35:15+00:00,2023-09-20 03:50:09+00:00,Adds control groups
+8143,closed,2023-01-10 05:45:07+00:00,2023-01-10 07:27:47+00:00,Update servers_v7.json
+8136,closed,2023-01-09 07:40:28+00:00,2023-01-10 07:04:42+00:00,my server
+8130,closed,2023-01-08 07:50:04+00:00,2023-01-14 00:14:42+00:00,erekir T4s' price rebalanced
+8121,closed,2023-01-06 18:17:03+00:00,2023-06-27 20:02:27+00:00,"Removed comma in ""the game will now exit"" dialogue"
+8113,closed,2023-01-02 06:50:31+00:00,2023-01-15 13:14:50+00:00,Update servers_v7.json
+8108,closed,2023-01-01 13:22:22+00:00,2023-01-07 17:55:04+00:00,Descriptions for editor blocks
+8101,closed,2022-12-30 08:26:56+00:00,2023-01-08 03:36:01+00:00,server_v7.json
+8097,closed,2022-12-29 20:21:46+00:00,2023-01-08 05:19:49+00:00,Add RCR
+8096,closed,2022-12-29 19:01:11+00:00,2023-01-07 17:39:03+00:00,Update servers_v7.json
+8089,closed,2022-12-26 15:53:59+00:00,2022-12-26 16:01:27+00:00,CRASH FIX: logic + payload router
+8087,closed,2022-12-26 06:01:24+00:00,2023-01-07 21:21:58+00:00,Fixed Payload Conveyor caused crash
+8083,closed,2022-12-24 08:52:53+00:00,2023-01-08 00:01:21+00:00,Update servers_v7.json
+8081,closed,2022-12-22 07:06:49+00:00,2022-12-23 22:35:43+00:00,Delist omega for spoofing player count
+8079,closed,2022-12-22 05:22:30+00:00,2022-12-22 06:55:35+00:00,Delist fish for spoofing player counts
+8077,closed,2022-12-21 18:09:43+00:00,2023-01-07 16:29:04+00:00,Hides canvases if logic displays are disabled in the settings
+8070,closed,2022-12-19 08:12:10+00:00,2023-06-23 10:00:47+00:00,Bug fix from MindustryX
+8063,closed,2022-12-16 19:50:17+00:00,2023-01-04 12:32:03+00:00,Update servers_v7.json
+8053,closed,2022-12-11 12:28:15+00:00,2023-01-08 06:24:06+00:00,updated dutch translations
+8040,closed,2022-12-08 16:08:25+00:00,2023-01-07 16:37:08+00:00,Speed.
+8035,closed,2022-12-07 15:09:08+00:00,2023-02-09 03:49:33+00:00,Update bundle_ja.properties
+8029,closed,2022-12-06 09:54:16+00:00,2023-02-01 16:41:43+00:00,Update servers_v7.json
+8018,closed,2022-12-03 06:14:47+00:00,2022-12-25 09:29:19+00:00,one of the The Devil's server has been replaced by a new server
+7988,closed,2022-11-23 20:27:15+00:00,2023-10-01 18:37:11+00:00,Update to bundle.pl
+7987,closed,2022-11-23 16:31:00+00:00,2023-01-08 05:17:06+00:00,Update bundle_es.properties
+7985,closed,2022-11-22 23:32:51+00:00,2022-12-29 18:59:58+00:00,Update servers_v7.json
+7984,closed,2022-11-22 22:31:44+00:00,2022-12-30 17:16:11+00:00,Update Polish translation (bundle_pl.properties)
+7981,closed,2022-11-22 17:41:43+00:00,2022-11-23 04:44:42+00:00,Update servers_v7.json
+7980,closed,2022-11-22 17:17:43+00:00,2023-01-08 05:14:48+00:00,Update v7 server list
+7976,closed,2022-11-21 23:46:13+00:00,2023-09-09 17:00:25+00:00,Update bundle_pl.properties
+7974,closed,2022-11-21 21:07:06+00:00,2022-11-22 17:20:05+00:00,Removal of servers doing ilegal actions + affecting community
+7969,closed,2022-11-21 09:41:26+00:00,2023-01-08 04:35:09+00:00,Added VanillaDustry
+7966,closed,2022-11-20 14:55:22+00:00,2023-04-22 01:54:47+00:00,let (Burst-)Drills and Mend-/OverdriveProjectors use drawers (broken icongen)
+7960,closed,2022-11-20 01:44:18+00:00,2022-11-20 01:44:34+00:00,flatten branches
+7956,closed,2022-11-19 16:59:34+00:00,2022-11-20 01:27:15+00:00,let Drills/BurstDrills use drawers
+7954,closed,2022-11-19 15:41:23+00:00,2023-07-26 06:06:15+00:00,add new v7 server for ALEX
+7953,closed,2022-11-19 10:05:52+00:00,2022-11-20 00:18:46+00:00,Increase max zoom
+7937,closed,2022-11-17 18:09:19+00:00,2022-11-22 00:02:59+00:00,"make ""fixName"" method public"
+7935,closed,2022-11-17 11:21:34+00:00,2022-11-22 00:02:59+00:00,Add Hex-Industry to global list
+7933,closed,2022-11-17 07:01:09+00:00,2023-01-07 16:49:24+00:00,Selecting only 1 block as a schematic picks it instead
+7927,closed,2022-11-16 16:33:34+00:00,2023-02-24 19:07:03+00:00,Translation of NEW achievements to Spanish
+7924,closed,2022-11-16 08:09:40+00:00,2022-12-17 07:06:29+00:00,Patch 9
+7920,closed,2022-11-14 20:43:15+00:00,2022-11-22 00:02:59+00:00,"added ""loadColors"" method"
+7917,closed,2022-11-14 07:53:48+00:00,2023-08-03 07:34:48+00:00,Add @client @shield. And mark `world-cell` sync.
+7915,closed,2022-11-14 04:53:14+00:00,2022-11-27 01:02:03+00:00,Update servers_v7.json
+7883,closed,2022-11-11 22:05:36+00:00,2022-11-14 09:45:15+00:00,Update bundle_fr.properties
+7864,closed,2022-11-11 04:21:03+00:00,2022-11-14 15:26:28+00:00,make the price of quell the same as other t4s
+7857,closed,2022-11-10 13:54:47+00:00,2023-01-01 13:02:37+00:00,el naval unit resprita
+7854,closed,2022-11-10 05:29:36+00:00,2022-11-10 13:24:11+00:00,Fixes copying buildings from within the fog of war
+7849,closed,2022-11-09 09:38:50+00:00,2022-11-10 14:46:23+00:00,Update bundle_ru.properties
+7838,closed,2022-11-07 14:07:39+00:00,2022-11-07 15:23:40+00:00,Make Distributor controllable
+7834,closed,2022-11-06 12:26:08+00:00,2022-11-07 12:18:58+00:00,Update bundle_ru.properties
+7831,closed,2022-11-05 18:30:04+00:00,2022-11-05 19:43:18+00:00,Belarusian Translation
+7787,closed,2022-10-31 12:48:15+00:00,2022-10-31 13:04:10+00:00,Update RU TRANSLATION
+7786,closed,2022-10-30 21:30:53+00:00,2022-10-31 13:04:10+00:00,Update bundle_ru.properties
+7784,closed,2022-10-30 16:37:23+00:00,2022-10-30 21:17:19+00:00,Update bundle_ru.properties
+7780,closed,2022-10-28 19:42:53+00:00,2024-03-29 19:14:37+00:00,ui-lib patch version 4.X
+7778,closed,2022-10-28 05:51:09+00:00,2022-10-28 19:34:44+00:00,"unblacklist ui-lib, its fixed"
+7766,closed,2022-10-25 17:24:36+00:00,2022-10-25 17:25:22+00:00,"Add logic operator ""char"" for get char x"
+7765,closed,2022-10-25 17:18:57+00:00,2022-10-25 17:24:07+00:00,"Add logic operator ""char"" for get char x"
+7759,closed,2022-10-24 14:30:21+00:00,2022-10-29 18:31:54+00:00,Erekir units rebalanced for pvp
+7744,closed,2022-10-20 16:29:33+00:00,2023-05-21 19:07:26+00:00,Update bundle_pt_BR.properties
+7742,closed,2022-10-20 11:22:00+00:00,2022-11-02 09:02:27+00:00,Update bundle_ko.properties
+7741,closed,2022-10-20 07:31:05+00:00,2022-10-20 14:08:43+00:00,Allow for modifying build turret units?
+7729,closed,2022-10-16 10:18:25+00:00,2022-10-20 11:22:12+00:00,Update bundle_ko.properties
+7706,closed,2022-10-13 20:48:29+00:00,2024-04-02 18:04:14+00:00,Update bundle_pt_BR.properties
+7679,closed,2022-10-09 09:26:06+00:00,2022-10-20 11:22:26+00:00,Update bundle_ko.properties
+7671,closed,2022-10-07 09:54:12+00:00,2022-10-07 12:12:56+00:00,lightRadiusMultiplier
+7668,closed,2022-10-06 21:02:30+00:00,2022-10-14 07:09:14+00:00,translation: Update bundle_pt_BR
+7667,closed,2022-10-06 20:10:07+00:00,2022-10-06 20:31:25+00:00,PT-BR Translation
+7664,closed,2022-10-05 16:28:21+00:00,2022-11-08 14:00:39+00:00,Update bundle_vi.properties
+7654,closed,2022-10-03 13:48:41+00:00,2022-10-03 14:03:09+00:00,Create British English translation bundle
+7650,closed,2022-10-02 17:41:07+00:00,2022-10-04 20:11:18+00:00,fix player name color on minimap
+7648,closed,2022-10-02 00:54:24+00:00,2022-10-02 12:10:24+00:00,Tech Tree is no longer excessively wide
+7647,closed,2022-10-01 17:54:12+00:00,2022-10-04 08:23:43+00:00,Better About Dialog
+7631,closed,2022-09-27 04:39:59+00:00,2022-10-01 14:41:03+00:00,do something with TRANSLATING.md
+7627,closed,2022-09-26 13:16:12+00:00,2022-11-22 00:02:58+00:00,[Refactor] Server cleanup and more
+7624,closed,2022-09-25 14:27:03+00:00,2022-10-25 02:10:20+00:00,Added teamset command to ServerControl.java
+7613,closed,2022-09-24 04:04:22+00:00,2022-09-24 04:23:56+00:00,Update bundle_pt_BR.properties
+7612,closed,2022-09-24 01:51:33+00:00,2022-09-24 15:23:07+00:00,Update servers_v7.json
+7610,closed,2022-09-23 14:19:42+00:00,2022-09-24 06:17:32+00:00,check in `Pal` and `Color` for color field in hjson before hex code
+7599,closed,2022-09-20 00:40:18+00:00,2022-09-20 01:06:12+00:00,Make BuildVisibility `Boolf`s
+7594,closed,2022-09-18 13:09:05+00:00,2023-07-31 20:51:08+00:00,Croatian Translation (not finished)
+7593,closed,2022-09-18 09:25:25+00:00,2023-07-26 10:45:31+00:00,Fancy custom map play dialog
+7585,closed,2022-09-16 15:59:08+00:00,2022-09-16 16:08:16+00:00,Adding Mindustry Vn to ServerList (requested by LamNguyen(Lu)#7158)
+7577,closed,2022-09-15 15:16:50+00:00,2022-09-15 15:37:54+00:00,adding alex network
+7575,closed,2022-09-15 11:21:55+00:00,2022-09-15 15:01:07+00:00,Add AlexanderVn To group
+7572,closed,2022-09-14 22:36:35+00:00,2022-09-15 11:18:35+00:00,Update servers_v7.json
+7570,closed,2022-09-14 12:03:18+00:00,2022-09-14 22:40:16+00:00,create new a group server
+7567,closed,2022-09-14 08:51:31+00:00,2022-09-14 11:31:40+00:00,Added \n
+7566,closed,2022-09-14 07:13:45+00:00,2022-09-14 10:11:16+00:00,Add new group to everyone to join my server
+7565,closed,2022-09-14 06:35:46+00:00,2022-09-14 12:28:49+00:00,Unhorrible Turret Recoil Design
+7564,closed,2022-09-14 04:05:17+00:00,2022-09-14 04:13:46+00:00,Update servers_v7.json
+7563,closed,2022-09-13 23:04:19+00:00,2022-09-14 05:42:11+00:00,create a gourp
+7559,closed,2022-09-13 13:00:58+00:00,2022-09-13 14:06:24+00:00,create new group
+7546,closed,2022-09-12 01:54:25+00:00,2022-09-12 12:21:51+00:00,map description shown in map play dialog
+7541,closed,2022-09-10 17:41:05+00:00,2022-09-12 15:23:00+00:00,Update
+7532,closed,2022-09-09 06:32:34+00:00,2022-10-10 23:05:40+00:00,Ground Zero tutorial based on Onset tutorial
+7529,closed,2022-09-08 14:05:16+00:00,2022-09-08 14:16:31+00:00,deconstructor name change (https://github.com/Anuken/Mindustry-Suggestions/issues/3942)
+7527,closed,2022-09-07 14:52:19+00:00,2022-09-10 18:45:25+00:00,[Plugins] Added MessageHandler for handling messages & commands.
+7521,closed,2022-09-05 23:25:52+00:00,2022-09-09 22:08:00+00:00,@firstitem on conveyors
+7518,closed,2022-09-05 16:07:17+00:00,2022-09-05 17:43:15+00:00,Upload game data to custom cloud 
+7516,closed,2022-09-04 16:54:40+00:00,2022-09-12 18:45:37+00:00,Update bundle_ca.properties
+7512,closed,2022-09-03 18:12:58+00:00,2022-10-04 19:27:18+00:00,"Added more Finnish translations, fixed some mistakes"
+7511,closed,2022-09-03 07:39:41+00:00,2022-09-03 11:57:14+00:00,Fix DrawPlasma not working in hjson/json
+7499,closed,2022-09-02 01:13:29+00:00,2022-09-07 00:48:17+00:00,Updating some pt-BR translations
+7496,closed,2022-09-01 05:36:09+00:00,2022-09-01 12:47:59+00:00,Fix #7495
+7494,closed,2022-09-01 02:30:01+00:00,2022-09-01 03:04:15+00:00,[ru] Triangle
+7493,closed,2022-09-01 02:26:37+00:00,2022-09-01 02:28:45+00:00,Triangle (RU)
+7489,closed,2022-08-31 09:47:03+00:00,2022-09-01 10:17:44+00:00,Update bundle_ko.properties
+7483,closed,2022-08-30 21:01:01+00:00,2022-11-10 13:37:00+00:00,bundle help
+7470,closed,2022-08-28 19:28:47+00:00,2022-10-01 20:07:11+00:00,Add rule to control whether units can automatically rebuild destroyed blocks
+7466,closed,2022-08-28 10:41:39+00:00,2022-10-01 20:11:36+00:00,thêm group máy chủ theo lời của router
+7463,closed,2022-08-28 07:49:16+00:00,2022-08-30 03:17:39+00:00,Update bundle_zh_CN.properties
+7456,closed,2022-08-26 15:12:29+00:00,2022-08-26 15:20:25+00:00,Update servers_v7.json
+7455,closed,2022-08-26 15:01:12+00:00,2022-08-26 15:09:25+00:00,Update servers_v7.json
+7454,closed,2022-08-26 14:50:46+00:00,2022-08-26 14:53:45+00:00,add my server to group Korea
+7453,closed,2022-08-26 14:04:14+00:00,2022-08-26 14:06:05+00:00,shield breaker rename
+7451,closed,2022-08-26 11:50:42+00:00,2022-11-16 19:42:04+00:00,[Draft Pr] Russian translation update.
+7450,closed,2022-08-26 10:44:35+00:00,2022-08-26 14:45:29+00:00,add My Ip address server To fish group
+7448,closed,2022-08-26 08:37:24+00:00,2022-08-26 10:01:22+00:00,TR Bundle Update (still fixing)
+7443,closed,2022-08-25 10:44:04+00:00,2022-08-28 08:40:42+00:00,Update bundle_ko.properties
+7439,closed,2022-08-24 16:29:05+00:00,2022-09-12 18:42:37+00:00,Amend bundle_ca.properties
+7437,closed,2022-08-24 07:25:56+00:00,2022-10-01 20:02:19+00:00,Ukrainian translation: Happy Independance Day
+7433,closed,2022-08-23 13:31:20+00:00,2022-08-23 16:33:27+00:00,I'm so sorry but this is the last time
+7432,closed,2022-08-23 13:09:47+00:00,2022-08-23 13:12:24+00:00,Update servers_v7.json
+7431,closed,2022-08-23 12:51:33+00:00,2022-08-23 13:02:25+00:00,Update servers_v7.json
+7430,closed,2022-08-23 12:49:42+00:00,2022-08-23 13:52:39+00:00,Update servers_v7.json
+7429,closed,2022-08-23 12:47:30+00:00,2022-08-23 13:03:01+00:00,update
+7428,closed,2022-08-23 10:49:03+00:00,2022-08-23 12:10:22+00:00,Update servers_v7.json
+7427,closed,2022-08-23 10:32:14+00:00,2022-08-23 12:10:32+00:00,Update servers_v7.json
+7425,closed,2022-08-23 05:28:00+00:00,2022-08-23 12:10:38+00:00,Update servers_v7.json
+7424,closed,2022-08-23 05:23:09+00:00,2022-08-23 12:10:47+00:00,Update servers_v7.json
+7422,closed,2022-08-23 02:26:57+00:00,2022-08-23 12:10:58+00:00,Update servers_v7.json
+7421,closed,2022-08-23 01:18:10+00:00,2022-08-23 12:01:49+00:00,Fix meltdown audio bug
+7407,closed,2022-08-21 14:51:57+00:00,2022-08-21 15:46:05+00:00,Load image directly from mod repo
+7387,closed,2022-08-18 07:53:07+00:00,2022-08-18 16:30:26+00:00,Update server-v6
+7386,closed,2022-08-18 02:03:36+00:00,2023-04-01 06:28:54+00:00,Add a color variable for shields
+7383,closed,2022-08-17 16:55:07+00:00,2022-08-17 18:13:18+00:00,Translating heat source because i forgot
+7380,closed,2022-08-17 09:37:26+00:00,2022-08-25 09:53:06+00:00,Update bundle_ko.properties
+7376,closed,2022-08-16 08:39:11+00:00,2022-08-20 14:44:17+00:00,Update VIETNAM TRANSFORM v7
+7372,closed,2022-08-15 17:02:15+00:00,2022-08-16 13:22:39+00:00,Update bundle_es.properties
+7371,closed,2022-08-15 16:00:24+00:00,2023-03-08 14:13:23+00:00,setprop #2
+7370,closed,2022-08-15 09:50:47+00:00,2022-08-15 12:14:47+00:00,SetProp world processor instruction
+7366,closed,2022-08-14 17:08:07+00:00,2022-10-04 19:40:24+00:00,Update bundle_vi.properties
+7356,closed,2022-08-13 09:21:44+00:00,2022-08-13 11:15:28+00:00,[UnitFactory] Remove integer config
+7350,closed,2022-08-12 15:06:17+00:00,2022-08-17 15:55:16+00:00,Allow drills to have more than one blocked items
+7347,closed,2022-08-12 01:52:13+00:00,2024-04-02 18:04:17+00:00,Update bundle_vi.properties
+7346,closed,2022-08-11 09:57:27+00:00,2022-09-06 15:37:28+00:00,Less ResetEvent
+7330,closed,2022-08-09 01:01:02+00:00,2022-08-09 04:56:45+00:00,Use bullet aim pos instead of calculating for PointBulletType
+7329,closed,2022-08-08 23:53:18+00:00,2024-03-31 03:29:12+00:00,Update bundle_ru.properties
+7326,closed,2022-08-08 17:13:34+00:00,2022-08-08 18:23:11+00:00,Update servers_v7.json
+7325,closed,2022-08-08 11:15:36+00:00,2022-10-04 16:06:20+00:00,Add Heat Router block
+7317,closed,2022-08-07 15:15:01+00:00,2022-08-07 17:21:13+00:00,Improved console commands reader
+7312,closed,2022-08-06 05:05:08+00:00,2022-09-11 08:58:10+00:00,Update bundle_zh_CN.properties
+7290,closed,2022-08-04 18:21:29+00:00,2022-10-04 19:30:14+00:00,Translation
+7280,closed,2022-08-03 11:53:56+00:00,2022-08-09 23:25:08+00:00,Update bundle_sr.properties
+7279,closed,2022-08-03 05:05:39+00:00,2022-08-03 06:39:03+00:00,Update bundle_zh_CN.properties
+7271,closed,2022-08-02 01:17:46+00:00,2022-08-02 12:11:10+00:00,Update servers_v6.json
+7250,closed,2022-07-28 11:13:49+00:00,2022-07-28 13:40:43+00:00,Update Consumer
+7247,closed,2022-07-28 02:14:33+00:00,2022-08-29 16:24:39+00:00,(attempt 2 because merge conflict) add descriptions and stuff for Erekir content
+7235,closed,2022-07-24 08:57:30+00:00,2022-07-24 10:45:30+00:00,Контент Эрекира
+7220,closed,2022-07-22 02:41:00+00:00,2022-07-22 14:39:39+00:00,fix whenShooting in ShieldArcAbility
+7210,closed,2022-07-20 12:46:03+00:00,2022-09-24 16:38:02+00:00,Added gamemodes command to ServerControl.java
+7209,closed,2022-07-20 12:44:03+00:00,2022-10-02 13:13:18+00:00,Update servers_v7.json
+7208,closed,2022-07-20 12:34:45+00:00,2022-07-20 12:40:35+00:00,"added ""gamemodes"" command to ServerControl.java"
+7206,closed,2022-07-20 04:54:20+00:00,2022-07-29 17:50:35+00:00,Reenable jitpack desktop and tools building
+7204,closed,2022-07-20 00:34:34+00:00,2024-03-29 19:14:10+00:00,Dynamic atlas page size
+7203,closed,2022-07-19 20:19:30+00:00,2022-07-19 20:32:02+00:00,Tree specification for json research
+7202,closed,2022-07-19 19:54:38+00:00,2022-07-20 21:25:55+00:00,Update servers_v7.json
+7185,closed,2022-07-17 00:18:41+00:00,2022-07-31 09:37:51+00:00,Update bundle_ru.properties
+7174,closed,2022-07-15 06:54:10+00:00,2022-07-15 06:58:09+00:00,destroyBullet angle
+7171,closed,2022-07-14 01:02:02+00:00,2022-07-15 14:37:01+00:00,Color Picker Text Input
+7170,closed,2022-07-13 22:56:21+00:00,2022-07-17 00:23:54+00:00,Update bundle_ru.properties
+7165,closed,2022-07-12 12:18:13+00:00,2022-07-26 00:27:25+00:00,Weather World Logic Instruction
+7156,closed,2022-07-09 09:26:44+00:00,2024-03-27 11:37:38+00:00,Update bundle_ru.properties
+7155,closed,2022-07-09 09:01:03+00:00,2022-07-11 10:33:17+00:00,clear hints button
+7151,closed,2022-07-08 06:35:01+00:00,2022-10-01 21:39:50+00:00,Fix placeOverlapRange for rangeChange bullet
+7150,closed,2022-07-08 06:21:40+00:00,2022-10-04 19:35:14+00:00,Parts
+7147,closed,2022-07-08 01:54:01+00:00,2022-07-11 10:45:33+00:00,Darkness
+7146,closed,2022-07-08 01:27:56+00:00,2022-07-11 17:49:15+00:00,Shockwave point defense implementation
+7140,closed,2022-07-07 01:20:36+00:00,2022-07-07 01:35:03+00:00,Display Both Erekir and Serpulo Blocks in In-game Editor
+7132,closed,2022-07-05 21:27:23+00:00,2022-09-21 01:54:38+00:00,Make `DefenderAI` ignore `MissileUnitType`s
+7131,closed,2022-07-05 21:01:06+00:00,2022-07-05 21:05:20+00:00,lustre shows up as ammo
+7126,closed,2022-07-05 09:51:34+00:00,2022-07-05 14:02:43+00:00,Deprecate DrawFrames
+7122,closed,2022-07-04 15:44:41+00:00,2022-07-09 21:34:35+00:00,Logic Cutscene Shake
+7113,closed,2022-07-03 08:12:42+00:00,2022-08-03 07:23:22+00:00,Update bundle_zh_CN.properties
+7099,closed,2022-06-30 09:14:51+00:00,2022-10-04 19:39:45+00:00,Turret-drawplace + 'rangchange' bullet range visual
+7097,closed,2022-06-30 02:46:38+00:00,2022-07-01 16:37:20+00:00,Make Unit Bullets Show Damage
+7094,closed,2022-06-29 21:42:49+00:00,2022-06-30 02:08:34+00:00,Update bundle_zh_CN.properties for mods.browser
+7092,closed,2022-06-29 10:13:07+00:00,2022-06-30 14:48:30+00:00,LiquidAmmoType
+7091,closed,2022-06-29 08:20:36+00:00,2022-06-29 08:20:53+00:00,Ukrainian translation 
+7083,closed,2022-06-27 17:40:19+00:00,2022-06-27 17:40:38+00:00,Update servers_v7.json
+7082,closed,2022-06-27 07:45:51+00:00,2022-07-28 02:19:48+00:00,add descriptions for erekir content 
+7075,closed,2022-06-25 12:20:48+00:00,2022-06-25 13:02:56+00:00,Attempt to rewrite Mindustry in Rust
+7071,closed,2022-06-25 07:07:08+00:00,2022-07-02 21:37:34+00:00,A lot of changes. Update at bundle_pl.properties
+7068,closed,2022-06-24 13:37:45+00:00,2022-06-24 13:58:25+00:00,Update servers_v7.json
+7067,closed,2022-06-24 07:34:20+00:00,2022-06-29 08:03:33+00:00,Update bundle_uk_UA.properties
+7066,closed,2022-06-24 06:26:59+00:00,2022-08-24 14:39:46+00:00,WIP Erekir Unit Descriptions
+7065,closed,2022-06-23 15:28:00+00:00,2022-06-24 07:19:08+00:00,Update bundle_uk_UA.properties
+7062,closed,2022-06-22 22:56:47+00:00,2022-12-16 22:46:56+00:00,rewrite mindustry in 🚀 Rust 🚀
+7055,closed,2022-06-21 11:52:29+00:00,2022-06-22 16:07:58+00:00,. _ .
+7051,closed,2022-06-20 10:40:08+00:00,2022-10-08 00:31:07+00:00,Add Sound Statement to Logic Processors
+7049,closed,2022-06-20 01:39:08+00:00,2022-06-24 20:31:57+00:00,ES Translation.
+7041,closed,2022-06-18 11:15:23+00:00,2022-06-18 11:16:45+00:00,Ukrainian translation
+7037,closed,2022-06-18 02:29:41+00:00,2022-10-05 11:22:07+00:00,"spawnUnit, spawnUnitTeam and spawnUnitCount"
+7032,closed,2022-06-17 07:31:41+00:00,2022-06-18 01:55:19+00:00,fix weird corners in shield shader
+7014,closed,2022-06-13 19:19:01+00:00,2022-10-04 17:07:39+00:00,Unit cost multiplier
+7008,closed,2022-06-12 21:52:18+00:00,2022-08-29 12:59:06+00:00,Update servers_v6.json
+6999,closed,2022-06-09 20:03:02+00:00,2022-07-15 03:37:50+00:00,Update bundle_de.properties
+6998,closed,2022-06-09 15:55:36+00:00,2022-06-29 08:29:16+00:00,Vars.moblieFreecam
+6995,closed,2022-06-08 18:56:22+00:00,2022-06-08 19:14:56+00:00,update mobile command hint
+6981,closed,2022-06-06 16:05:08+00:00,2023-05-26 12:00:28+00:00,Let the user decide to reset the sector or not when corrupted
+6959,closed,2022-06-02 06:35:27+00:00,2022-06-08 13:10:36+00:00,Fix BeamDrill mining ore covered by buildings.
+6956,closed,2022-06-01 20:33:10+00:00,2022-09-02 01:11:06+00:00,Merge functionality of getBlockI into unit getBlock
+6954,closed,2022-06-01 06:25:32+00:00,2022-06-01 23:26:53+00:00,ContinuousWeapon
+6951,closed,2022-05-31 01:00:03+00:00,2022-06-10 14:03:40+00:00,Command units to get onto payload conveyors
+6939,closed,2022-05-26 15:23:49+00:00,2022-06-08 12:54:50+00:00,Achievements on non-steam versions
+6934,closed,2022-05-24 21:59:16+00:00,2022-10-02 13:08:23+00:00,Adding skip shortcut with f9.
+6933,closed,2022-05-24 16:05:42+00:00,2022-06-08 15:20:23+00:00,OmegaHub BE Server
+6922,closed,2022-05-22 13:16:58+00:00,2022-05-22 13:18:55+00:00,Update bundle_vi.properties
+6919,closed,2022-05-22 09:34:52+00:00,2022-05-25 16:38:47+00:00,Added bariscodefx servers
+6910,closed,2022-05-20 00:48:51+00:00,2022-06-08 12:33:16+00:00,Fix sand being unsensable
+6908,closed,2022-05-19 14:21:25+00:00,2022-06-11 18:09:18+00:00,Another update to PL
+6906,closed,2022-05-19 04:42:52+00:00,2022-05-28 18:36:45+00:00,Fix improper liquid bar display
+6899,closed,2022-05-17 16:22:27+00:00,2022-10-04 19:38:14+00:00,Update bundle_de.properties
+6894,closed,2022-05-16 06:59:46+00:00,2022-11-22 00:02:58+00:00,[RU] V7 translation
+6892,closed,2022-05-15 22:38:04+00:00,2022-06-18 11:14:51+00:00,Ukrainian translation for v7
+6891,closed,2022-05-15 22:30:48+00:00,2022-05-15 22:38:22+00:00,Ukrainian translation for v7
+6890,closed,2022-05-15 22:27:31+00:00,2022-05-15 22:29:14+00:00,Ukrainian translation for v7
+6888,closed,2022-05-15 19:21:47+00:00,2024-03-28 16:21:45+00:00,Updated RU and UA bundles
+6885,closed,2022-05-15 13:59:47+00:00,2022-10-11 00:44:27+00:00,Update description.txt
+6872,closed,2022-05-13 21:18:08+00:00,2022-05-16 06:56:15+00:00,[RU] Complete V7 translation (soon)
+6870,closed,2022-05-13 15:53:23+00:00,2022-10-04 20:02:46+00:00,Update bundle_de.properties
+6863,closed,2022-05-13 08:29:15+00:00,2022-06-10 23:04:37+00:00,update bundle_zh_CN.properties
+6861,closed,2022-05-13 04:17:56+00:00,2022-05-17 03:53:01+00:00,Made BeamDrill show ores it can mine
+6859,closed,2022-05-13 03:40:36+00:00,2022-05-17 03:53:01+00:00,Rearrange Unit factory
+6847,closed,2022-05-12 11:12:09+00:00,2022-05-12 13:53:16+00:00,Update bundle_zh_TW.properties
+6846,closed,2022-05-12 10:39:26+00:00,2022-05-12 11:11:06+00:00,Update bundle_zh_TW.properties
+6831,closed,2022-05-11 21:31:43+00:00,2022-05-11 22:07:13+00:00,.pl move to BE list
+6824,closed,2022-05-11 14:07:38+00:00,2022-05-11 14:08:23+00:00,update bundle_es.properties
+6822,closed,2022-05-11 12:44:34+00:00,2022-05-11 14:04:11+00:00,Update bundle_es.properties
+6821,closed,2022-05-11 11:27:11+00:00,2022-05-12 13:53:16+00:00,Update bundle_ru.properties
+6814,closed,2022-05-11 02:50:55+00:00,2022-05-12 04:20:20+00:00,Update circleAttack condition to fix a crush
+6805,closed,2022-05-10 06:48:38+00:00,2022-05-12 04:14:41+00:00,Update bundle_vi.properties
+6804,closed,2022-05-10 04:17:18+00:00,2022-05-10 04:18:09+00:00,Fix annotations
+6803,closed,2022-05-09 23:53:38+00:00,2022-05-10 22:58:49+00:00,Typo fix for bundle.properties
+6790,closed,2022-05-08 22:50:28+00:00,2022-05-12 13:53:15+00:00,"Fix mods on mac, other misc items"
+6784,closed,2022-05-08 13:26:17+00:00,2023-01-04 05:09:12+00:00,Update bundle_zh_CN.properties for v7
+6780,closed,2022-05-08 05:43:37+00:00,2022-05-08 13:33:29+00:00,Fix issue with unit selection rect glitching
+6775,closed,2022-05-08 02:59:46+00:00,2022-05-08 03:03:08+00:00,Update bundle_zh_CN.properties
+6772,closed,2022-05-07 23:39:01+00:00,2022-05-12 13:53:14+00:00,Erekir - Shadow on animated turrets
+6766,closed,2022-05-07 11:23:22+00:00,2022-05-12 13:53:14+00:00,French translation
+6758,closed,2022-05-07 01:48:38+00:00,2022-05-10 23:01:53+00:00,id_ID v7 translation
+6757,closed,2022-05-07 01:45:10+00:00,2022-05-07 01:47:24+00:00, in_ID v7 translation
+6747,closed,2022-05-03 17:55:26+00:00,2022-05-12 04:19:50+00:00,Allow for TextureRegion-based light to rotate
+6734,closed,2022-04-26 21:58:45+00:00,2022-04-26 22:16:17+00:00,fix titanium sprite
+6727,closed,2022-04-22 01:22:30+00:00,2022-09-20 15:29:53+00:00,Support of mods with textures in different resolution (HD or low-res)
+6726,closed,2022-04-20 21:09:15+00:00,2022-04-23 16:12:56+00:00,Name Saves on Custom Game Screen
+6723,closed,2022-04-19 04:30:58+00:00,2022-06-14 13:54:48+00:00,filterable power node connections
+6717,closed,2022-04-17 23:46:42+00:00,2022-04-17 23:53:22+00:00,fix impact & compress images
+6714,closed,2022-04-17 07:01:13+00:00,2022-05-06 07:09:37+00:00,"S: Load icons,locales in server launcher"
+6711,closed,2022-04-16 08:54:32+00:00,2022-07-21 11:19:44+00:00,Update bundle_ru.properties
+6693,closed,2022-04-03 08:06:31+00:00,2022-10-02 16:59:39+00:00,Update servers_v6.json
+6681,closed,2022-03-30 21:02:29+00:00,2022-03-31 08:49:31+00:00,Improvements to Finnish translation
+6673,closed,2022-03-28 18:42:04+00:00,2022-10-02 03:07:44+00:00,Better power nodes yet again
+6668,closed,2022-03-26 10:21:37+00:00,2022-06-22 20:15:10+00:00,Correction of spelling mistakes in the French bundle
+6666,closed,2022-03-26 01:18:19+00:00,2022-04-04 12:29:33+00:00,Just a sussy resprite nothing else
+6664,closed,2022-03-25 05:42:34+00:00,2022-03-25 12:52:44+00:00,Fix bullet range calculation with `maxRange`
+6663,closed,2022-03-25 01:19:26+00:00,2022-03-25 12:52:50+00:00,Refactor some power consumption
+6660,closed,2022-03-23 17:13:16+00:00,2022-03-31 14:28:02+00:00,Sussy item sprites
+6658,closed,2022-03-23 08:59:30+00:00,2022-04-04 12:30:03+00:00,flarogus but without breaking everything
+6657,closed,2022-03-23 08:48:58+00:00,2022-03-23 19:55:46+00:00,add among to midustry
+6649,closed,2022-03-20 10:08:00+00:00,2023-08-03 07:35:00+00:00,bind `usid` to hostname rather than ip
+6648,closed,2022-03-19 20:57:49+00:00,2022-04-21 22:41:17+00:00,LiquidRouters - Loosen Throughput Reduction
+6646,closed,2022-03-18 01:19:25+00:00,2022-03-18 01:30:18+00:00,Allow force projectors to not have item consumption
+6644,closed,2022-03-16 23:27:47+00:00,2022-03-16 23:38:05+00:00,Code Cleanup
+6636,closed,2022-03-14 09:50:21+00:00,2024-04-02 15:35:12+00:00,Updated bundle_hu.properties
+6628,closed,2022-03-09 02:38:39+00:00,2022-03-09 02:54:24+00:00,Don't steal peoples formation units on death
+6627,closed,2022-03-07 18:19:36+00:00,2022-03-07 19:00:03+00:00,For some reason the load world doesn't fire a WLE
+6626,closed,2022-03-07 09:34:44+00:00,2022-03-07 15:10:11+00:00,Using right names
+6624,closed,2022-03-06 19:01:31+00:00,2022-03-06 19:29:02+00:00,Unit frags shouldn't keep velocity
+6623,closed,2022-03-06 07:12:08+00:00,2022-03-06 13:31:28+00:00,Improved Bullet Velocity Inheritance
+6617,closed,2022-03-04 10:11:03+00:00,2022-09-02 01:12:42+00:00,Update servers_v7.json
+6612,closed,2022-03-02 14:14:39+00:00,2022-10-01 21:44:25+00:00,Add `DamageSource` and `DamageEvent`
+6610,closed,2022-03-02 01:08:43+00:00,2022-03-04 14:24:10+00:00,Update servers_v7.json
+6607,closed,2022-02-28 17:26:13+00:00,2024-04-02 15:55:04+00:00,Update bundle_pt_BR.properties
+6604,closed,2022-02-26 22:15:48+00:00,2024-04-05 19:24:55+00:00,Update bundle_et.properties
+6596,closed,2022-02-22 18:18:23+00:00,2022-10-01 21:47:54+00:00,Continuous Recoil Delta
+6593,closed,2022-02-20 22:32:07+00:00,2022-02-20 22:47:39+00:00,Fix warnings
+6590,closed,2022-02-19 01:27:59+00:00,2022-02-20 15:04:30+00:00,Update servers_v7.json
+6586,closed,2022-02-18 13:22:58+00:00,2022-02-19 01:18:16+00:00,Update servers_v7.json
+6583,closed,2022-02-17 05:59:34+00:00,2022-02-17 18:17:53+00:00,Unhardcode the amount of explosiveness needed
+6582,closed,2022-02-17 02:01:35+00:00,2022-10-01 21:49:42+00:00,Add Logic Lookup Id to ContentInfoDialog.java
+6575,closed,2022-02-15 01:47:46+00:00,2022-02-23 18:12:56+00:00,Reorder weapon firing effects & chargeEffect
+6572,closed,2022-02-14 05:05:40+00:00,2022-02-14 06:18:58+00:00,Add equals and hashCode for Content.java
+6570,closed,2022-02-12 04:46:22+00:00,2022-02-14 19:07:07+00:00,Effect added/removed
+6568,closed,2022-02-11 21:24:23+00:00,2022-02-12 14:11:46+00:00,Don't attempt to remove `itemCapacity` if there never was `itemCapacity` in the first place.
+6561,closed,2022-02-08 19:14:08+00:00,2022-02-08 19:49:14+00:00,Move `powerUse` to `Turret` + fix turret power consumption conditions
+6559,closed,2022-02-06 01:15:30+00:00,2022-02-06 01:30:38+00:00,Draw cracks underneath items
+6551,closed,2022-02-02 21:31:04+00:00,2022-02-02 21:37:21+00:00,Fix NPE caused by #5252 when replacing mined tile in MinerComp
+6549,closed,2022-02-02 09:55:21+00:00,2022-02-02 14:57:11+00:00,"Making ""wave"" aproximated to V7."
+6545,closed,2022-02-01 05:52:13+00:00,2022-02-01 18:05:07+00:00,Shoot/smoke color
+6542,closed,2022-01-31 18:01:39+00:00,2022-01-31 18:08:51+00:00,add server to global list
+6536,closed,2022-01-27 08:58:16+00:00,2022-06-29 00:34:54+00:00,Update bundle_ko.properties
+6530,closed,2022-01-25 12:48:18+00:00,2022-06-10 04:41:35+00:00,add 2 Server in Server.json
+6529,closed,2022-01-25 11:52:08+00:00,2022-01-25 15:06:03+00:00,Update servers_v6.json
+6528,closed,2022-01-25 11:28:45+00:00,2022-05-04 12:29:41+00:00,Update servers_v6.json
+6522,closed,2022-01-23 01:53:01+00:00,2022-05-05 22:46:24+00:00,Remove inactive servers from v6 list
+6515,closed,2022-01-22 09:25:07+00:00,2022-01-22 14:30:03+00:00,It has a **n a m e**
+6511,closed,2022-01-21 20:19:07+00:00,2022-05-11 19:24:38+00:00,Ukrainian translation
+6509,closed,2022-01-21 16:57:44+00:00,2022-01-22 02:38:06+00:00,Separate the Draw Z of Units and their Outlines
+6505,closed,2022-01-19 08:49:44+00:00,2022-10-04 20:02:18+00:00,Customizable gameOver listener and more
+6497,closed,2022-01-15 14:29:20+00:00,2022-01-15 15:03:04+00:00,Merged Omega and Infection Tab
+6495,closed,2022-01-15 06:00:22+00:00,2022-06-08 15:30:35+00:00,ArtilleryBulletType is missing some draw stuff
+6493,closed,2022-01-14 07:35:04+00:00,2022-10-01 22:03:33+00:00,"Ability to copy name, ip, uuid"
+6490,closed,2022-01-13 09:24:00+00:00,2022-02-03 04:09:46+00:00,More Vietnamese Translate
+6488,closed,2022-01-12 18:39:36+00:00,2022-02-17 04:10:08+00:00,Unit based default controllers
+6476,closed,2022-01-08 14:25:35+00:00,2022-10-02 13:08:59+00:00,Update ServerControl.java
+6466,closed,2022-01-03 13:10:49+00:00,2022-01-19 11:39:45+00:00,Add serverControl listener
+6464,closed,2022-01-02 03:43:34+00:00,2022-01-09 12:09:10+00:00,Pull Request#2 - Translated more phrases 
+6463,closed,2022-01-02 03:33:41+00:00,2022-01-09 12:09:07+00:00,Update bundle_vi.properties
+6459,closed,2021-12-30 16:54:11+00:00,2021-12-30 18:11:52+00:00,made comment statement
+6443,closed,2021-12-18 06:34:10+00:00,2022-10-02 16:59:47+00:00,Update servers_v7.json
+6441,closed,2021-12-17 12:01:18+00:00,2024-04-02 03:10:29+00:00,Update bundle_fi.properties
+6439,closed,2021-12-17 00:50:48+00:00,2021-12-17 00:52:47+00:00,Use `entity.consValid()` in consumer updates
+6438,closed,2021-12-17 00:28:42+00:00,2021-12-17 02:29:04+00:00,Don't round amount in LiquidStack methods
+6425,closed,2021-12-10 15:58:12+00:00,2021-12-10 16:01:01+00:00,Suggestion #3237
+6423,closed,2021-12-10 15:39:12+00:00,2021-12-10 19:57:59+00:00,update() move
+6422,closed,2021-12-10 08:54:07+00:00,2022-10-01 22:04:50+00:00,I've translated this list up to 204.
+6416,closed,2021-12-08 18:42:17+00:00,2022-10-04 19:35:33+00:00,Little Impact Reactor things
+6415,closed,2021-12-08 13:50:33+00:00,2022-01-11 04:38:15+00:00,Splash Damage Patch
+6405,closed,2021-12-05 15:43:21+00:00,2024-01-10 01:53:36+00:00,Update bundle_zh_CN.properties
+6404,closed,2021-12-05 14:51:26+00:00,2022-04-11 01:45:17+00:00,Message block UI fix
+6403,closed,2021-12-05 10:54:39+00:00,2022-10-04 19:35:48+00:00,Scale impact reactor explosion with size
+6400,closed,2021-12-03 16:29:56+00:00,2024-03-29 19:09:23+00:00,[TR] Slight fix in achievement localization
+6399,closed,2021-12-03 11:51:45+00:00,2022-06-11 15:08:47+00:00,[KO Translation] cleanup of some details
+6398,closed,2021-12-03 03:24:14+00:00,2022-04-21 22:41:22+00:00,Configurable Power source
+6397,closed,2021-12-02 20:55:44+00:00,2021-12-02 21:48:57+00:00,add Call.copyText
+6395,closed,2021-12-02 13:14:39+00:00,2021-12-02 14:43:11+00:00,left-shift to take all items
+6392,closed,2021-11-30 09:52:06+00:00,2022-05-13 08:14:05+00:00,Update bundle_zh_CN.properties
+6391,closed,2021-11-30 08:25:25+00:00,2024-04-14 15:17:18+00:00,coloredName in lastAccessed
+6388,closed,2021-11-29 21:04:26+00:00,2021-11-30 08:08:54+00:00,GameOverMessage?
+6386,closed,2021-11-29 11:16:47+00:00,2021-11-29 14:46:38+00:00,Add filters only if necessary
+6384,closed,2021-11-27 08:21:19+00:00,2022-06-09 18:04:55+00:00,Update servers_v6.json
+6377,closed,2021-11-26 05:53:50+00:00,2022-06-30 16:11:32+00:00,Update bundle_th.properties
+6375,closed,2021-11-26 02:23:42+00:00,2021-11-26 06:45:29+00:00,switch to GFM markdown renderer for github pages
+6363,closed,2021-11-23 06:34:45+00:00,2021-11-23 12:53:26+00:00,delete my server
+6358,closed,2021-11-21 18:29:48+00:00,2022-06-09 17:51:39+00:00,unitRotationOffset
+6350,closed,2021-11-19 19:15:30+00:00,2022-04-28 16:22:16+00:00,Pull apart bullet code
+6346,closed,2021-11-17 06:04:47+00:00,2021-11-17 14:39:27+00:00,Fix little sprite details
+6345,closed,2021-11-17 02:54:09+00:00,2021-11-17 04:30:54+00:00,remove newline
+6342,closed,2021-11-15 18:59:49+00:00,2022-02-20 23:00:04+00:00,Weapon `cellRegion`
+6339,closed,2021-11-15 02:15:16+00:00,2021-11-15 02:25:32+00:00,Team-colored Control/Despawn Effects
+6327,closed,2021-11-11 03:42:30+00:00,2021-11-25 16:33:53+00:00,Fix some small annoyances in projector drawing
+6315,closed,2021-11-08 07:19:45+00:00,2022-05-04 00:11:14+00:00,unit/building specific targeting and collision for turrets and bullets
+6313,closed,2021-11-07 10:15:11+00:00,2024-03-28 10:40:15+00:00,Update bundle_et.properties
+6309,closed,2021-11-06 17:28:43+00:00,2022-03-20 08:52:03+00:00,Use Early Pull Request strategy for large changes
+6307,closed,2021-11-06 06:26:02+00:00,2021-11-06 15:34:43+00:00,Healing Buildings does not run `hit(b)`
+6301,closed,2021-11-04 12:39:11+00:00,2022-03-23 08:48:23+00:00,Add flarogus to the unit list
+6298,closed,2021-11-04 02:33:55+00:00,2021-11-04 02:37:51+00:00,Buff Liquid Source
+6293,closed,2021-11-03 09:32:01+00:00,2021-11-04 01:15:30+00:00,Enemy drop zone indicators
+6292,closed,2021-11-03 02:14:53+00:00,2021-11-03 13:42:04+00:00,Rotate block payload option
+6271,closed,2021-10-30 17:53:45+00:00,2024-03-29 19:13:11+00:00,Payload logic
+6266,closed,2021-10-30 08:50:21+00:00,2021-10-30 13:22:21+00:00,Armour damage reduction changes.
+6263,closed,2021-10-29 17:25:17+00:00,2024-03-28 11:53:07+00:00,Update bundle_cs.properties
+6262,closed,2021-10-29 16:03:42+00:00,2021-10-29 16:14:35+00:00,Cleanup
+6258,closed,2021-10-29 08:37:18+00:00,2022-04-20 15:00:50+00:00,Update bundle_cs.properties
+6253,closed,2021-10-28 20:21:25+00:00,2021-10-28 23:57:36+00:00,Fix CoreItemsDisplay alignment of last resource
+6251,closed,2021-10-28 17:27:55+00:00,2022-01-12 05:24:54+00:00,Make non-blocking WASD formations
+6242,closed,2021-10-27 19:01:50+00:00,2024-03-29 19:10:10+00:00,Update bundle_pt_BR.properties
+6231,closed,2021-10-25 10:15:44+00:00,2023-06-16 18:23:55+00:00,Update servers_v6.json
+6229,closed,2021-10-25 01:11:12+00:00,2021-10-28 17:15:28+00:00,Fixed wrong weapon outline height and code duplication
+6225,closed,2021-10-24 12:11:14+00:00,2022-02-02 05:53:17+00:00,[Need Help] Add hostname for discovery and connect
+6212,closed,2021-10-22 19:16:23+00:00,2021-10-22 19:17:20+00:00,Ukr translation
+6210,closed,2021-10-22 11:52:20+00:00,2022-05-13 11:53:05+00:00,Update bundle_es.properties
+6208,closed,2021-10-22 04:48:39+00:00,2021-10-22 12:56:54+00:00,Aatls -> atlas
+6204,closed,2021-10-21 16:14:11+00:00,2023-04-03 19:25:46+00:00,Fix unreachable messages in script console
+6199,closed,2021-10-20 18:17:30+00:00,2021-10-30 08:28:59+00:00,Allow payloads to not update via a variable
+6195,closed,2021-10-19 04:55:07+00:00,2021-10-22 23:57:43+00:00,Update bundle_zh_CN.properties
+6179,closed,2021-10-17 12:56:05+00:00,2022-10-02 13:11:23+00:00,bundle logic vartype
+6178,closed,2021-10-17 12:30:34+00:00,2021-10-25 00:54:14+00:00,Block classes are now responsible for flipping of blocks in schematics.
+6161,closed,2021-10-15 16:07:55+00:00,2022-06-09 18:29:18+00:00,Add new (probably useless) method
+6160,closed,2021-10-15 15:59:42+00:00,2021-10-15 16:02:46+00:00,Unit.type is nullable
+6153,closed,2021-10-14 18:11:19+00:00,2021-10-14 18:12:10+00:00,Made the Menus API less conflicting
+6146,closed,2021-10-13 13:39:12+00:00,2022-06-09 19:25:36+00:00,lowPriority and hardness on OreBlock
+6145,closed,2021-10-13 10:50:48+00:00,2021-10-13 16:21:10+00:00,Delete mindustry.pl from server list
+6139,closed,2021-10-11 13:34:45+00:00,2021-10-22 21:50:53+00:00,Update servers_v6.json
+6134,closed,2021-10-10 22:22:20+00:00,2021-10-13 16:12:21+00:00,`Drawf.build()` for `Shader.blockbuild`
+6133,closed,2021-10-10 19:26:57+00:00,2021-10-17 12:57:10+00:00,Percentile Damage for bullets
+6122,closed,2021-10-08 17:51:12+00:00,2021-10-09 17:14:57+00:00,Getter method for `items`
+6117,closed,2021-10-08 01:51:27+00:00,2021-11-10 03:02:08+00:00,Battery Power Bar
+6109,closed,2021-10-06 07:32:17+00:00,2021-10-07 04:44:15+00:00,Vela resprite
+6108,closed,2021-10-06 02:44:49+00:00,2022-06-09 17:50:47+00:00,Update bundle_in_ID.properties
+6106,closed,2021-10-06 00:14:16+00:00,2021-10-12 19:36:39+00:00,allow PointBulletType to have lightning
+6104,closed,2021-10-05 11:31:06+00:00,2021-10-06 03:05:38+00:00,Fixed negative recoil
+6101,closed,2021-10-04 19:48:33+00:00,2022-06-09 17:50:28+00:00,Liquid Drawing for non-`LiquidTurret`s
+6100,closed,2021-10-04 18:23:55+00:00,2021-10-06 03:05:53+00:00,Modded servers are not allowed
+6099,closed,2021-10-04 16:29:29+00:00,2021-10-06 16:11:52+00:00,Slight sorter change
+6095,closed,2021-10-03 20:29:45+00:00,2021-10-12 21:30:09+00:00,add omega new gamemode to v7 serverlist
+6086,closed,2021-10-01 12:12:14+00:00,2021-10-02 01:59:03+00:00,Update bundle_zh_CN.properties
+6075,closed,2021-09-29 15:45:25+00:00,2021-10-21 16:36:55+00:00,Map Search by author and descriptions
+6066,closed,2021-09-28 04:07:42+00:00,2021-09-28 12:40:54+00:00,get rid of unused variable.
+6065,closed,2021-09-28 03:43:38+00:00,2021-09-28 12:45:05+00:00,remove unneeded while loop
+6064,closed,2021-09-28 02:06:40+00:00,2021-09-30 02:45:03+00:00,Effect spawn delay
+6062,closed,2021-09-27 23:39:29+00:00,2021-10-21 02:50:46+00:00,setBlock -> setNet
+6060,closed,2021-09-27 21:00:06+00:00,2021-10-12 18:16:04+00:00,Make comments consistent
+6055,closed,2021-09-27 04:38:57+00:00,2021-09-27 16:14:32+00:00,STOP ASKING ME
+6053,closed,2021-09-26 19:44:13+00:00,2021-09-26 19:51:11+00:00,Minimap Labels setting
+6046,closed,2021-09-25 19:42:02+00:00,2021-10-27 20:52:51+00:00,Updated Indonesian Bundle V7
+6044,closed,2021-09-25 08:23:14+00:00,2021-09-25 12:50:53+00:00,Vela Rebalance
+6042,closed,2021-09-24 18:56:05+00:00,2021-10-12 21:31:10+00:00,Update servers_v7.json
+6041,closed,2021-09-24 09:35:37+00:00,2022-06-09 17:50:52+00:00,Update bundle_fil.properties
+6040,closed,2021-09-24 08:07:56+00:00,2022-10-02 13:11:30+00:00,Update servers_v7.json
+6029,closed,2021-09-20 15:16:37+00:00,2021-10-12 19:21:14+00:00,Layer editor
+6027,closed,2021-09-20 05:29:39+00:00,2022-07-05 22:43:24+00:00,Update servers_v7.json
+6021,closed,2021-09-18 22:12:26+00:00,2021-09-19 00:26:57+00:00,Friendly Fire
+6018,closed,2021-09-18 09:39:19+00:00,2021-09-27 13:30:14+00:00,"Antumbra's sprite change, it's time"
+6011,closed,2021-09-17 08:25:24+00:00,2021-09-17 08:25:59+00:00,Update bundle_es.properties
+6007,closed,2021-09-16 19:33:20+00:00,2023-08-03 16:30:34+00:00,Add some instrument sounds
+6003,closed,2021-09-15 11:40:59+00:00,2022-10-04 19:19:29+00:00,[RU] Translation of waves bundle
+6000,closed,2021-09-15 01:16:38+00:00,2021-09-16 02:32:33+00:00,Parentize most ability effects
+5994,closed,2021-09-14 10:42:11+00:00,2022-06-09 14:26:27+00:00,Server MagicDustry
+5993,closed,2021-09-14 08:13:31+00:00,2022-07-05 22:43:20+00:00,Continual improvement of bundle_zh_CN.properties
+5992,closed,2021-09-14 05:24:07+00:00,2021-09-14 14:02:46+00:00,Server MagicDustry
+5982,closed,2021-09-12 19:18:24+00:00,2021-09-14 05:25:16+00:00,Update servers_v6.json
+5977,closed,2021-09-11 18:39:08+00:00,2023-05-07 17:37:12+00:00,Wave UI 3: Electric Boogalee
+5976,closed,2021-09-11 18:36:33+00:00,2021-09-14 14:02:43+00:00,Update servers_v6.json
+5975,closed,2021-09-11 18:04:37+00:00,2021-09-12 00:58:56+00:00,Update servers_v6.json
+5970,closed,2021-09-11 00:04:13+00:00,2022-10-01 21:43:11+00:00,Put looping sounds into their own folder
+5963,closed,2021-09-09 00:35:53+00:00,2022-06-08 15:58:33+00:00,`hasTurbines` on `BurnerGenerator`
+5956,closed,2021-09-07 21:42:58+00:00,2021-09-07 21:48:28+00:00,Update required MinGameVersion for mods
+5951,closed,2021-09-07 00:49:59+00:00,2021-09-07 23:58:00+00:00,Trail color fixing or something
+5950,closed,2021-09-06 22:54:59+00:00,2021-09-07 17:33:49+00:00,"A PR just to make minor changes to sprites don't break anything, so in that case the check boxes wouldn't really matter"
+5942,closed,2021-09-05 17:38:06+00:00,2021-09-05 20:54:24+00:00,Even cleaner RTG-sprite
+5934,closed,2021-09-04 16:48:25+00:00,2021-09-04 17:02:49+00:00,Censoring swear words on multiplayers + PlayerSwearEvent
+5932,closed,2021-09-04 09:26:06+00:00,2021-09-12 15:07:37+00:00,Fix things that fade away while paused.
+5930,closed,2021-09-03 17:23:48+00:00,2021-09-07 16:49:06+00:00,Add hide all button for unit graphs
+5927,closed,2021-09-03 06:04:35+00:00,2021-09-04 14:13:40+00:00,TractorBeamTurret refactor
+5924,closed,2021-09-02 18:15:52+00:00,2021-10-31 04:04:31+00:00,Update servers_v7.json
+5921,closed,2021-09-02 08:51:33+00:00,2022-09-01 21:50:14+00:00,Better Item Selection UI
+5916,closed,2021-09-01 06:52:45+00:00,2021-09-01 12:55:01+00:00,Moved Rapid from N2 to N5 - Server Update
+5913,closed,2021-09-01 04:18:33+00:00,2021-09-04 14:17:38+00:00,update mindustry reborn ip
+5905,closed,2021-08-30 18:16:46+00:00,2021-09-04 22:07:21+00:00,Consistent effect time with liquid-only generators
+5903,closed,2021-08-30 12:23:12+00:00,2021-08-30 14:08:29+00:00,Combine MendProjector with OverdriveProjector
+5898,closed,2021-08-29 23:50:51+00:00,2021-09-07 17:06:13+00:00,Add a button to duplicate wave unit groups
+5897,closed,2021-08-29 19:43:10+00:00,2021-08-29 20:25:41+00:00,"Now, when changing a planet, the list of planets is updated."
+5891,closed,2021-08-29 07:40:01+00:00,2022-08-09 23:41:59+00:00,Update WaveSpawner.java - make ground units not spawn on deep water
+5888,closed,2021-08-28 19:04:26+00:00,2021-08-28 19:16:08+00:00,Make navals able to be wet by Liquid Turrets
+5886,closed,2021-08-28 10:29:17+00:00,2022-09-02 01:03:41+00:00,add 'allowBridging' for distributor and liquid tank
+5883,closed,2021-08-28 08:42:10+00:00,2021-10-12 22:04:45+00:00,Access to `canShoot` outside of `updateTile()`
+5880,closed,2021-08-27 16:40:03+00:00,2024-03-28 10:38:09+00:00,Update bundle_hu.properties
+5873,closed,2021-08-26 20:15:01+00:00,2021-08-26 20:23:34+00:00,Add item selection for drills
+5872,closed,2021-08-26 18:09:26+00:00,2021-08-26 19:06:50+00:00,Make Drills don't show ores when under solid blocks
+5870,closed,2021-08-26 16:01:17+00:00,2021-08-26 17:09:54+00:00,Bigger Schematic select limit by Shifting
+5866,closed,2021-08-25 19:35:45+00:00,2021-09-13 23:38:14+00:00,Update bundle_es.properties
+5865,closed,2021-08-25 18:51:47+00:00,2021-08-25 19:11:15+00:00,Spanish translation updated to Build 130.1
+5853,closed,2021-08-24 11:55:32+00:00,2021-08-25 14:09:23+00:00,Wave UI 2: Electric Boogaloo
+5852,closed,2021-08-24 11:40:43+00:00,2021-08-24 13:34:03+00:00,Unit's speed multiplier or Block's speed multiplier?
+5851,closed,2021-08-24 04:57:02+00:00,2021-08-24 16:45:35+00:00,No reason to show build cost of sandbox blocks
+5843,closed,2021-08-23 11:05:19+00:00,2021-08-23 14:03:37+00:00,Schematic Button in Menu
+5837,closed,2021-08-22 21:48:13+00:00,2021-08-23 16:06:41+00:00,Wave UI
+5825,closed,2021-08-21 13:37:12+00:00,2022-07-23 17:21:41+00:00,Update bundle_in_ID.properties
+5823,closed,2021-08-20 23:48:55+00:00,2021-08-26 23:11:06+00:00,Make a method public
+5815,closed,2021-08-20 02:31:10+00:00,2021-08-20 04:24:19+00:00,Consistent inside colors
+5814,closed,2021-08-20 00:49:21+00:00,2021-08-20 01:13:33+00:00,>=
+5811,closed,2021-08-19 18:58:14+00:00,2022-09-02 00:46:59+00:00,Allows logic to get floor types with getBlock
+5792,closed,2021-08-18 08:30:44+00:00,2021-08-21 10:42:39+00:00,Fixed Typo in bundle_in_ID
+5791,closed,2021-08-18 04:39:14+00:00,2021-10-06 02:21:22+00:00,Allow for dynamic absorption
+5785,closed,2021-08-16 17:32:45+00:00,2021-08-23 18:47:24+00:00,hovering block info
+5780,closed,2021-08-16 12:53:12+00:00,2021-08-17 21:06:32+00:00,Added the ability to use mod status effects in json / hjson mods(now …
+5776,closed,2021-08-16 03:15:15+00:00,2021-08-16 12:19:41+00:00,Added the ability to use mod status effects in json / hjson mods
+5771,closed,2021-08-15 15:11:23+00:00,2021-08-15 17:48:17+00:00,reuse <content.sector.name> for sector list
+5768,closed,2021-08-15 04:41:55+00:00,2021-08-15 06:03:22+00:00,Update bundle_zh_CN.properties
+5765,closed,2021-08-14 10:05:12+00:00,2021-08-14 13:34:35+00:00,added myself te the contributors
+5764,closed,2021-08-14 10:00:32+00:00,2021-09-10 15:52:10+00:00,More correct text
+5755,closed,2021-08-13 08:51:43+00:00,2022-08-11 12:33:09+00:00,Small RU translate and add me to contributors list
+5750,closed,2021-08-12 07:16:02+00:00,2021-10-10 18:12:33+00:00,Light Speed Panning
+5743,closed,2021-08-11 17:55:57+00:00,2021-08-12 06:34:19+00:00,derelict icon formatting
+5741,closed,2021-08-11 15:06:23+00:00,2021-08-12 10:10:27+00:00,Bring back CxZx
+5731,closed,2021-08-10 18:58:55+00:00,2021-08-13 05:46:16+00:00,Updated bundle_ko.properties
+5729,closed,2021-08-10 06:46:07+00:00,2021-08-10 14:16:37+00:00,universal battery amount formatting
+5726,closed,2021-08-09 15:45:11+00:00,2021-08-09 16:13:11+00:00,stone craters consistencies fix
+5724,closed,2021-08-09 13:40:38+00:00,2021-08-13 18:27:49+00:00,bundle tr update
+5723,closed,2021-08-09 12:37:25+00:00,2021-08-17 21:33:56+00:00,Update servers_v6.json
+5720,closed,2021-08-08 09:09:10+00:00,2021-08-13 18:28:02+00:00,update bundle tr
+5719,closed,2021-08-08 08:50:00+00:00,2021-08-14 19:20:54+00:00,Update bundle_tr.properties
+5718,closed,2021-08-08 07:53:15+00:00,2021-08-15 12:25:23+00:00,Updated TR Bundle to Build 21630
+5717,closed,2021-08-08 01:07:51+00:00,2021-08-09 18:20:04+00:00,MoveLightningAbility `offsetX`
+5712,closed,2021-08-07 15:53:57+00:00,2021-08-16 01:26:03+00:00,Update servers_v6.json
+5708,closed,2021-08-07 08:41:39+00:00,2021-08-12 05:14:57+00:00,Enemy Damage Multiplier
+5704,closed,2021-08-06 10:58:31+00:00,2021-08-06 13:39:34+00:00,Muddy water
+5690,closed,2021-08-03 13:51:38+00:00,2021-08-03 14:11:28+00:00,display sector description in stats dialog
+5689,closed,2021-08-03 11:47:28+00:00,2021-10-08 22:40:44+00:00,Fix a French translation
+5683,closed,2021-08-01 10:55:00+00:00,2021-08-08 07:50:42+00:00,Updated TR Bundle (Build 21618)
+5665,closed,2021-07-29 05:03:26+00:00,2021-07-29 13:18:25+00:00,Disposable container behavior for mods
+5661,closed,2021-07-28 16:31:32+00:00,2021-09-05 00:52:22+00:00,Update bundle_zh_CN.properties
+5660,closed,2021-07-28 15:43:41+00:00,2021-07-28 15:47:41+00:00,Fixed desync on servers
+5657,closed,2021-07-27 20:33:58+00:00,2022-06-14 14:38:53+00:00,Updated bundle_pl.properties
+5656,closed,2021-07-27 13:45:47+00:00,2021-07-28 10:42:49+00:00,Update bundle_zh_CN.properties
+5652,closed,2021-07-26 20:28:46+00:00,2021-08-06 14:02:54+00:00,Nuclear reactor heat
+5644,closed,2021-07-25 13:35:06+00:00,2022-06-25 15:38:44+00:00,Swedish translation improvements
+5641,closed,2021-07-24 23:39:24+00:00,2021-07-25 00:09:21+00:00,Why while loop
+5635,closed,2021-07-23 16:18:16+00:00,2021-07-28 16:07:32+00:00,Update bundle_zh_CN.properties
+5626,closed,2021-07-20 22:45:13+00:00,2021-07-22 16:43:44+00:00,Add the ability for draw() on status effects be able to access the effect's time
+5620,closed,2021-07-20 06:16:37+00:00,2022-04-16 08:49:30+00:00,[RU] Change duct-* translate
+5614,closed,2021-07-19 07:38:47+00:00,2021-07-19 07:41:25+00:00,Correct Lighting™ for Drills
+5612,closed,2021-07-19 03:47:26+00:00,2021-07-19 12:49:28+00:00,use hub
+5605,closed,2021-07-18 08:57:41+00:00,2022-10-04 19:59:31+00:00,[Translations/Filipino] Changes & additions
+5602,closed,2021-07-18 04:23:02+00:00,2021-07-18 15:14:15+00:00,Add settings hint
+5598,closed,2021-07-17 12:17:55+00:00,2021-07-17 12:56:23+00:00,Update Links.java
+5597,closed,2021-07-17 11:10:27+00:00,2021-07-17 12:56:10+00:00,Remove spaces
+5564,closed,2021-07-11 03:23:36+00:00,2021-07-12 16:36:55+00:00,Move slider values to the right of the slider
+5563,closed,2021-07-11 00:41:07+00:00,2021-07-13 14:42:12+00:00,Multi output crafter
+5556,closed,2021-07-09 09:06:36+00:00,2021-07-10 12:39:23+00:00,Add 3.5 .pl server to 7.0 serverlist
+5547,closed,2021-07-06 11:43:49+00:00,2021-07-06 12:48:11+00:00,Server crashes when a RuntimeException is unhandled in a server-side command
+5546,closed,2021-07-05 19:39:38+00:00,2021-07-05 19:51:54+00:00,"Compress PNGs, saving ~6.8MB"
+5544,closed,2021-07-05 12:39:37+00:00,2021-07-06 01:18:09+00:00,Remove deconstructThreshold
+5537,closed,2021-07-03 22:24:05+00:00,2021-10-12 22:39:09+00:00,Translation update on description
+5525,closed,2021-07-02 10:34:52+00:00,2021-08-01 10:50:13+00:00,Updated TR Bundle - same as commit: ec59cb602cfe980bf4697399218647e1e2e11baa
+5522,closed,2021-07-01 17:55:24+00:00,2021-07-04 03:51:59+00:00,Update servers_v6.json
+5520,closed,2021-07-01 13:01:10+00:00,2021-08-16 21:59:30+00:00,Spore Rebalance
+5517,closed,2021-06-30 15:54:34+00:00,2021-07-01 02:19:42+00:00,"merge whitelisted, whitelist-add, and whitelist-remove"
+5493,closed,2021-06-27 20:25:50+00:00,2021-06-28 06:06:50+00:00,thedimas v7 server
+5475,closed,2021-06-25 22:07:01+00:00,2021-06-26 14:22:31+00:00,Swap mode and mapname
+5460,closed,2021-06-25 09:03:48+00:00,2021-06-25 18:45:50+00:00,Add mindurka to v7 list
+5459,closed,2021-06-25 08:39:53+00:00,2021-06-25 13:22:19+00:00,V7 mod api limit
+5458,closed,2021-06-25 00:49:56+00:00,2021-09-22 10:27:22+00:00,Update bundle_es.properties
+5450,closed,2021-06-23 14:26:27+00:00,2021-06-23 14:49:03+00:00,json moment
+5442,closed,2021-06-21 15:33:53+00:00,2021-06-21 16:32:32+00:00,MELTdown
+5428,closed,2021-06-16 20:07:13+00:00,2021-06-17 05:41:03+00:00,Make Impact Reactor explosion effects not hardcoded
+5416,closed,2021-06-12 18:13:12+00:00,2021-06-17 09:06:17+00:00,Update bundle_ko.properties
+5409,closed,2021-06-10 12:53:01+00:00,2021-06-10 13:56:43+00:00,Revert servers moving
+5403,closed,2021-06-09 16:26:19+00:00,2021-06-09 17:05:11+00:00,[RU] Punctuation fix
+5402,closed,2021-06-09 02:03:18+00:00,2021-06-09 02:08:17+00:00,allow javascript access to all java mods
+5396,closed,2021-06-08 10:17:11+00:00,2021-06-17 08:31:33+00:00,[KO]line matching
+5391,closed,2021-06-07 09:04:20+00:00,2022-10-05 18:35:53+00:00,[RU] Translation of new V7 blocks
+5388,closed,2021-06-06 17:18:52+00:00,2021-10-10 18:04:27+00:00,Add RCR BE Server
+5387,closed,2021-06-06 17:15:26+00:00,2021-10-10 16:37:13+00:00,chat prefix/suffix prototype
+5382,closed,2021-06-06 16:15:44+00:00,2021-06-06 16:24:54+00:00,"segment is a turret, so is parallax"
+5363,closed,2021-06-05 02:21:17+00:00,2021-06-05 02:24:43+00:00,Update bundle_zh_TW.properties
+5355,closed,2021-06-04 14:28:37+00:00,2021-06-04 14:31:13+00:00,CatchUp
+5353,closed,2021-06-04 12:40:24+00:00,2021-06-26 09:15:37+00:00,Instruction address display
+5350,closed,2021-06-04 07:43:11+00:00,2022-06-08 15:28:31+00:00,7.0 in zh-cn
+5346,closed,2021-06-04 00:32:12+00:00,2021-06-04 01:11:07+00:00,Cultivator buff v2
+5329,closed,2021-06-02 18:52:09+00:00,2021-06-02 18:55:05+00:00,Fix respawn loop
+5323,closed,2021-06-01 15:06:28+00:00,2021-06-02 15:12:45+00:00,Add server to global list
+5318,closed,2021-05-31 09:42:50+00:00,2021-06-01 06:18:53+00:00,Update servers_v6.json
+5314,closed,2021-05-30 08:40:04+00:00,2021-05-30 12:43:48+00:00,Fix BlockUnits saving to the wrong tile
+5311,closed,2021-05-29 21:14:46+00:00,2021-10-12 21:49:44+00:00,Small turret changes
+5309,closed,2021-05-29 15:23:33+00:00,2021-05-31 16:04:55+00:00,99.9% Culti
+5306,closed,2021-05-28 21:28:44+00:00,2021-05-28 22:28:25+00:00,FPS cap begone
+5302,closed,2021-05-27 13:50:38+00:00,2021-10-06 02:16:06+00:00,Day & Night Cycle Rule
+5298,closed,2021-05-26 21:53:51+00:00,2022-10-04 20:22:52+00:00,Shorten Mass Driver code by pulling some things from `Turret`
+5294,closed,2021-05-26 04:49:19+00:00,2021-07-20 21:39:49+00:00,Fuel Based Silicon Crucible
+5287,closed,2021-05-24 04:38:30+00:00,2023-06-16 18:24:41+00:00,VI translation fixes and making sense of names
+5280,closed,2021-05-21 19:35:37+00:00,2021-06-07 14:48:41+00:00,Remote Menu with callback via MenuOptionChooseEvent
+5279,closed,2021-05-20 17:47:48+00:00,2021-05-24 08:30:28+00:00,Delete RCR server
+5278,closed,2021-05-20 16:54:52+00:00,2021-05-20 17:04:38+00:00,`BasePowerDraw` is unused.
+5276,closed,2021-05-20 06:34:25+00:00,2021-06-26 11:44:05+00:00,Votekick translation (ru)
+5266,closed,2021-05-18 03:22:14+00:00,2021-06-07 07:15:38+00:00,Add: Malay(Malaysia) Translation
+5264,closed,2021-05-17 18:14:40+00:00,2021-05-17 18:15:38+00:00,Smelter flame size multiplier
+5262,closed,2021-05-17 18:02:25+00:00,2021-05-17 18:08:55+00:00,Directional bullet trail
+5261,closed,2021-05-17 17:57:59+00:00,2021-05-17 18:05:39+00:00,Bullet Draw Layer
+5248,closed,2021-05-15 17:44:35+00:00,2021-05-15 18:29:02+00:00,Kot milk meo w patch 1
+5246,closed,2021-05-15 08:37:13+00:00,2021-05-15 08:40:31+00:00,Update bundle_in_ID.properties
+5245,closed,2021-05-15 07:12:11+00:00,2021-05-17 04:58:08+00:00,Update servers_v6.json
+5236,closed,2021-05-12 20:42:01+00:00,2022-04-05 14:41:46+00:00,Mayor bundle work (Remaster) [bundle_es.properties]
+5235,closed,2021-05-11 18:21:05+00:00,2021-05-12 02:32:17+00:00,Revise and Update bundle_es.properties
+5232,closed,2021-05-11 02:04:40+00:00,2021-07-20 13:07:06+00:00,`fragChance`
+5229,closed,2021-05-10 14:11:42+00:00,2021-05-10 14:35:24+00:00,Smoother boundaries between light sources
+5227,closed,2021-05-09 14:28:57+00:00,2021-06-03 22:22:46+00:00,Power node update time
+5226,closed,2021-05-09 09:27:10+00:00,2021-06-09 08:00:27+00:00,Revise part of translation
+5225,closed,2021-05-09 07:52:30+00:00,2021-05-26 10:34:05+00:00,Fix typo
+5224,closed,2021-05-08 23:50:09+00:00,2021-07-20 15:42:29+00:00,Sector import statistics
+5220,closed,2021-05-07 19:00:19+00:00,2021-07-20 21:54:50+00:00,Accurate Lancers
+5210,closed,2021-05-06 20:11:42+00:00,2021-06-03 22:05:21+00:00,Logic sensor for unit item/payload timer
+5208,closed,2021-05-06 17:49:50+00:00,2021-05-06 18:29:33+00:00,Launchpad progress bar
+5197,closed,2021-05-04 18:26:08+00:00,2021-05-04 22:28:29+00:00,Move bullet reflecting to `bulletType` so that you can run stuff on reflect.
+5196,closed,2021-05-04 07:14:58+00:00,2021-05-04 13:11:07+00:00,"`ammoMultiplier` does nothing for `PowerTurret`s, so don't display it."
+5194,closed,2021-05-04 05:32:10+00:00,2021-10-12 21:41:23+00:00,[Translation] Bangla
+5189,closed,2021-05-03 17:18:50+00:00,2021-05-03 17:28:41+00:00,Create CODE_OF_CONDUCT.md
+5188,closed,2021-05-03 17:06:37+00:00,2021-10-08 22:40:23+00:00,Update Contributors
+5186,closed,2021-05-03 09:22:33+00:00,2021-05-03 12:36:07+00:00,Fix a ui bug on desktop
+5181,closed,2021-05-02 14:05:31+00:00,2021-05-02 14:24:20+00:00,more servers
+5179,closed,2021-05-02 07:30:58+00:00,2021-05-04 05:31:18+00:00,Add Bangla
+5178,closed,2021-05-01 21:36:43+00:00,2021-05-01 23:48:39+00:00,Better Item Consuption Display
+5174,closed,2021-04-30 06:59:21+00:00,2021-04-30 13:29:09+00:00,Fixes js mods crashing with java 16
+5170,closed,2021-04-30 05:48:41+00:00,2021-04-30 13:30:25+00:00,Capability of adding new asynchronous process
+5161,closed,2021-04-27 20:28:23+00:00,2021-04-27 20:39:17+00:00,Show quit confirm on exit
+5153,closed,2021-04-25 05:15:49+00:00,2021-06-05 00:49:21+00:00,Update TW translations
+5145,closed,2021-04-22 22:47:53+00:00,2021-04-22 22:53:08+00:00,Remove force projector damage resistance
+5143,closed,2021-04-22 19:03:41+00:00,2021-10-12 21:43:00+00:00,Create bundles_el.properties
+5141,closed,2021-04-22 17:20:52+00:00,2021-04-22 17:42:13+00:00,Block Fire Damage Variable
+5132,closed,2021-04-20 18:15:35+00:00,2021-05-04 23:04:30+00:00,Merge Shooting Functions to Use Multiple at Once
+5121,closed,2021-04-17 17:46:17+00:00,2021-10-12 21:29:33+00:00,Update bundle_ru.properties
+5120,closed,2021-04-17 17:35:47+00:00,2021-05-22 21:34:05+00:00,Make MenuRenderer units use Vars.content rather than hardcoded values
+5115,closed,2021-04-16 13:21:42+00:00,2021-04-16 13:29:27+00:00,Make some limits public.
+5105,closed,2021-04-13 13:29:01+00:00,2022-06-09 14:29:57+00:00,Update bundle_vi.properties
+5104,closed,2021-04-13 10:08:18+00:00,2021-07-20 21:38:47+00:00,Delete both EasyPlay and Mindurka due to conflicts
+5103,closed,2021-04-13 09:12:00+00:00,2021-04-13 23:09:46+00:00,multi-press shading fix
+5102,closed,2021-04-13 03:01:43+00:00,2023-02-09 09:54:59+00:00,[Net] Add support for ipForward
+5088,closed,2021-04-09 23:41:35+00:00,2021-04-10 00:22:10+00:00,Cultivator adjustments (buff)
+5086,closed,2021-04-09 12:49:12+00:00,2021-04-10 00:22:00+00:00,Increase Surge Swarmer Ammo Multipler
+5082,closed,2021-04-08 12:21:56+00:00,2021-04-08 14:06:59+00:00,Boss locator with spore color
+5075,closed,2021-04-07 12:31:37+00:00,2021-04-07 14:32:56+00:00,Domain name change
+5073,closed,2021-04-06 23:59:27+00:00,2021-10-12 21:40:57+00:00,Moved to fastAA binary
+5068,closed,2021-04-06 16:08:02+00:00,2021-09-08 16:07:07+00:00,Allow for block inventory as well as config
+5062,closed,2021-04-05 18:23:23+00:00,2021-04-07 14:28:03+00:00,Reduce fire particle count
+5061,closed,2021-04-05 14:27:18+00:00,2021-07-20 14:59:57+00:00,do not delete the template
+5060,closed,2021-04-05 10:01:58+00:00,2021-06-03 18:45:51+00:00,Big unit light radius
+5059,closed,2021-04-05 09:50:14+00:00,2021-04-05 10:21:58+00:00,Fluid networks
+5057,closed,2021-04-05 00:38:41+00:00,2022-11-13 06:25:43+00:00,Steam zh-cn update for 6.0 content
+5056,closed,2021-04-04 06:36:18+00:00,2022-10-04 20:00:08+00:00,steam zh_CN update
+5055,closed,2021-04-04 05:05:22+00:00,2021-06-28 14:50:14+00:00,Killable Wrecks
+5052,closed,2021-04-03 13:52:27+00:00,2021-07-20 15:00:58+00:00,Remove MinDurka from the global list
+5050,closed,2021-04-03 05:53:29+00:00,2021-07-20 18:12:54+00:00,Bullets shouldn't home on what they've already collided with.
+5049,closed,2021-04-03 00:31:49+00:00,2021-04-03 05:00:48+00:00,Add Kotlin Support
+5046,closed,2021-04-02 06:39:34+00:00,2021-04-02 13:29:53+00:00,Add core items on mobile
+5043,closed,2021-04-01 19:13:31+00:00,2021-04-04 18:26:46+00:00,Add RoomServers to the server list
+5041,closed,2021-04-01 09:51:05+00:00,2021-06-29 09:48:43+00:00,Can do Schematics select Edit such kind of operation after dead or while using unit can't build.
+5040,closed,2021-04-01 04:19:22+00:00,2021-09-07 20:40:39+00:00,Update bundle_zh_CN.properties
+5038,closed,2021-03-31 23:04:02+00:00,2021-04-07 01:31:06+00:00,Time > Seconds
+5036,closed,2021-03-31 15:25:06+00:00,2021-06-04 01:39:43+00:00,🌸
+5032,closed,2021-03-31 07:54:48+00:00,2022-06-08 15:40:39+00:00,Improved Simplified Chinese translation (zh-CN)
+5026,closed,2021-03-30 10:33:21+00:00,2022-06-08 15:26:41+00:00,update zh-CN for editor filters
+5023,closed,2021-03-30 07:12:39+00:00,2021-03-30 07:13:04+00:00,add oct shield health
+5016,closed,2021-03-29 00:30:38+00:00,2021-05-12 20:38:32+00:00,Mayor bundle work [bundle_es.properties]
+5010,closed,2021-03-28 03:19:14+00:00,2022-07-05 22:43:53+00:00,More translations for zh-cn
+5009,closed,2021-03-28 01:28:23+00:00,2021-06-27 15:47:44+00:00,Add firstItemNeeded sensor
+5004,closed,2021-03-26 23:21:08+00:00,2021-03-26 23:22:17+00:00,Change io domain to new address.
+5001,closed,2021-03-26 09:15:07+00:00,2022-03-09 03:22:28+00:00,Update bundle_zh_CN.properties
+4998,closed,2021-03-26 04:25:14+00:00,2021-03-26 05:33:44+00:00,The case for an egg turret
+4995,closed,2021-03-25 18:48:32+00:00,2022-10-02 13:28:08+00:00,Customizable timescale per team?
+4991,closed,2021-03-25 14:35:11+00:00,2021-03-25 20:50:01+00:00,Make shield use the team color
+4989,closed,2021-03-25 02:17:54+00:00,2021-03-25 02:19:35+00:00,Make units not shoot when idle
+4980,closed,2021-03-23 15:20:12+00:00,2021-03-27 10:42:43+00:00,Update thedimas' hub ip
+4977,closed,2021-03-23 08:34:50+00:00,2021-03-26 13:17:48+00:00,Generate dialogue QoL
+4976,closed,2021-03-23 00:37:08+00:00,2021-03-23 00:51:23+00:00,"Nerf block lighting, buff illuminator"
+4971,closed,2021-03-22 06:43:50+00:00,2021-04-10 15:08:36+00:00,"Split parts of `hit(b, x, y)` into separate methods"
+4967,closed,2021-03-20 11:28:43+00:00,2021-03-20 12:40:30+00:00,Remove darkdustry due to lack of moderation
+4964,closed,2021-03-19 16:49:46+00:00,2021-03-19 17:04:18+00:00,Fix bridges not connecting when clicked and dragged
+4962,closed,2021-03-19 11:00:24+00:00,2021-03-20 08:10:18+00:00,Added TSR Sandbox to serverlist
+4961,closed,2021-03-19 07:35:52+00:00,2021-03-23 15:15:37+00:00,Added some thedimas' servers
+4958,closed,2021-03-18 21:31:43+00:00,2021-03-18 21:35:51+00:00,Update servers_v6.json
+4957,closed,2021-03-18 20:16:02+00:00,2021-03-18 21:13:51+00:00,Update servers_v6.json
+4955,closed,2021-03-18 12:45:32+00:00,2021-03-18 13:06:31+00:00,Fix json weather parsing
+4951,closed,2021-03-17 23:59:54+00:00,2021-06-04 15:18:32+00:00,Power Source Power Generation Stat
+4947,closed,2021-03-17 14:14:56+00:00,2021-06-03 23:13:39+00:00,Add inverse trig functions to logic
+4945,closed,2021-03-17 01:52:02+00:00,2021-03-17 02:01:36+00:00,Swap map name and mode params in the host command.
+4943,closed,2021-03-16 21:29:01+00:00,2021-03-16 21:40:13+00:00,Remove mindustry.ru from global list
+4941,closed,2021-03-16 10:21:46+00:00,2022-06-08 15:40:06+00:00,Update servers_v6.json
+4940,closed,2021-03-16 10:05:13+00:00,2021-03-16 10:24:49+00:00,Update servers_v6.json
+4938,closed,2021-03-15 22:12:05+00:00,2021-03-15 23:02:31+00:00,chargeMoveFract
+4937,closed,2021-03-15 08:52:18+00:00,2021-10-08 22:39:50+00:00,Remove MindustryPlay
+4931,closed,2021-03-13 07:31:13+00:00,2021-06-04 15:15:37+00:00,Leg mass for spider units.
+4928,closed,2021-03-12 19:06:18+00:00,2022-02-02 21:46:04+00:00,Support for continuous laser weapons with more than 1 beam
+4925,closed,2021-03-12 09:25:15+00:00,2021-10-06 02:06:47+00:00,setting zoom key for editor
+4923,closed,2021-03-11 18:38:43+00:00,2021-03-11 19:24:40+00:00,Plastanium Conveyor Can Absorb Lasers
+4921,closed,2021-03-11 11:45:47+00:00,2021-08-06 23:40:45+00:00,Rally point knockback prototype
+4917,closed,2021-03-10 15:29:57+00:00,2021-03-11 03:22:34+00:00,Update servers_v6.json | Pls add me new server to the community server list!
+4915,closed,2021-03-10 10:08:31+00:00,2022-06-09 02:58:32+00:00,Desktop: Boost toggle setting
+4914,closed,2021-03-10 06:02:44+00:00,2021-03-10 12:55:49+00:00,Can my servers be put in community list pls?
+4912,closed,2021-03-10 02:24:03+00:00,2021-07-20 21:59:57+00:00,buff shale
+4909,closed,2021-03-09 19:24:15+00:00,2021-08-18 21:04:08+00:00,event for UnitSpawnAbility creating a unit
+4895,closed,2021-03-08 05:43:42+00:00,2021-03-08 13:48:20+00:00,Delete
+4886,closed,2021-03-07 08:28:31+00:00,2021-07-20 17:59:27+00:00,Display frag bullet stats
+4880,closed,2021-03-06 19:23:18+00:00,2021-06-04 15:23:33+00:00,MassDriverBolt shouldn't collide with ground
+4876,closed,2021-03-06 14:57:54+00:00,2021-03-06 15:41:07+00:00,fix #4875
+4874,closed,2021-03-06 13:02:07+00:00,2021-07-20 14:45:26+00:00,light block placement
+4871,closed,2021-03-06 04:05:41+00:00,2021-07-30 07:10:02+00:00,Update zh-CN
+4865,closed,2021-03-05 22:40:25+00:00,2021-03-05 22:50:03+00:00,deleting of rally point assets
+4864,closed,2021-03-05 22:01:13+00:00,2021-03-14 11:39:10+00:00,Re-Sprite For All Metal Floors
+4863,closed,2021-03-05 18:52:29+00:00,2021-03-05 19:02:15+00:00,it's not fair...
+4861,closed,2021-03-05 18:20:10+00:00,2021-03-05 19:27:34+00:00,Resprite large launchpad in the same style as small
+4859,closed,2021-03-05 16:56:49+00:00,2021-03-05 17:01:55+00:00,Add a server config option
+4850,closed,2021-03-04 07:02:00+00:00,2021-05-27 04:39:25+00:00,Knockback Integration with Splash Damage
+4849,closed,2021-03-04 02:52:39+00:00,2021-03-04 14:32:11+00:00,Disable unitLand Effect For Metal Floors
+4843,closed,2021-03-03 08:08:26+00:00,2021-03-10 21:40:38+00:00,PowerTurret shootType stats
+4842,closed,2021-03-02 16:48:55+00:00,2021-03-02 17:20:03+00:00,"Build and test gradle in parallel, uses multiple cores so it goes significantly faster"
+4839,closed,2021-03-02 09:48:04+00:00,2021-06-04 15:27:01+00:00,"Payload units spawn units on crash, but the spawned units will have reduced health."
+4836,closed,2021-03-02 01:47:09+00:00,2021-03-02 14:26:21+00:00,Processors should have priority
+4835,closed,2021-03-02 00:09:33+00:00,2021-03-08 18:38:14+00:00,Update servers_v6.json
+4823,closed,2021-03-01 04:44:05+00:00,2021-05-27 04:39:29+00:00,Block Ammo Multiplier
+4822,closed,2021-03-01 01:35:27+00:00,2021-03-05 15:18:25+00:00,Update servers_v6.json
+4821,closed,2021-02-28 23:19:29+00:00,2021-09-09 18:16:43+00:00,Boosted Range Visuals
+4820,closed,2021-02-28 21:25:19+00:00,2022-06-08 15:26:27+00:00,Color power lasers depending on battery drain
+4814,closed,2021-02-28 00:23:26+00:00,2021-02-28 19:49:51+00:00,Make other things use modulo
+4808,closed,2021-02-27 14:01:38+00:00,2021-02-27 14:43:11+00:00,Avoid drawing potential links for contacting blocks
+4804,closed,2021-02-27 04:22:34+00:00,2021-03-01 17:11:46+00:00,Change to overdrive sprite to help color blind people
+4799,closed,2021-02-26 16:21:57+00:00,2021-10-06 02:08:05+00:00,Update servers_v6.json
+4787,closed,2021-02-25 08:54:27+00:00,2021-10-10 18:11:44+00:00,Make unit weapon recoil work similarly to heat
+4782,closed,2021-02-24 20:30:54+00:00,2021-06-04 15:19:27+00:00,Fix Loadout Issue
+4777,closed,2021-02-24 19:10:52+00:00,2021-02-24 19:57:25+00:00,Make `BuildPlan.placeable` ignore rotation
+4771,closed,2021-02-23 22:36:48+00:00,2021-02-23 23:52:01+00:00,fix up some pump things
+4769,closed,2021-02-23 20:06:22+00:00,2021-02-24 14:53:05+00:00,Don't heal target's that don't need healing.
+4767,closed,2021-02-23 16:58:00+00:00,2021-02-23 17:54:46+00:00,Add Power Laser Build
+4763,closed,2021-02-23 09:12:40+00:00,2021-07-20 22:00:36+00:00,Add IPv6 of routerchain
+4758,closed,2021-02-23 01:51:55+00:00,2021-04-07 13:26:38+00:00,Update servers_v6.json
+4754,closed,2021-02-22 07:07:38+00:00,2021-03-05 16:12:48+00:00,Prevent tick-perfect factory chains from halting impact reactors
+4749,closed,2021-02-21 06:32:17+00:00,2021-02-21 08:33:39+00:00,rcr.ru
+4745,closed,2021-02-20 13:09:43+00:00,2021-03-06 04:05:48+00:00,update zh-CN up to 158e23b
+4741,closed,2021-02-20 05:42:30+00:00,2021-02-23 14:51:44+00:00,Units should not be able to shoot when reloadMultiplier = 0
+4730,closed,2021-02-19 03:22:16+00:00,2021-02-19 12:01:36+00:00,unit capacity typo
+4728,closed,2021-02-18 21:08:22+00:00,2021-03-12 17:18:20+00:00,Added servers to list
+4723,closed,2021-02-18 10:43:52+00:00,2021-02-18 18:12:43+00:00,Make content parser's parsers public
+4698,closed,2021-02-16 15:23:11+00:00,2021-02-16 16:14:06+00:00,Fix a typo
+4691,closed,2021-02-16 01:19:23+00:00,2021-02-23 19:14:21+00:00,send mindustry to brazil is back
+4675,closed,2021-02-14 12:17:40+00:00,2021-02-14 12:21:34+00:00,Adding a Unlisted Server on ALEX
+4674,closed,2021-02-14 10:43:31+00:00,2021-02-14 13:53:02+00:00,ClassEntry[] -> Seq<ClassEntry>
+4673,closed,2021-02-14 10:00:04+00:00,2021-02-15 18:15:20+00:00,Add server list
+4668,closed,2021-02-13 15:21:20+00:00,2021-02-15 15:48:12+00:00,Update servers_v6.json
+4663,closed,2021-02-12 12:53:44+00:00,2021-07-20 14:37:46+00:00,change light color config to 0-255
+4661,closed,2021-02-12 12:23:01+00:00,2022-07-05 22:44:16+00:00,Update bundle_vi.properties
+4652,closed,2021-02-10 20:21:21+00:00,2021-02-10 20:25:05+00:00,fix brackets
+4648,closed,2021-02-10 12:28:49+00:00,2021-02-10 18:35:41+00:00,add heat&broken sensor for force projector
+4647,closed,2021-02-10 08:40:25+00:00,2021-03-05 16:25:34+00:00,friendly attacker range
+4637,closed,2021-02-08 22:42:32+00:00,2021-07-20 21:37:27+00:00,60 * 60 > Time.toMinutes 2: Electric Boogaloo
+4636,closed,2021-02-08 22:26:15+00:00,2021-02-09 15:35:06+00:00,Delete bundle_pt_BR.properties
+4635,closed,2021-02-08 21:26:34+00:00,2022-10-04 20:01:13+00:00,Update bundle_be.properties
+4629,closed,2021-02-08 16:15:04+00:00,2021-02-08 16:18:17+00:00,Fix null == 0
+4626,closed,2021-02-08 10:31:08+00:00,2021-02-08 15:34:01+00:00,Update servers_v6.json
+4622,closed,2021-02-08 05:52:32+00:00,2021-02-08 06:27:30+00:00,Use Jsdelivr for serverJson
+4610,closed,2021-02-07 09:02:07+00:00,2021-02-08 15:44:18+00:00,Update servers_v6.json
+4606,closed,2021-02-06 18:09:13+00:00,2021-02-19 23:36:45+00:00,Update
+4603,closed,2021-02-06 13:04:14+00:00,2021-02-06 19:22:14+00:00,Update servers_v6.json
+4595,closed,2021-02-05 16:30:48+00:00,2021-02-08 16:12:20+00:00,Update servers_v6.json
+4594,closed,2021-02-05 11:10:00+00:00,2021-02-06 19:29:16+00:00,Update servers_v6.json
+4590,closed,2021-02-04 21:32:36+00:00,2021-02-24 15:39:02+00:00,Team Light For Core And Units
+4583,closed,2021-02-04 04:24:38+00:00,2021-02-04 06:06:10+00:00,Draw Top on BlockForge
+4502,closed,2021-02-02 19:33:20+00:00,2023-06-16 18:23:24+00:00,Show schematic description in schematic info
+4494,closed,2021-02-01 14:14:16+00:00,2021-02-01 14:25:37+00:00,Add file uodate_api.json for updating
+4488,closed,2021-02-01 01:47:59+00:00,2021-02-01 02:13:20+00:00,Fixing some grammar on bundle_in_ID.properties
+4487,closed,2021-02-01 00:28:13+00:00,2021-02-01 00:43:30+00:00,Allow negative drag to accelerate objects.
+4485,closed,2021-01-31 21:47:00+00:00,2021-02-01 00:17:30+00:00,Make drag calculation no longer clamped
+4480,closed,2021-01-31 11:01:49+00:00,2021-02-10 02:27:54+00:00,make translate shorter etc.
+4479,closed,2021-01-31 10:49:40+00:00,2022-06-08 15:25:37+00:00,Set Frag Spread
+4478,closed,2021-01-31 07:00:37+00:00,2021-01-31 20:55:43+00:00,Stop buttons from wrapping when no players found
+4473,closed,2021-01-30 07:23:33+00:00,2021-01-30 13:48:48+00:00,Change a half of Bundles_in_ID.properties
+4467,closed,2021-01-29 19:10:44+00:00,2021-10-12 21:28:27+00:00,Update bundle_hu.properties
+4458,closed,2021-01-28 10:22:50+00:00,2022-06-08 15:24:49+00:00,Updated lines 1-348
+4455,closed,2021-01-27 18:40:50+00:00,2021-01-27 20:18:51+00:00,Make the line consistent :^)
+4451,closed,2021-01-27 14:40:38+00:00,2021-01-27 16:52:21+00:00,Make revealedBlocks also affect breakability
+4444,closed,2021-01-26 18:36:35+00:00,2021-01-26 18:42:40+00:00,Allow Unloaders to Unload from Turrets
+4440,closed,2021-01-26 07:01:00+00:00,2021-07-20 14:57:07+00:00,change Shots/Second + no unit TO Firing Rate + per second
+4439,closed,2021-01-26 06:07:54+00:00,2021-07-20 14:37:07+00:00,Set locale when loading external bundle
+4438,closed,2021-01-26 00:24:36+00:00,2022-05-04 00:41:00+00:00,targetable() for Units
+4432,closed,2021-01-24 21:14:38+00:00,2021-01-26 00:19:55+00:00,Update of Pt-Br bundle
+4429,closed,2021-01-24 14:19:44+00:00,2021-10-06 02:04:55+00:00,Update bundle_vi.properties
+4428,closed,2021-01-24 14:17:20+00:00,2021-03-05 16:33:05+00:00,bundle_hu.properties
+4426,closed,2021-01-24 08:57:55+00:00,2022-06-08 15:41:22+00:00,update zh-cn translation
+4413,closed,2021-01-22 21:48:19+00:00,2021-06-16 19:14:10+00:00,"Fixed grama, typos and add some new Polish descriptions"
+4412,closed,2021-01-22 15:42:46+00:00,2021-02-10 18:54:42+00:00,Add controlling count to logic processors
+4400,closed,2021-01-21 14:50:56+00:00,2021-01-25 22:08:34+00:00,Replace logic to clipboard icon with export
+4394,closed,2021-01-21 05:12:55+00:00,2022-05-04 00:12:47+00:00,Fix typos/errors
+4389,closed,2021-01-20 23:46:43+00:00,2021-01-20 23:47:27+00:00,Td v6
+4388,closed,2021-01-20 20:05:52+00:00,2021-01-20 21:57:45+00:00,fix votekick button becoming unfocused 3x a second
+4386,closed,2021-01-20 13:02:22+00:00,2021-06-04 01:56:01+00:00,Better shock mine
+4384,closed,2021-01-20 10:07:14+00:00,2021-07-20 14:31:12+00:00,New team indication
+4383,closed,2021-01-20 08:02:38+00:00,2021-01-20 14:16:44+00:00,"fix ""exit confirmation when saved"""
+4379,closed,2021-01-19 15:34:37+00:00,2021-01-19 15:47:20+00:00,Make tests fail if any server json is invalid
+4365,closed,2021-01-18 10:06:22+00:00,2021-01-18 22:42:14+00:00,mass driver player transport
+4356,closed,2021-01-17 11:20:57+00:00,2021-01-23 22:57:54+00:00,update plastanium conveyor description to include unloading.
+4355,closed,2021-01-17 10:18:20+00:00,2021-01-19 22:21:58+00:00,Update bundle_fr.properties
+4353,closed,2021-01-17 01:42:33+00:00,2021-01-17 20:32:22+00:00,Team colored trails
+4346,closed,2021-01-16 15:25:13+00:00,2021-01-19 19:01:14+00:00,Fixes #4345
+4341,closed,2021-01-16 06:18:20+00:00,2021-05-18 14:14:48+00:00,Update getUsid: prefer use hostname
+4338,closed,2021-01-15 22:04:28+00:00,2021-01-17 20:38:40+00:00,Readme: Formatting
+4327,closed,2021-01-14 17:13:51+00:00,2021-01-14 17:38:25+00:00,plastanium - now colorblind friendly (was too similar to surge)
+4324,closed,2021-01-14 12:16:46+00:00,2021-01-19 15:29:13+00:00,makes unit pathfind in formation if they are too far away from the leader
+4322,closed,2021-01-14 02:45:30+00:00,2021-01-14 16:27:42+00:00,Improve Clear UI
+4315,closed,2021-01-12 15:12:33+00:00,2021-01-12 15:13:46+00:00,Updated editor.errorlegacy text
+4313,closed,2021-01-12 13:37:32+00:00,2021-01-19 20:15:38+00:00,Universium Server
+4308,closed,2021-01-11 08:26:46+00:00,2021-01-11 15:15:48+00:00,makes parallax be able to attack enemies with boosters while they are flying
+4298,closed,2021-01-10 14:39:34+00:00,2021-01-10 20:39:20+00:00,Core respawn priority fix
+4281,closed,2021-01-07 05:01:34+00:00,2021-01-07 20:01:15+00:00,POC: Point Defenses for Units
+4273,closed,2021-01-06 15:35:00+00:00,2022-03-10 21:26:07+00:00,allow player to transfer items with no items if in formation
+4271,closed,2021-01-05 23:58:49+00:00,2021-01-06 00:01:08+00:00,Make engine trails a variable.
+4269,closed,2021-01-05 22:34:04+00:00,2021-01-06 00:03:00+00:00,Update contributors
+4268,closed,2021-01-05 20:59:10+00:00,2021-01-19 15:16:26+00:00,Update bundle_pt_BR.properties
+4265,closed,2021-01-05 12:24:11+00:00,2021-01-05 12:25:27+00:00,Merge pull request #2 from Anuken/master
+4253,closed,2021-01-04 06:21:48+00:00,2021-01-05 12:12:20+00:00,add missing translation items for zh-CN
+4252,closed,2021-01-04 05:31:28+00:00,2022-06-11 08:44:00+00:00,revise zh-CN translation
+4250,closed,2021-01-03 20:10:53+00:00,2022-08-16 02:33:36+00:00,"Retranslated some things, updated descriptions, fixed most typos on bundle_es.properties"
+4247,closed,2021-01-03 18:05:10+00:00,2021-01-05 16:24:25+00:00,Make rotation via construction emit effect & sound
+4245,closed,2021-01-03 15:29:17+00:00,2022-06-08 15:25:17+00:00,Amendments prototype 
+4240,closed,2021-01-03 06:39:29+00:00,2021-01-19 20:18:45+00:00,Update bundle_fr.properties
+4231,closed,2021-01-02 15:12:25+00:00,2021-10-06 02:02:35+00:00,Changed some details about zh-cn bundle
+4227,closed,2021-01-02 04:49:43+00:00,2021-01-15 14:21:32+00:00,Improve Vietnamese Translation.
+4211,closed,2021-01-01 12:59:36+00:00,2021-01-01 16:37:07+00:00,Update Items.java
+4204,closed,2021-01-01 01:54:02+00:00,2021-01-01 02:54:56+00:00,"Logic: Remove ""turret1"" from uradar"
+4201,closed,2020-12-31 17:33:23+00:00,2020-12-31 21:29:55+00:00,Add large launch pad
+4200,closed,2020-12-31 16:53:01+00:00,2020-12-31 17:15:05+00:00,Launch Pad Fix
+4195,closed,2020-12-31 12:15:16+00:00,2021-01-02 17:58:39+00:00,Update servers_v6.json
+4188,closed,2020-12-30 17:58:32+00:00,2020-12-31 10:41:27+00:00,Update servers_v6.json
+4184,closed,2020-12-30 15:12:40+00:00,2021-01-19 22:16:23+00:00,Update bundle_zh_CN.properties
+4171,closed,2020-12-29 18:39:46+00:00,2021-01-19 22:38:57+00:00,Add a Build Progress Bar to Constructing Buildings
+4160,closed,2020-12-29 03:39:13+00:00,2021-01-19 21:04:30+00:00,outputSize stat for Block Forge
+4155,closed,2020-12-28 18:18:20+00:00,2020-12-28 18:18:26+00:00,update
+4150,closed,2020-12-28 09:47:51+00:00,2021-01-19 20:13:57+00:00,Force outgoing payloads to move in first
+4142,closed,2020-12-27 16:09:52+00:00,2021-06-25 17:03:59+00:00,locator 2: electric boogaloo
+4131,closed,2020-12-26 18:18:27+00:00,2021-01-19 11:33:01+00:00,Disable publichost on every startup
+4129,closed,2020-12-26 12:23:43+00:00,2020-12-30 22:16:47+00:00,payload info
+4106,closed,2020-12-24 14:10:58+00:00,2020-12-24 15:30:43+00:00,Reload Button
+4105,closed,2020-12-24 13:11:27+00:00,2020-12-24 15:49:48+00:00,unit leave formation if it is too far away / acceleration fix
+4099,closed,2020-12-24 09:22:51+00:00,2020-12-24 15:38:07+00:00,Update UnitTypes.java
+4097,closed,2020-12-23 22:43:08+00:00,2021-01-19 19:37:25+00:00,Build Range Circle
+4089,closed,2020-12-23 12:26:26+00:00,2021-01-05 12:56:43+00:00,Drills Textures Cleanup
+4072,closed,2020-12-22 08:43:39+00:00,2020-12-22 09:04:34+00:00,[Translate] zh-TW
+4068,closed,2020-12-21 22:08:40+00:00,2020-12-22 01:48:24+00:00,Thruster Fix
+4063,closed,2020-12-21 14:17:26+00:00,2020-12-22 21:28:09+00:00,Updates rotary & thermal pump liquid region sprites
+4048,closed,2020-12-19 21:14:28+00:00,2020-12-19 22:42:22+00:00,fix pt br translation
+4040,closed,2020-12-19 10:39:44+00:00,2020-12-29 22:41:39+00:00,bundle_hu.properties-Mr.S_20201209_1139
+4037,closed,2020-12-19 08:02:43+00:00,2020-12-29 22:41:36+00:00,bundle_hu.properties
+4028,closed,2020-12-18 13:15:12+00:00,2021-10-06 02:04:23+00:00,Logic processor hollographic label
+4024,closed,2020-12-18 07:13:45+00:00,2020-12-18 19:16:42+00:00,Temporary PR
+4023,closed,2020-12-18 02:14:38+00:00,2020-12-22 10:29:08+00:00,Update bundle_zh_TW.properties
+4012,closed,2020-12-17 09:34:39+00:00,2020-12-17 17:48:07+00:00,Bridge priority fix
+4007,closed,2020-12-16 18:57:11+00:00,2020-12-16 19:07:32+00:00,Update speed of junctions
+4001,closed,2020-12-16 11:53:37+00:00,2020-12-18 02:45:12+00:00,Update bundle_zh_TW.properties
+3999,closed,2020-12-16 03:26:42+00:00,2020-12-18 23:24:07+00:00,Add minty servers to the list
+3992,closed,2020-12-15 21:44:53+00:00,2021-01-18 23:24:49+00:00,new statements are put in center of screen
+3991,closed,2020-12-15 21:43:32+00:00,2020-12-15 22:20:12+00:00,allow controlling @this
+3985,closed,2020-12-15 11:51:48+00:00,2020-12-20 16:42:17+00:00,Add new server
+3982,closed,2020-12-15 05:34:36+00:00,2020-12-15 14:59:36+00:00,Update README.md
+3978,closed,2020-12-14 18:48:26+00:00,2020-12-15 19:10:02+00:00,More Visually Pleasing Parallax Sprite
+3974,closed,2020-12-14 08:49:24+00:00,2021-01-19 16:13:45+00:00,Ignore Control Weapons
+3971,closed,2020-12-14 01:52:29+00:00,2020-12-14 01:57:01+00:00,Add Alex Mindustry server to the list
+3962,closed,2020-12-13 13:11:22+00:00,2021-01-04 14:07:14+00:00,Added the servers of the HiveMind
+3959,closed,2020-12-13 10:27:06+00:00,2020-12-13 15:28:35+00:00,Moving wreak effect
+3955,closed,2020-12-13 09:31:45+00:00,2020-12-13 09:32:26+00:00,Update steam description for 6.0 update
+3948,closed,2020-12-12 19:41:25+00:00,2020-12-19 17:43:41+00:00,Improving bundle_hu.properties
+3939,closed,2020-12-12 12:48:13+00:00,2021-01-19 18:57:20+00:00,bring back block select timeout
+3931,closed,2020-12-12 02:38:38+00:00,2021-01-20 00:04:03+00:00,Better weaving
+3930,closed,2020-12-11 21:25:52+00:00,2020-12-12 04:55:09+00:00,Make velocity randomness calculated like with turrets
+3929,closed,2020-12-11 21:00:59+00:00,2020-12-14 04:47:17+00:00,copy-paste tool for map editor
+3928,closed,2020-12-11 19:56:04+00:00,2021-01-14 16:41:35+00:00,Add rotation limit to unit weapons
+3926,closed,2020-12-11 14:53:05+00:00,2021-01-19 15:21:57+00:00,Update bundle_pt_BR.properties
+3925,closed,2020-12-11 14:47:20+00:00,2020-12-11 15:33:32+00:00,add lmms projects to core/assets-raw/music
+3921,closed,2020-12-11 09:53:29+00:00,2020-12-11 11:07:29+00:00,Update contributors
+3920,closed,2020-12-11 07:29:14+00:00,2020-12-11 16:49:45+00:00,Tanks are able to replace conduits
+3910,closed,2020-12-10 18:18:05+00:00,2021-01-19 16:41:30+00:00,Respawning player won't respawn in a formation
+3906,closed,2020-12-10 15:29:01+00:00,2020-12-22 01:09:43+00:00,Unit Factory And Reconstructor Team Indicator
+3900,closed,2020-12-10 01:15:48+00:00,2020-12-10 01:18:47+00:00,Add moveTarget for Mobile
+3894,closed,2020-12-09 19:34:39+00:00,2020-12-10 07:01:21+00:00,Ore priority fix
+3889,closed,2020-12-09 17:38:49+00:00,2020-12-20 18:15:57+00:00,draw mined item for laser and blast drills
+3886,closed,2020-12-09 15:38:36+00:00,2020-12-11 16:22:15+00:00,Shadow For Item
+3885,closed,2020-12-09 14:27:29+00:00,2020-12-16 03:34:43+00:00,Update servers_v6.json
+3879,closed,2020-12-09 06:13:22+00:00,2021-01-19 22:10:01+00:00,Update bundle_es.properties
+3873,closed,2020-12-08 22:21:55+00:00,2020-12-08 22:44:51+00:00,Use decoration field for floors that aren't using them
+3866,closed,2020-12-08 16:15:08+00:00,2020-12-11 14:39:50+00:00,Add ALEX v6 servers to servers_v6.json
+3860,closed,2020-12-08 13:53:14+00:00,2020-12-08 15:10:35+00:00,Add ALEX v6 servers to servers_v6.json
+3859,closed,2020-12-08 13:18:08+00:00,2020-12-16 09:47:31+00:00,Update bundle_es.properties
+3858,closed,2020-12-08 12:23:59+00:00,2020-12-08 15:33:42+00:00,Add block region for the lighting rule
+3854,closed,2020-12-07 23:40:50+00:00,2021-01-19 22:34:41+00:00,Update bundle_de.properties
+3846,closed,2020-12-07 15:27:33+00:00,2021-01-18 23:30:01+00:00,display online admins draft
+3830,closed,2020-12-07 00:44:45+00:00,2020-12-07 16:13:31+00:00,Yea remember what happened to `range`?
+3828,closed,2020-12-06 22:33:11+00:00,2020-12-07 01:03:31+00:00,Add korea server again
+3806,closed,2020-12-05 19:06:46+00:00,2020-12-11 16:11:38+00:00,Floodlights
+3793,closed,2020-12-05 09:43:48+00:00,2020-12-06 20:40:25+00:00,Add new server's
+3789,closed,2020-12-05 07:16:21+00:00,2020-12-17 00:41:34+00:00,Custom emoji for Mod(javascript & java) support
+3787,closed,2020-12-05 03:15:35+00:00,2020-12-05 10:55:55+00:00,fastfixh
+3785,closed,2020-12-04 23:46:47+00:00,2020-12-04 23:53:02+00:00,Allow custom launch pods (Attempt 2)
+3781,closed,2020-12-04 22:14:55+00:00,2020-12-05 13:08:08+00:00,potentially catch strange server list errors
+3777,closed,2020-12-04 16:47:36+00:00,2020-12-04 22:25:52+00:00,Allow custom launch pods
+3776,closed,2020-12-04 16:29:44+00:00,2020-12-04 16:33:16+00:00,support <name>-pod (fallback to launch-pod)
+3772,closed,2020-12-04 11:17:56+00:00,2020-12-23 15:37:57+00:00,bundle_th.properties
+3767,closed,2020-12-04 09:08:08+00:00,2020-12-23 15:35:11+00:00,bundle_es.propties
+3764,closed,2020-12-04 05:21:10+00:00,2021-01-18 23:22:27+00:00,M a t h f . c u r v e ( )   s u p e r i o r
+3759,closed,2020-12-03 22:49:25+00:00,2020-12-04 00:30:42+00:00,Nerf water extractor (Not my idea)
+3755,closed,2020-12-03 20:45:30+00:00,2020-12-05 22:52:38+00:00,add some suggested mods
+3734,closed,2020-12-03 08:59:56+00:00,2020-12-07 20:52:42+00:00,Require graphite for making lancers (no longer includes arcs)
+3718,closed,2020-12-02 14:12:39+00:00,2020-12-02 18:07:15+00:00,Fixed #3589
+3716,closed,2020-12-02 12:42:48+00:00,2020-12-03 13:56:43+00:00,Update bundle_vi.properties
+3707,closed,2020-12-01 21:36:03+00:00,2021-01-19 18:38:45+00:00,Changes to water extractor requirements
+3686,closed,2020-12-01 13:02:02+00:00,2020-12-01 13:08:39+00:00,foreshadow rebalance
+3677,closed,2020-11-30 21:50:28+00:00,2020-12-09 07:02:25+00:00,Better team indicator for plastanium conveyor
+3667,closed,2020-11-30 17:30:46+00:00,2020-11-30 22:18:58+00:00,coloured item bubble
+3664,closed,2020-11-30 15:23:31+00:00,2021-01-20 13:00:46+00:00,shock mine improvements
+3653,closed,2020-11-29 17:43:13+00:00,2020-11-30 23:12:36+00:00,use JumpI for end
+3652,closed,2020-11-29 17:36:57+00:00,2020-12-01 16:40:32+00:00,Update bundle_es.properties
+3647,closed,2020-11-28 21:50:20+00:00,2021-01-19 15:22:03+00:00,bundle_pt_BR.properties
+3624,closed,2020-11-27 10:57:48+00:00,2021-01-20 17:28:16+00:00,Move Bullet Ability
+3613,closed,2020-11-26 14:20:47+00:00,2020-11-28 22:14:53+00:00,[style] Pattern Matching
+3610,closed,2020-11-26 09:54:00+00:00,2020-11-26 09:58:14+00:00,[Bundle][ES] Translation Update 
+3609,closed,2020-11-26 09:50:59+00:00,2021-01-19 20:40:18+00:00,Update bundle_zh_TW.properties
+3608,closed,2020-11-26 08:40:19+00:00,2020-11-26 14:19:57+00:00,EntityMapping.map(this.name)
+3577,closed,2020-11-25 07:06:58+00:00,2020-11-30 17:58:39+00:00,"unit movement properties - add velX, velY, hovering, flying, dead variables"
+3570,closed,2020-11-24 17:16:36+00:00,2021-01-19 16:38:13+00:00,Improve LightningType and trail parameters
+3566,closed,2020-11-24 13:56:56+00:00,2020-11-24 14:03:54+00:00,Make a fragBullet's owner the shooter directly
+3556,closed,2020-11-23 18:33:58+00:00,2020-12-04 13:39:49+00:00,Update contributors
+3553,closed,2020-11-23 17:44:46+00:00,2020-11-24 14:07:31+00:00,Update bundle_zh_CN.properties
+3552,closed,2020-11-23 17:39:44+00:00,2020-11-23 17:42:26+00:00,Update bundle_zh_CN.properties
+3551,closed,2020-11-23 16:48:11+00:00,2020-11-23 17:38:30+00:00,Added myself to the contributor list (Spanish translator)
+3549,closed,2020-11-23 15:58:58+00:00,2020-11-24 14:54:23+00:00,Update bundle_zh_CN.properties
+3539,closed,2020-11-23 07:01:28+00:00,2020-11-23 13:49:45+00:00,Increase instructions limit
+3531,closed,2020-11-22 16:31:45+00:00,2020-11-22 20:28:08+00:00,Mouse Control For Desktop
+3511,closed,2020-11-21 15:18:10+00:00,2020-11-30 17:58:07+00:00,New menu music
+3507,closed,2020-11-21 13:01:28+00:00,2020-12-01 00:09:42+00:00,Add remote call for world.endMapLoad
+3506,closed,2020-11-21 12:29:58+00:00,2020-11-22 22:00:12+00:00,v6 fuse sprite
+3504,closed,2020-11-21 09:49:37+00:00,2020-11-23 14:15:41+00:00,Prevent RhinoJS from having a stroke when you try to use `range()` on bullets
+3503,closed,2020-11-21 09:00:43+00:00,2020-11-21 22:04:04+00:00,Only command if there are units to command
+3491,closed,2020-11-20 14:01:41+00:00,2020-11-20 15:44:51+00:00,Slight buffing of walls
+3490,closed,2020-11-20 13:17:32+00:00,2020-11-30 23:09:28+00:00,edit bundle_ru overgrowth desc
+3486,closed,2020-11-20 11:02:18+00:00,2020-12-11 16:48:42+00:00,Create prefilled issue template prototype
+3485,closed,2020-11-20 10:46:09+00:00,2020-11-20 15:33:10+00:00,Remove two stray spaces
+3476,closed,2020-11-20 00:50:55+00:00,2020-11-20 00:56:57+00:00,testing PR failure on github actions
+3475,closed,2020-11-20 00:43:50+00:00,2021-01-19 16:58:14+00:00,Disable certain condition-based turning.
+3473,closed,2020-11-19 23:20:53+00:00,2020-11-30 23:20:47+00:00,show public ip when hosting in-game
+3469,closed,2020-11-19 18:40:24+00:00,2021-01-19 16:39:18+00:00,"add Fonts.addIcon, Fonts.setIcon"
+3463,closed,2020-11-19 16:35:19+00:00,2020-11-21 11:34:57+00:00,Finishing pt br translation
+3458,closed,2020-11-19 00:36:59+00:00,2020-11-19 00:49:33+00:00,Sort blocks in PlacementFragment
+3454,closed,2020-11-18 23:17:25+00:00,2020-11-18 23:28:23+00:00,fix #3453
+3448,closed,2020-11-18 15:48:05+00:00,2020-11-20 07:54:31+00:00,A few updates to the Spanish translation
+3433,closed,2020-11-17 11:21:52+00:00,2020-11-17 16:21:41+00:00,MenuRenderer Clean Up
+3419,closed,2020-11-16 11:52:01+00:00,2020-11-16 22:08:03+00:00,Separation Between Contributors And Translators
+3412,closed,2020-11-15 17:41:50+00:00,2020-11-15 20:29:43+00:00,say to press [c] when first toggling ui
+3408,closed,2020-11-15 13:32:38+00:00,2020-12-09 07:03:12+00:00,Better Team Indicator For Unit Factory
+3407,closed,2020-11-15 12:59:29+00:00,2020-11-15 14:40:53+00:00,potential bugfix
+3406,closed,2020-11-15 12:41:41+00:00,2020-11-15 15:37:24+00:00,sprite load mod support
+3397,closed,2020-11-14 21:02:44+00:00,2020-11-16 20:45:17+00:00,Enum for Editor Bindings
+3395,closed,2020-11-14 17:46:12+00:00,2020-11-14 17:57:37+00:00,Discord Banner Texture Cleanup
+3394,closed,2020-11-14 14:59:50+00:00,2020-11-14 17:57:28+00:00,Discord Button In Desktop Menu
+3386,closed,2020-11-13 23:33:17+00:00,2020-11-13 23:34:44+00:00,Added affinity for solar panels
+3384,closed,2020-11-13 22:26:27+00:00,2020-11-13 22:28:08+00:00,Lead and titanium bullets for duos and salvos
+3383,closed,2020-11-13 22:13:45+00:00,2020-11-13 22:15:48+00:00,Lets duo use lead. Also lets salvos use lead and titanium
+3371,closed,2020-11-12 18:26:04+00:00,2020-11-12 18:27:40+00:00,allow empty lines
+3367,closed,2020-11-12 16:43:12+00:00,2020-11-12 23:46:12+00:00,"add some boolean logic ops, tweak others"
+3361,closed,2020-11-12 08:37:47+00:00,2020-11-22 12:59:50+00:00,Vietnamese Transalation.
+3360,closed,2020-11-12 08:17:41+00:00,2020-11-18 00:31:46+00:00,Any unit builder
+3353,closed,2020-11-11 20:26:36+00:00,2020-11-11 21:38:18+00:00,mfw quad still has no sound
+3351,closed,2020-11-11 20:13:09+00:00,2020-11-11 21:38:51+00:00,allow binding to a Unit variable
+3343,closed,2020-11-11 17:15:20+00:00,2020-12-23 15:34:08+00:00,Complete translation and full italian bundle
+3339,closed,2020-11-11 15:36:29+00:00,2020-11-11 17:08:40+00:00,Complete translation and full italian bundle
+3326,closed,2020-11-10 10:02:23+00:00,2021-01-19 16:58:59+00:00,Update bundle_tr.properties
+3321,closed,2020-11-10 00:25:25+00:00,2020-12-09 23:38:22+00:00,Offset lightning spawn location in ability
+3316,closed,2020-11-09 19:45:37+00:00,2021-10-07 16:54:56+00:00,[settings] Discord RPC
+3301,closed,2020-11-09 00:49:03+00:00,2020-11-10 13:57:49+00:00,Add new logic categories
+3298,closed,2020-11-08 21:06:25+00:00,2020-11-08 22:49:21+00:00,Flying AI in the case that a unit has MoveLightningAbility but no weapons
+3292,closed,2020-11-08 13:41:05+00:00,2020-11-09 23:41:45+00:00,Addition of over/underflow chain warning to the main bundle
+3290,closed,2020-11-08 10:38:27+00:00,2020-11-08 15:26:01+00:00,Update of russian translation
+3289,closed,2020-11-07 17:36:27+00:00,2020-11-09 20:25:03+00:00,[load screen] Show Revision Version Number
+3288,closed,2020-11-07 16:34:13+00:00,2020-11-07 16:34:25+00:00,Update to 11010
+3281,closed,2020-11-07 01:24:25+00:00,2020-11-07 01:56:08+00:00,Building self-heal ability
+3280,closed,2020-11-06 23:37:51+00:00,2020-11-06 23:50:24+00:00,Update bundle_it.properties
+3279,closed,2020-11-06 21:19:16+00:00,2021-01-19 20:14:29+00:00,New server for 6.0.
+3278,closed,2020-11-06 20:42:01+00:00,2020-11-06 21:16:05+00:00,New server for 6.0.
+3276,closed,2020-11-06 17:40:56+00:00,2020-11-06 19:33:30+00:00,bundle_ar.properties
+3274,closed,2020-11-05 18:39:29+00:00,2020-11-05 19:02:18+00:00,Make Core units hidden
+3262,closed,2020-11-04 11:55:15+00:00,2020-11-30 23:08:58+00:00,Create bundle_vi.properties
+3261,closed,2020-11-04 01:01:47+00:00,2021-01-18 23:18:36+00:00,Merge shooting methods
+3253,closed,2020-11-03 12:18:38+00:00,2020-11-30 16:58:22+00:00,Create bundle_vi.properties
+3252,closed,2020-11-03 04:45:06+00:00,2020-11-09 01:54:21+00:00,Unit Deflect Bullet Ability
+3249,closed,2020-11-02 23:40:32+00:00,2020-11-09 01:53:41+00:00,Make Glass Frag Size = Other Frag Size
+3247,closed,2020-11-02 20:40:52+00:00,2020-11-06 08:36:51+00:00,"add LogicBuild LExecutor,Assembler#processor"
+3243,closed,2020-11-02 07:36:54+00:00,2021-02-28 20:57:10+00:00,Boosted Range Visuals
+3233,closed,2020-11-01 15:54:08+00:00,2020-11-05 14:07:30+00:00,New 6.0 server
+3227,closed,2020-11-01 12:48:22+00:00,2021-01-19 16:11:52+00:00,[scripts] Cleanup
+3221,closed,2020-11-01 07:46:53+00:00,2020-11-29 11:09:58+00:00,Merge ChargeTurret into Turret
+3219,closed,2020-11-01 05:33:29+00:00,2020-11-30 16:11:32+00:00,More Vietnamese language
+3214,closed,2020-10-31 19:20:05+00:00,2021-01-19 15:58:41+00:00,Visual Mass Driver Item Indicator
+3213,closed,2020-10-31 18:45:16+00:00,2021-01-22 17:05:37+00:00,"""Per Second"" Consumer Stat Display (Iteration 2)"
+3211,closed,2020-10-31 17:38:32+00:00,2020-10-31 18:48:00+00:00,[maps] Author: Anuke.
+3201,closed,2020-10-31 10:28:34+00:00,2020-10-31 13:06:20+00:00,bugFixing
+3194,closed,2020-10-30 20:05:53+00:00,2021-01-19 16:05:44+00:00,send mindustry to brazil
+3191,closed,2020-10-30 10:06:41+00:00,2020-10-31 16:01:32+00:00,Add shield bar to force projector
+3186,closed,2020-10-30 00:20:04+00:00,2020-11-01 12:45:07+00:00,keep ground() in Effect so older code is still valid
+3185,closed,2020-10-29 22:32:38+00:00,2020-10-30 14:10:05+00:00,New Logo
+3182,closed,2020-10-29 11:43:13+00:00,2021-01-19 20:30:28+00:00,Update servers.json
+3175,closed,2020-10-29 06:03:04+00:00,2021-01-08 21:18:41+00:00,Make Healing Missiles Home onto Healable Tiles
+3167,closed,2020-10-28 12:26:27+00:00,2020-11-30 16:10:46+00:00,how to translate viet (WIP)
+3151,closed,2020-10-27 14:55:29+00:00,2021-01-19 15:58:17+00:00,even more mod support
+3150,closed,2020-10-27 13:53:12+00:00,2020-10-27 14:06:05+00:00,Don't show map colors in RPC.
+3148,closed,2020-10-27 10:42:17+00:00,2020-11-02 22:56:43+00:00,Update bundle_tr.properties
+3146,closed,2020-10-27 09:14:16+00:00,2020-11-25 13:17:34+00:00,Adds Stat.none
+3143,closed,2020-10-27 02:02:22+00:00,2021-01-08 21:18:04+00:00,Allow Force Projectors to Repel Small Units
+3141,closed,2020-10-26 21:27:15+00:00,2020-10-26 22:11:55+00:00,Allow control of bigger routers
+3139,closed,2020-10-26 19:02:56+00:00,2020-10-30 14:35:33+00:00,click player icon to respawn
+3138,closed,2020-10-26 19:01:53+00:00,2020-10-26 19:06:02+00:00,[political] remove router control size check
+3130,closed,2020-10-26 14:16:09+00:00,2020-10-27 03:55:05+00:00,LegsUnit can play step sound if given one
+3127,closed,2020-10-26 07:18:57+00:00,2020-10-27 08:59:06+00:00,allowing customized info for mods
+3125,closed,2020-10-26 04:01:00+00:00,2020-10-26 14:07:47+00:00,Make bloom be accessible
+3121,closed,2020-10-26 00:55:23+00:00,2020-10-26 13:57:21+00:00,Sort Tile Affinities in Block Stats
+3119,closed,2020-10-26 00:10:46+00:00,2020-10-26 13:58:38+00:00,CamelCasing for Fx
+3104,closed,2020-10-25 00:08:35+00:00,2020-10-25 00:16:14+00:00,[Aesthetic] Turret idle turning
+3098,closed,2020-10-24 20:26:55+00:00,2020-10-24 20:49:48+00:00,Make the Back of Thorium Bullets Pink
+3094,closed,2020-10-24 17:42:13+00:00,2021-01-19 20:24:38+00:00,New bundle key: Block can't build.
+3088,closed,2020-10-24 13:07:18+00:00,2020-10-25 09:43:52+00:00,Better Team Indicator For Turrets
+3086,closed,2020-10-24 11:29:15+00:00,2020-11-03 22:21:18+00:00,cleanups
+3073,closed,2020-10-23 12:34:06+00:00,2020-11-30 16:11:12+00:00,Vietnamese language bundle (WIP)
+3072,closed,2020-10-23 08:50:41+00:00,2020-12-06 20:40:51+00:00,Add servers v6.0 from Mindustry.ru
+3063,closed,2020-10-22 11:48:29+00:00,2020-10-22 13:20:01+00:00,getBlock return if block is constructing
+3061,closed,2020-10-22 10:13:54+00:00,2020-10-23 13:49:15+00:00,Let logic find the closest block of a certain type (units)
+3056,closed,2020-10-22 00:09:28+00:00,2020-10-31 18:39:32+00:00,"""Per Second"" Consumer Stat Display"
+3043,closed,2020-10-20 11:09:50+00:00,2020-10-21 20:35:29+00:00,cleanup?
+3039,closed,2020-10-20 09:03:17+00:00,2020-10-23 08:42:18+00:00,Update server_v6.json
+3033,closed,2020-10-19 19:55:18+00:00,2020-10-20 18:15:48+00:00,Full Turkish Translation
+3027,closed,2020-10-19 12:09:22+00:00,2020-10-19 12:09:28+00:00,Testing
+3015,closed,2020-10-18 21:30:50+00:00,2020-10-23 13:51:22+00:00,Fix typo
+3011,closed,2020-10-18 18:19:05+00:00,2020-10-18 18:41:02+00:00,"add core unit upgrades to reconstructors, ignore factory"
+3004,closed,2020-10-18 02:18:31+00:00,2020-10-18 12:59:09+00:00,Add comments
+3000,closed,2020-10-17 17:31:23+00:00,2020-10-18 13:00:50+00:00,Gramatical bugfix
+2999,closed,2020-10-17 17:27:51+00:00,2020-10-17 18:18:28+00:00,Silicon Crucibles: floating = true;
+2989,closed,2020-10-17 09:40:07+00:00,2020-10-17 14:15:24+00:00,Update bundle_zh_CN.properties
+2983,closed,2020-10-16 20:20:19+00:00,2020-11-30 23:23:16+00:00,Fix some Translation and missing Translation
+2975,closed,2020-10-16 17:11:02+00:00,2020-10-16 18:02:52+00:00,Update Unit Locate instruction to access located building
+2971,closed,2020-10-16 01:49:04+00:00,2020-10-23 13:37:12+00:00,bundle updates for new functionality
+2964,closed,2020-10-15 16:11:54+00:00,2021-01-19 15:16:02+00:00,Update bundle_pt_BR.properties
+2961,closed,2020-10-15 13:19:28+00:00,2020-10-15 13:47:39+00:00,change map to minimap to clarify setting
+2958,closed,2020-10-15 06:17:19+00:00,2020-11-08 05:34:18+00:00,Sound changes
+2955,closed,2020-10-15 03:16:30+00:00,2020-10-17 05:51:43+00:00,Kinda Better Shadows
+2947,closed,2020-10-14 13:27:57+00:00,2020-10-17 09:04:56+00:00,"Update bundle_zh_CN.properties,纠正翻译"
+2946,closed,2020-10-14 12:31:07+00:00,2020-10-17 14:16:44+00:00,Update bundle_zh_CN.properties
+2943,closed,2020-10-14 11:24:19+00:00,2020-11-15 19:05:13+00:00,Team Indicator For Plastanium Conveyor
+2933,closed,2020-10-13 23:01:40+00:00,2021-02-22 17:10:37+00:00,[QoL] Auto-bridging over Obstructions
+2930,closed,2020-10-13 20:53:55+00:00,2020-10-14 10:04:44+00:00,Add New Covered Conveyor
+2923,closed,2020-10-12 15:13:59+00:00,2021-07-20 17:24:55+00:00,Add an option to make payload units carry units on spawn + AI
+2919,closed,2020-10-12 07:48:29+00:00,2020-10-12 08:44:34+00:00,Add bundle entry for dacite-boulder
+2918,closed,2020-10-12 05:54:35+00:00,2020-10-24 07:12:14+00:00,Update bundle_de.properties
+2907,closed,2020-10-11 13:25:40+00:00,2020-10-14 13:28:25+00:00,Updated zh-cn translations
+2900,closed,2020-10-10 21:17:41+00:00,2020-10-10 23:02:30+00:00,Smarter Launch Pads
+2898,closed,2020-10-10 18:56:39+00:00,2020-10-10 19:01:07+00:00,Crawler and Quad
+2889,closed,2020-10-09 18:19:09+00:00,2020-10-09 19:01:13+00:00,Update bundle.properties
+2881,closed,2020-10-09 08:03:45+00:00,2020-10-09 13:38:51+00:00,Fixes the * float int error in the space shader (merge to close all 5 issues automatically)
+2876,closed,2020-10-09 00:18:43+00:00,2020-10-09 13:43:59+00:00,Phase Fabric ammo for Spectre
+2868,closed,2020-10-08 13:59:02+00:00,2020-10-08 17:01:53+00:00,Making damageMultiplier applied
+2864,closed,2020-10-08 08:35:27+00:00,2020-10-23 15:42:32+00:00,Update zh_TW translations.
+2862,closed,2020-10-08 00:19:23+00:00,2020-10-23 13:32:03+00:00,Update bundle_es.properties
+2861,closed,2020-10-07 23:21:02+00:00,2020-10-17 17:40:26+00:00,Add BoostableBlock Parent Class
+2859,closed,2020-10-07 22:20:29+00:00,2020-10-18 22:46:47+00:00,Update version name from 5->6 in .travis.yml
+2854,closed,2020-10-07 07:16:37+00:00,2020-10-07 14:35:53+00:00,Update bundler launcher java
+2852,closed,2020-10-07 00:31:07+00:00,2020-10-13 00:02:13+00:00,Make the Core team color like the Discord Logo.
+2851,closed,2020-10-06 23:36:25+00:00,2020-10-06 23:36:51+00:00,Make Core team color brighten like the Discord logo.
+2848,closed,2020-10-06 04:26:39+00:00,2020-10-06 13:05:28+00:00,Create Iterating array using do-while loop
+2847,closed,2020-10-06 04:05:19+00:00,2020-10-06 23:31:37+00:00,Make the core top glow like the Discord server logo.
+2846,closed,2020-10-06 01:09:21+00:00,2021-01-19 23:48:14+00:00,Add help button to hosting for pause dialog menu
+2845,closed,2020-10-05 22:36:13+00:00,2020-10-06 16:02:00+00:00,A 2x2 repair point
+2844,closed,2020-10-05 21:22:27+00:00,2020-10-25 13:27:28+00:00,Added russian translation
+2836,closed,2020-10-05 03:34:08+00:00,2020-10-05 15:02:51+00:00,Phase Fabricator(T2 phase weaver)
+2829,closed,2020-10-04 11:20:47+00:00,2020-10-10 17:53:57+00:00,make HUD fields public
+2828,closed,2020-10-04 11:11:25+00:00,2020-11-22 21:55:13+00:00,tier 2 cryofluid mixer
+2819,closed,2020-10-03 15:38:53+00:00,2020-10-04 13:37:40+00:00,Simple fix for delayed weapons.
+2818,closed,2020-10-03 15:29:46+00:00,2020-10-03 16:32:33+00:00,Alternative Plastanium Polypress (idea from SnakkiZXZ)
+2816,closed,2020-10-03 14:50:00+00:00,2020-10-04 09:22:05+00:00,added indonesian translations
+2815,closed,2020-10-03 14:48:38+00:00,2021-01-19 16:56:11+00:00,Add a target indicator to turrets
+2813,closed,2020-10-03 14:02:16+00:00,2020-10-03 14:04:39+00:00,make bullet's backRegion default to clear
+2810,closed,2020-10-03 10:22:04+00:00,2020-10-03 13:59:43+00:00,make backRegion nullable
+2809,closed,2020-10-03 10:02:43+00:00,2020-10-03 13:47:23+00:00,add defence alias for defense category
+2808,closed,2020-10-03 04:46:20+00:00,2020-10-08 17:02:10+00:00,accepts payload according to conveyor's size
+2805,closed,2020-10-03 00:27:31+00:00,2020-10-03 00:28:34+00:00,yes
+2802,closed,2020-10-02 19:36:42+00:00,2020-10-02 20:35:43+00:00,New Slag production block: Magma Drill
+2800,closed,2020-10-02 10:09:36+00:00,2020-11-17 23:41:31+00:00,new factory: plastanium-polypress
+2796,closed,2020-10-02 04:55:52+00:00,2020-10-02 14:09:33+00:00,Block Replacements: Battery Version
+2792,closed,2020-10-01 18:58:57+00:00,2020-10-01 19:06:09+00:00,3x3 Router: Splitter
+2790,closed,2020-10-01 14:54:21+00:00,2020-10-01 17:15:17+00:00,Update AndroidLauncher.java
+2785,closed,2020-10-01 09:32:27+00:00,2020-10-01 13:18:53+00:00,Run newline script from #1508 again
+2784,closed,2020-10-01 09:14:19+00:00,2020-10-02 02:38:49+00:00,Tint tsunami pipes
+2782,closed,2020-10-01 07:51:46+00:00,2020-10-01 12:42:34+00:00,"v6, new turret: Brazier"
+2778,closed,2020-09-30 23:38:20+00:00,2020-09-30 23:56:59+00:00,"Added descriptions for the Tsunami, Parallax and Foreshadow turrets. Also renamed the ""Oct"" Unit to the octo unit"
+2777,closed,2020-09-30 23:00:40+00:00,2020-09-30 23:00:49+00:00,Update
+2776,closed,2020-09-30 22:22:58+00:00,2020-09-30 22:26:11+00:00,Update code to latest version
+2775,closed,2020-09-30 18:12:19+00:00,2020-10-23 13:26:56+00:00,Keybinds follow CONTRIBUTING
+2773,closed,2020-09-30 16:03:20+00:00,2020-10-12 20:22:32+00:00,Tile documentation
+2771,closed,2020-09-30 15:45:51+00:00,2020-09-30 15:57:22+00:00,Checks for JDK version 14
+2764,closed,2020-09-29 17:56:55+00:00,2020-09-29 18:13:58+00:00,control rotation block <0-3>
+2749,closed,2020-09-27 16:19:32+00:00,2020-09-27 16:23:14+00:00,Add a keyPress operation to the Jump logic statement
+2747,closed,2020-09-27 12:43:54+00:00,2020-09-27 13:48:02+00:00,Make oct ACTUALLY have the most durability of any T5 unit
+2745,closed,2020-09-27 10:43:51+00:00,2020-09-30 18:27:43+00:00,v6:Turret clapper
+2743,closed,2020-09-27 02:24:02+00:00,2020-11-02 03:47:22+00:00,Show Boosted Range of Blocks when certain conditions are met
+2741,closed,2020-09-26 19:55:26+00:00,2020-10-22 17:16:07+00:00,Mem UI
+2736,closed,2020-09-26 12:49:27+00:00,2021-01-19 15:35:27+00:00,General Translation Improvements
+2733,closed,2020-09-26 06:56:17+00:00,2020-11-11 14:49:59+00:00,Adding more translations to _zh
+2732,closed,2020-09-26 06:54:42+00:00,2021-01-05 22:08:56+00:00,Update bundle_zh_CN.properties
+2731,closed,2020-09-25 23:36:49+00:00,2020-09-25 23:41:39+00:00,Change Toxopid's Name
+2719,closed,2020-09-24 23:55:43+00:00,2020-09-25 08:40:21+00:00,More Shadow
+2715,closed,2020-09-24 18:50:35+00:00,2020-09-24 21:08:00+00:00,Team Indicator For Resupply Point And Texture Fix
+2708,closed,2020-09-24 16:41:37+00:00,2020-10-19 16:17:54+00:00,make logic dialog stuff public
+2691,closed,2020-09-24 02:03:59+00:00,2020-11-09 01:54:32+00:00,Better Bullet Description
+2687,closed,2020-09-23 19:55:36+00:00,2020-09-23 21:25:11+00:00,HotFixed bundle_ru.properties
+2684,closed,2020-09-23 17:59:29+00:00,2020-10-23 15:29:23+00:00,save game on android app exit
+2673,closed,2020-09-23 05:25:01+00:00,2020-09-23 13:20:45+00:00,Changed Item Display so Item Costs don't overlap
+2668,closed,2020-09-23 01:16:30+00:00,2020-09-23 01:55:48+00:00,Move ECAN servers to the v6 server list & put all the servers from the BE server list to the v6 one
+2664,closed,2020-09-22 22:50:21+00:00,2020-09-27 21:10:28+00:00,The Railgun PR is Back Again
+2649,closed,2020-09-21 22:52:40+00:00,2020-09-23 22:13:25+00:00,New Units for the Omura
+2648,closed,2020-09-21 22:48:20+00:00,2020-11-05 23:15:42+00:00,Barrel system for turrets so you can set where and the rotation that bullets spawn from.
+2647,closed,2020-09-21 18:48:04+00:00,2020-09-22 16:24:21+00:00,inconsistencies
+2638,closed,2020-09-21 08:57:36+00:00,2020-09-21 08:58:03+00:00,Czech update for 6.0 aplha 2
+2634,closed,2020-09-20 22:22:07+00:00,2020-09-22 11:19:18+00:00,Team Indicator For Unit Factory And Reconstructor
+2630,closed,2020-09-20 17:37:54+00:00,2020-09-20 17:44:37+00:00,"Added ""char"" logic operation"
+2624,closed,2020-09-20 03:32:29+00:00,2020-09-25 04:21:19+00:00,Re: Add phased range when selecting menders or overdrivers
+2595,closed,2020-09-18 21:20:37+00:00,2020-09-19 16:37:44+00:00,Team Colors For Storage Blocks
+2594,closed,2020-09-18 18:57:24+00:00,2020-09-18 20:42:51+00:00,Team colors for more blocks
+2568,closed,2020-09-16 19:16:33+00:00,2020-09-20 06:37:03+00:00,Further Bullet Spawn Shifting For Turrets
+2552,closed,2020-09-14 13:55:41+00:00,2020-09-18 04:24:10+00:00,Mud v2
+2549,closed,2020-09-13 15:21:33+00:00,2020-10-13 22:50:35+00:00,Add a planet selection dialog
+2547,closed,2020-09-12 23:16:50+00:00,2020-09-23 22:36:13+00:00,Change to draw flushing
+2542,closed,2020-09-12 11:51:15+00:00,2020-09-12 13:52:50+00:00,store building class with constructor
+2541,closed,2020-09-12 07:44:19+00:00,2020-09-12 13:51:18+00:00,Make phase walls don't reflect lasers
+2540,closed,2020-09-12 03:36:38+00:00,2020-09-20 02:17:22+00:00,Update bundle_zh_CN.properties
+2539,closed,2020-09-11 14:36:28+00:00,2020-09-12 14:01:05+00:00,Mud and Quicksand
+2531,closed,2020-09-10 08:24:41+00:00,2020-09-10 13:20:45+00:00,Fixed #2529 minGameVersion (again) 
+2528,closed,2020-09-10 02:46:15+00:00,2020-09-10 02:49:17+00:00,"Request, PowerCell element"
+2517,closed,2020-09-08 05:07:16+00:00,2020-09-09 22:44:28+00:00,Update LAccess.java
+2516,closed,2020-09-07 22:10:28+00:00,2020-09-07 23:17:34+00:00,Less Capacity For Plastanium Conveyor
+2513,closed,2020-09-07 12:51:25+00:00,2020-09-16 06:48:59+00:00,Update bundle_in_ID.properties
+2509,closed,2020-09-06 19:44:32+00:00,2020-10-13 22:05:59+00:00,balance sector capture wave
+2508,closed,2020-09-06 19:23:15+00:00,2020-09-07 22:13:28+00:00,[l10n] Startup Message Translation
+2503,closed,2020-09-06 15:20:31+00:00,2020-11-03 22:33:18+00:00,add SearchBar utility class
+2499,closed,2020-09-06 08:27:42+00:00,2020-10-13 22:12:49+00:00,Create readme/chinese/CHINESE.md
+2497,closed,2020-09-06 04:07:18+00:00,2020-10-13 22:12:58+00:00,Update README.md
+2496,closed,2020-09-06 04:05:41+00:00,2020-09-06 08:26:06+00:00,Create CHINESE.md
+2493,closed,2020-09-05 17:29:26+00:00,2020-10-08 00:13:33+00:00,Make Parallax/Segment accept coolant
+2489,closed,2020-09-05 13:21:04+00:00,2020-09-05 13:27:28+00:00,More fields for Defense
+2488,closed,2020-09-05 13:13:17+00:00,2020-09-05 13:14:43+00:00,Fields for Shock Mine and Door
+2485,closed,2020-09-05 07:10:21+00:00,2020-09-06 21:13:26+00:00,Make payload units able to pick up bigger blocks based on its capacity
+2483,closed,2020-09-04 05:01:48+00:00,2020-09-04 14:12:49+00:00,Update MapResizeDialog.java
+2479,closed,2020-09-03 02:28:27+00:00,2020-09-03 06:03:57+00:00,Translation of new blocks + Korean spacing fix
+2469,closed,2020-08-30 17:38:28+00:00,2020-09-06 15:09:21+00:00,Team Colors For Effects
+2462,closed,2020-08-29 18:46:45+00:00,2020-10-10 15:58:13+00:00,[editor] Center to map button.
+2451,closed,2020-08-28 18:24:25+00:00,2020-08-29 01:59:09+00:00,Make unloaders as fast as titanium conveyors
+2447,closed,2020-08-28 14:16:48+00:00,2020-08-29 13:18:55+00:00,Fixed typos and inconsistency in the french bundle
+2435,closed,2020-08-26 21:14:41+00:00,2020-09-06 13:12:18+00:00,[sprites] New Indicator For Turrets
+2430,closed,2020-08-26 09:00:41+00:00,2020-09-08 14:09:23+00:00,Hindi translations for the Mindustry Google Play page
+2418,closed,2020-08-25 13:26:51+00:00,2021-01-19 15:33:55+00:00,Update bundle_es.properties
+2410,closed,2020-08-23 16:03:02+00:00,2020-10-06 15:31:40+00:00,Update bundle_de.properties
+2405,closed,2020-08-22 19:20:37+00:00,2020-10-07 15:01:08+00:00,Unit Production Improvements
+2397,closed,2020-08-22 01:07:41+00:00,2020-08-22 13:05:19+00:00,add payload incinerator
+2390,closed,2020-08-20 20:10:02+00:00,2020-08-20 20:15:06+00:00,Update UnitTypes.java
+2383,closed,2020-08-20 03:09:51+00:00,2020-08-26 03:44:17+00:00,make arc cost silicon
+2382,closed,2020-08-19 18:43:43+00:00,2020-09-21 18:51:13+00:00,Server disable schematic option
+2372,closed,2020-08-19 01:07:34+00:00,2021-01-19 15:30:04+00:00,Filipino (Tagalog) Translation -- patch 2
+2362,closed,2020-08-17 11:47:12+00:00,2020-08-18 20:58:00+00:00,M A K E S P E C T R E G R E A T E R
+2351,closed,2020-08-13 20:13:31+00:00,2020-08-18 14:20:10+00:00,Just read the code... 
+2349,closed,2020-08-13 18:28:33+00:00,2020-08-13 18:51:14+00:00,remove unused GetBuildI instruction
+2343,closed,2020-08-12 16:47:28+00:00,2020-08-13 16:21:55+00:00,store connection count in logic processors
+2338,closed,2020-08-11 11:19:54+00:00,2020-08-11 13:44:37+00:00,Revert Logic Blocks Back To Orange Color
+2334,closed,2020-08-10 04:43:25+00:00,2020-09-08 13:35:18+00:00,Update servers.json
+2333,closed,2020-08-10 04:01:04+00:00,2020-08-10 04:37:32+00:00,Update servers.json
+2332,closed,2020-08-10 03:13:41+00:00,2020-08-10 04:00:11+00:00,Update servers.json
+2331,closed,2020-08-10 02:13:14+00:00,2020-08-10 02:36:42+00:00,"add prompt ""> "" to the server CLI"
+2330,closed,2020-08-10 01:02:30+00:00,2020-08-10 02:59:13+00:00,Update servers.json
+2329,closed,2020-08-09 20:47:51+00:00,2020-12-06 20:41:09+00:00,Remove mindustry.ru from global server list
+2326,closed,2020-08-08 19:14:32+00:00,2020-08-17 16:11:23+00:00,Add a railgun turret
+2306,closed,2020-08-04 03:00:50+00:00,2020-08-04 13:04:19+00:00,router
+2304,closed,2020-08-03 20:34:31+00:00,2020-08-03 23:00:44+00:00,update README.md
+2299,closed,2020-08-02 13:03:56+00:00,2020-09-17 05:47:59+00:00,Add capacity indicator to vaults and containers.
+2295,closed,2020-08-01 17:19:59+00:00,2020-08-04 20:14:08+00:00,make health and efficiency correlated
+2288,closed,2020-07-31 10:21:32+00:00,2020-12-18 02:19:51+00:00,Create Mod Browser
+2286,closed,2020-07-30 17:42:29+00:00,2020-07-30 17:51:21+00:00,"Merge item void and liquid void into ""void""."
+2285,closed,2020-07-30 17:24:30+00:00,2020-10-13 22:01:44+00:00,Update servers.json
+2275,closed,2020-07-29 03:28:29+00:00,2020-10-18 02:11:42+00:00,Shift to prioritize build
+2274,closed,2020-07-29 03:18:31+00:00,2020-07-29 12:24:53+00:00,Make snek great again
+2264,closed,2020-07-25 05:06:44+00:00,2020-10-13 22:50:41+00:00,Update bundle_zh_CN.properties
+2261,closed,2020-07-24 16:14:43+00:00,2020-11-30 23:58:52+00:00,Add Atanner Gaming Hub to Serverlist
+2260,closed,2020-07-24 12:21:58+00:00,2020-07-24 17:20:30+00:00,Plastanium conveyors are worse than titaniums in every condition.
+2257,closed,2020-07-23 09:37:01+00:00,2020-07-23 12:57:24+00:00,Update Tetrative Reconstructor's Liquid Capacity
+2251,closed,2020-07-21 01:19:23+00:00,2020-09-20 02:24:08+00:00,Add phased range when selecting menders or overdrivers
+2249,closed,2020-07-21 00:06:09+00:00,2020-07-21 00:10:09+00:00,Change wave targeting
+2245,closed,2020-07-19 16:46:33+00:00,2020-07-19 19:32:58+00:00,change Overdrive Projector to Overdriver and Large Overdrive Projector to Overdrive Projector
+2244,closed,2020-07-19 10:53:52+00:00,2020-07-19 13:35:54+00:00,Forbidden character in autosave filename fix
+2241,closed,2020-07-18 18:50:03+00:00,2020-07-21 01:20:58+00:00,boost thermal pumps and airblast drills
+2239,closed,2020-07-17 17:21:32+00:00,2020-07-17 17:39:04+00:00,Boost pyratite
+2235,closed,2020-07-17 04:48:07+00:00,2020-10-08 00:14:15+00:00,Laser and Blast drills accept cryofluid as coolant
+2232,closed,2020-07-15 16:44:48+00:00,2020-07-15 17:32:17+00:00,Hydro power station
+2231,closed,2020-07-15 16:20:00+00:00,2020-11-30 23:53:45+00:00,French Bundle
+2227,closed,2020-07-14 12:42:50+00:00,2020-07-14 13:27:19+00:00,Item teleport done
+2225,closed,2020-07-13 11:52:51+00:00,2020-07-14 04:25:15+00:00,[Bundle][RU] Pre-translation of early builds v6.0
+2223,closed,2020-07-12 14:25:43+00:00,2020-07-14 18:57:16+00:00,add parallax to bundle.properties
+2219,closed,2020-07-10 05:20:56+00:00,2020-07-17 04:35:46+00:00,Drills accept Cryofluid as well as water
+2218,closed,2020-07-10 02:28:38+00:00,2020-08-01 12:06:35+00:00,[QOL] SchematicInfoDialog Block Count Implementation
+2213,closed,2020-07-07 12:01:53+00:00,2020-07-08 15:39:18+00:00,Pyratite -> Firelite
+2212,closed,2020-07-06 14:44:53+00:00,2020-07-14 20:45:34+00:00,Helper turrets
+2208,closed,2020-07-04 13:45:44+00:00,2020-09-23 23:14:31+00:00,V6 Styled Turrets
+2200,closed,2020-06-30 15:27:56+00:00,2020-06-30 15:54:04+00:00,Don't say a person voted to kick if they voted against
+2196,closed,2020-06-29 01:16:48+00:00,2020-07-11 07:28:11+00:00,Simple weapon changes
+2192,closed,2020-06-26 18:04:25+00:00,2020-06-26 22:50:54+00:00,Implementation of team colored force fields
+2191,closed,2020-06-26 14:20:39+00:00,2020-06-26 20:16:22+00:00,[RU] Fixed Timed Out Error Translate.
+2190,closed,2020-06-26 14:13:04+00:00,2020-11-30 23:54:13+00:00,Small pvp server
+2189,closed,2020-06-26 14:06:13+00:00,2020-06-26 15:47:08+00:00,anukes favourite colour
+2188,closed,2020-06-26 05:16:37+00:00,2020-07-06 03:04:56+00:00,UNFINISHED
+2185,closed,2020-06-23 18:05:07+00:00,2020-07-14 18:57:53+00:00,"Prevented extensive use of the word ""extensively""."
+2183,closed,2020-06-22 17:42:01+00:00,2020-06-22 17:57:03+00:00,"i apologize for it looking like i changed everything, i just added a …"
+2181,closed,2020-06-21 22:52:31+00:00,2020-07-14 14:32:18+00:00,"Chaos Array and Eradicator, Lich and Reaper weapons, and Other Small Unit Changes"
+2177,closed,2020-06-19 18:24:58+00:00,2020-06-21 14:34:29+00:00,Make coreblocks have their team represented on sprite 2: Electric Boogaloo
+2166,closed,2020-06-15 17:20:04+00:00,2020-06-19 18:33:59+00:00,Make coreblocks have their team represented on sprite
+2158,closed,2020-06-09 08:07:06+00:00,2020-06-09 14:20:37+00:00,remove abandoned.io (mindustry.io)
+2157,closed,2020-06-09 06:24:53+00:00,2020-07-14 19:01:59+00:00,Update bundle_ru.properties
+2153,closed,2020-06-07 20:08:45+00:00,2020-07-14 19:28:09+00:00,What about more bullet appearance stuff?
+2151,closed,2020-06-07 15:36:32+00:00,2020-07-14 19:24:35+00:00,Add game server's
+2150,closed,2020-06-07 01:47:27+00:00,2020-06-07 02:22:39+00:00,#Refactoring & Design Pattern
+2149,closed,2020-06-07 00:42:37+00:00,2020-06-09 00:23:47+00:00,Reduce voteCooldown
+2147,closed,2020-06-06 16:37:03+00:00,2020-06-06 16:52:10+00:00,Improve zoom controls at high and low zooms
+2146,closed,2020-06-06 14:11:42+00:00,2020-06-06 21:03:20+00:00,[Server] Alias Command.
+2141,closed,2020-06-04 16:43:56+00:00,2020-07-15 17:38:12+00:00,Dublication error and bridge conduit fix
+2138,closed,2020-06-03 17:22:20+00:00,2020-06-03 17:42:42+00:00,[Fix] Mark Block.solid False By Default.
+2132,closed,2020-06-02 14:21:40+00:00,2020-06-02 14:27:49+00:00,Health color change
+2125,closed,2020-05-29 02:01:58+00:00,2020-05-29 12:46:51+00:00,Update servers.json
+2124,closed,2020-05-28 20:14:09+00:00,2020-05-29 17:52:53+00:00,Lightning on tile collision
+2123,closed,2020-05-28 04:46:55+00:00,2020-07-14 19:01:41+00:00,[QOL] Quick Upgrade Utility Implementation
+2122,closed,2020-05-27 20:40:43+00:00,2020-07-14 18:49:53+00:00,Update bundle_pt_BR.properties
+2120,closed,2020-05-27 17:13:03+00:00,2020-05-27 23:57:22+00:00,Blah Blah Longer Mass Driver Range
+2119,closed,2020-05-27 02:57:55+00:00,2020-05-27 17:10:16+00:00,Allow modders to make longer range Mass Drivers
+2117,closed,2020-05-27 02:51:22+00:00,2020-06-15 23:29:16+00:00,[Bundle] Fix Korea = spacing
+2114,closed,2020-05-26 20:46:50+00:00,2020-05-27 03:20:26+00:00,Shots should spawn with recoil
+2112,closed,2020-05-26 13:17:49+00:00,2020-05-26 15:26:06+00:00,"6x6 CoreBlock, ""Core: Nexus"""
+2111,closed,2020-05-26 11:51:44+00:00,2020-05-26 15:27:50+00:00,Bundle typo correction: {0}[white] -> [white]{0}[]
+2104,closed,2020-05-24 12:45:30+00:00,2020-05-27 02:42:05+00:00,[Bundle] Fix Korean Bundle = Spacing
+2103,closed,2020-05-24 10:51:41+00:00,2020-07-02 14:33:51+00:00,[Mod] Deep Water Placeable Implementation
+2102,closed,2020-05-24 01:32:56+00:00,2020-05-24 01:46:24+00:00,Call that
+2100,closed,2020-05-23 15:49:58+00:00,2020-06-09 23:01:51+00:00,Ability To Disable Auto Connect of Power Nodes.
+2090,closed,2020-05-20 04:12:35+00:00,2020-07-18 16:03:08+00:00,[QOL] Clear Last Config Key Implementation
+2087,closed,2020-05-19 20:27:12+00:00,2020-05-19 20:43:48+00:00,Add clear() function.
+2085,closed,2020-05-19 09:25:10+00:00,2020-05-19 13:04:58+00:00,liquid-generator
+2084,closed,2020-05-19 07:03:45+00:00,2020-05-19 13:04:18+00:00,6.0/multiForge
+2080,closed,2020-05-18 12:00:03+00:00,2021-09-27 15:37:35+00:00,[QOL] Searchable Maps
+2078,closed,2020-05-18 06:50:59+00:00,2020-05-18 12:37:02+00:00,[QuickFix] fix pick_block on schem error
+2075,closed,2020-05-17 12:40:42+00:00,2020-05-17 13:49:35+00:00,Added server Omega Sandbox
+2074,closed,2020-05-17 11:51:17+00:00,2020-05-17 12:07:54+00:00,Added Server Omega Sandbox
+2073,closed,2020-05-17 11:29:00+00:00,2020-05-17 11:42:42+00:00,Added Omega Sandbox Server
+2072,closed,2020-05-17 11:06:08+00:00,2020-05-17 11:42:22+00:00,Putting Server Omega Sandbox to community servers.
+2065,closed,2020-05-15 18:20:24+00:00,2020-05-20 02:57:04+00:00,[QOL] Clear Last Config Key
+2064,closed,2020-05-15 15:50:27+00:00,2020-06-10 16:42:53+00:00,Update bundle_es.properties
+2060,closed,2020-05-15 11:49:41+00:00,2020-05-17 02:05:13+00:00,[KO]Fixes and nitpicking
+2057,closed,2020-05-14 18:14:01+00:00,2020-05-14 19:16:42+00:00,Add a mindustry server to global server list
+2056,closed,2020-05-14 17:34:25+00:00,2020-07-02 14:27:39+00:00, Energy-dependent incinerator speed limit
+2043,closed,2020-05-12 18:28:58+00:00,2020-07-14 18:06:43+00:00,Update server's
+2041,closed,2020-05-12 16:01:36+00:00,2020-05-12 16:10:36+00:00,6.0/multiForge 
+2034,closed,2020-05-12 10:21:04+00:00,2020-05-12 13:38:03+00:00,[QOL] Slider Togglable Unit Opacity
+2024,closed,2020-05-10 21:53:11+00:00,2020-05-10 22:04:11+00:00,Small russian translation fix
+2023,closed,2020-05-10 18:08:08+00:00,2020-05-10 19:59:03+00:00,New dedicated VPS hosted in Poland 
+2019,closed,2020-05-10 10:26:13+00:00,2020-05-10 17:57:56+00:00,[QOL] Shift Click to Same Tile Configure
+2014,closed,2020-05-09 10:08:23+00:00,2020-05-09 17:04:51+00:00,small fix
+2003,closed,2020-05-07 16:09:42+00:00,2020-05-07 23:01:38+00:00,Custom Drone Building Color
+1995,closed,2020-05-06 21:38:59+00:00,2020-05-06 22:46:43+00:00,Maybe putting mods in the game
+1993,closed,2020-05-06 04:44:50+00:00,2020-07-02 14:36:18+00:00,[QOL] Show Overdrive Range when Building Overdrive
+1985,closed,2020-05-04 20:01:41+00:00,2020-07-14 18:48:49+00:00,surge capacitor 2
+1984,closed,2020-05-04 20:00:42+00:00,2020-05-05 01:23:12+00:00,Bullets don't target what they can't hit.
+1973,closed,2020-05-03 17:09:04+00:00,2020-05-10 17:48:46+00:00,[QOL] Ctrl Click Bridge Reverse Connect
+1971,closed,2020-05-03 15:03:25+00:00,2020-07-14 18:08:12+00:00,Add filter reset keybind [J]
+1967,closed,2020-05-02 16:52:13+00:00,2020-05-02 16:52:30+00:00,[QOL] Skip Bridges like Power Nodes
+1957,closed,2020-05-01 12:45:20+00:00,2020-05-01 14:05:58+00:00,add a sorter item filter timeout setting
+1955,closed,2020-05-01 09:27:40+00:00,2020-05-01 14:51:13+00:00,Add throughput module to sandbox blocks
+1953,closed,2020-05-01 05:33:45+00:00,2020-05-01 16:54:10+00:00,Unjank the Plated Conduit sprites.
+1950,closed,2020-05-01 03:17:10+00:00,2020-05-01 03:57:07+00:00,"Pad sprites, maybe?"
+1944,closed,2020-04-30 14:04:10+00:00,2020-04-30 18:47:29+00:00,Overdrive projector visualization on plastanium conveyors
+1935,closed,2020-04-28 09:09:28+00:00,2020-04-28 17:16:29+00:00,[QOL] visualization v6 port
+1933,closed,2020-04-27 21:59:37+00:00,2020-04-28 16:25:21+00:00,Update bundle-fr.propeties : adds regions
+1932,closed,2020-04-27 19:44:51+00:00,2020-04-29 14:22:14+00:00,Water extractor now requires 25 metaglass rather than 25 graphite to construct
+1927,closed,2020-04-27 04:55:58+00:00,2020-06-19 16:27:34+00:00,[QOL] Better Visual of Bridge Indicator
+1923,closed,2020-04-26 14:15:14+00:00,2020-04-28 16:26:32+00:00,Update bundle_ru.properties
+1921,closed,2020-04-26 10:50:03+00:00,2020-07-14 18:06:22+00:00,[doodle] terrain schematics
+1919,closed,2020-04-26 07:53:55+00:00,2020-07-14 17:56:57+00:00,Add Mo Town servers to community servers
+1911,closed,2020-04-25 13:03:31+00:00,2020-04-25 13:03:39+00:00,[doodle] phase bridge power sharing
+1903,closed,2020-04-23 18:26:20+00:00,2020-04-28 19:01:01+00:00,water extractors are sorta nerfed 2 electric boogaloo
+1897,closed,2020-04-22 05:15:21+00:00,2020-04-25 17:39:04+00:00,Update bundle_ru.properties
+1896,closed,2020-04-21 12:09:52+00:00,2020-07-14 17:58:24+00:00,Small nitpicking
+1895,closed,2020-04-21 06:42:44+00:00,2020-04-21 14:48:18+00:00,Large plastanium press. 
+1889,closed,2020-04-18 06:18:40+00:00,2020-04-23 18:13:17+00:00,[QOL] Better bridge indicator from #1867
+1884,closed,2020-04-17 10:14:17+00:00,2020-07-14 17:41:19+00:00,[6.0] conduit/conveyor cornerpieces
+1883,closed,2020-04-17 04:13:18+00:00,2020-04-17 13:40:57+00:00,Fix the Reaper Sprite
+1882,closed,2020-04-16 21:37:37+00:00,2020-04-21 15:02:58+00:00,Steady block inventory.
+1880,closed,2020-04-16 18:56:13+00:00,2020-04-16 20:41:46+00:00,Code of Conduct for Contributors
+1878,closed,2020-04-16 13:20:54+00:00,2020-04-16 13:23:39+00:00,Ukrainian translation
+1877,closed,2020-04-16 12:34:51+00:00,2020-04-22 11:33:16+00:00,RU fixes
+1875,closed,2020-04-16 10:44:18+00:00,2020-04-16 13:14:21+00:00,Update bundle.properties (color code correction)
+1870,closed,2020-04-15 10:19:31+00:00,2020-04-16 17:33:48+00:00,Added instructions for a edge case
+1869,closed,2020-04-15 04:04:01+00:00,2020-07-14 17:55:07+00:00,Server locale support and filtering
+1868,closed,2020-04-15 00:58:22+00:00,2020-07-14 02:29:55+00:00,Client whisper command
+1867,closed,2020-04-14 12:22:24+00:00,2020-04-18 06:10:29+00:00,[QOL] Better Bridge Indicator
+1859,closed,2020-04-13 18:53:11+00:00,2020-04-14 16:25:06+00:00,Add server
+1856,closed,2020-04-13 08:36:15+00:00,2020-04-13 08:36:26+00:00,[doodle] factorio style drill
+1855,closed,2020-04-13 08:06:55+00:00,2020-04-16 17:42:49+00:00,[implementation] grey out unaffordable schematics
+1849,closed,2020-04-12 18:42:11+00:00,2020-04-28 16:31:50+00:00,Update bundle_pt_BR.properties
+1845,closed,2020-04-12 10:27:05+00:00,2020-04-28 16:30:54+00:00,[playerlist] change votekick hammer to ballot
+1843,closed,2020-04-12 09:36:09+00:00,2020-04-16 17:47:00+00:00,[QOL] Extended indicator options
+1842,closed,2020-04-12 08:29:16+00:00,2020-07-02 15:30:59+00:00,Hotfix/editor tools
+1838,closed,2020-04-11 02:03:27+00:00,2020-04-12 21:43:47+00:00,Updating bundle-pt-BR.properties
+1828,closed,2020-04-08 01:56:52+00:00,2020-04-11 04:38:48+00:00,Add my public brazillan server
+1826,closed,2020-04-07 10:02:41+00:00,2020-04-07 10:03:12+00:00,updating code
+1817,closed,2020-04-04 18:38:03+00:00,2020-05-02 14:55:08+00:00,[unholy] item teleport
+1812,closed,2020-04-03 15:42:56+00:00,2020-04-16 17:49:54+00:00,[backport] sorter cross
+1804,closed,2020-04-01 15:59:43+00:00,2020-04-01 18:44:39+00:00,fix for js print() function printing null
+1795,closed,2020-03-31 22:57:44+00:00,2020-04-01 03:36:31+00:00,router is the only distribution block!
+1794,closed,2020-03-31 19:18:56+00:00,2020-04-01 04:28:56+00:00,Create bundle_by.properties
+1791,closed,2020-03-31 09:07:52+00:00,2020-04-03 15:04:00+00:00,Nerf overflows.
+1785,closed,2020-03-30 14:54:16+00:00,2020-04-12 21:47:32+00:00,Fix use 'name' from bandle
+1775,closed,2020-03-28 14:22:51+00:00,2020-03-28 14:31:45+00:00,Update bundle.properties
+1774,closed,2020-03-28 14:12:51+00:00,2020-03-28 15:04:45+00:00,Update bundle_ru.properties
+1772,closed,2020-03-28 11:11:12+00:00,2020-03-28 13:07:18+00:00,Update bundle_ru.properties
+1768,closed,2020-03-28 07:35:31+00:00,2020-03-28 17:12:27+00:00,Update bundle_ru.properties
+1767,closed,2020-03-28 05:55:31+00:00,2020-03-28 13:06:50+00:00,Update bundle_ru.properties
+1759,closed,2020-03-26 20:24:24+00:00,2020-03-26 20:31:30+00:00,"Make buildTime, time, and speedScl public"
+1752,closed,2020-03-25 12:20:58+00:00,2020-03-25 16:27:41+00:00,Add server mindustry.ru:8000
+1745,closed,2020-03-24 11:48:43+00:00,2020-03-24 13:26:29+00:00,Update and rename core/assets/bundles/bundle.properties to  ядро/ акт…
+1744,closed,2020-03-24 11:45:40+00:00,2020-03-24 13:26:16+00:00,Update and rename core/assets/bundles/bundle_ru.properties to  ядро/ …
+1743,closed,2020-03-24 11:36:38+00:00,2020-03-24 13:25:46+00:00,Update and rename core/assets/bundles/bundle_ru.properties to  ядро/ …
+1738,closed,2020-03-23 20:48:37+00:00,2020-04-11 22:53:12+00:00,Updated tutorial text and added emojis
+1733,closed,2020-03-21 18:13:52+00:00,2020-07-02 16:07:33+00:00,Add Category Key Bindings
+1722,closed,2020-03-17 19:19:10+00:00,2020-07-14 17:53:36+00:00,Conveyor/Conduit upgrade Assistance
+1691,closed,2020-03-09 12:39:09+00:00,2020-03-26 22:25:20+00:00,[6.0] affinity antonym
+1687,closed,2020-03-08 14:45:56+00:00,2020-04-23 18:13:16+00:00,water extractors are sorta nerfed
+1686,closed,2020-03-08 14:44:30+00:00,2020-03-08 14:45:38+00:00,nearby water extractors decrease efficiency
+1678,closed,2020-03-06 07:10:46+00:00,2020-03-24 15:18:18+00:00,Touched the player and var classes to add ability to pull getPing() f…
+1674,closed,2020-03-05 10:36:35+00:00,2020-03-05 10:37:05+00:00,[projector] visualization
+1664,closed,2020-03-04 12:37:12+00:00,2020-03-04 14:09:10+00:00,Reverted RU translation of the Tower Defense genre
+1662,closed,2020-03-04 12:08:32+00:00,2020-03-04 14:08:55+00:00,Reverted RU translation of the Tower Defense genre
+1655,closed,2020-03-02 11:03:45+00:00,2020-03-02 15:02:38+00:00,bug_report.md table uppercase
+1653,closed,2020-03-01 11:48:38+00:00,2020-03-01 18:59:42+00:00,Added more commands into game
+1649,closed,2020-02-29 12:10:40+00:00,2020-03-23 16:50:26+00:00,Add Ctrl+scroll (forced zoom) info to the tutorial
+1648,closed,2020-02-28 21:25:41+00:00,2020-03-01 19:00:38+00:00,add shebang to convert_sounds.sh
+1646,closed,2020-02-28 19:58:59+00:00,2020-03-27 20:19:56+00:00,steam and gp page changes
+1641,closed,2020-02-26 18:58:20+00:00,2020-02-28 19:57:24+00:00,smaller updates to russian translation
+1640,closed,2020-02-26 16:28:53+00:00,2020-02-29 21:00:06+00:00,small updates to russian translation
+1632,closed,2020-02-24 15:53:13+00:00,2020-03-27 19:55:04+00:00,Update bundle_pt_BR.properties
+1631,closed,2020-02-24 15:46:18+00:00,2020-03-02 21:29:21+00:00,Update bundle_pt_BR.properties
+1608,closed,2020-02-19 18:01:52+00:00,2020-02-19 18:17:32+00:00,Prevent construction/deconstruction of blocks on other teams
+1596,closed,2020-02-16 15:56:40+00:00,2020-02-16 19:18:52+00:00,ItemSource and Liquid source always show all items
+1594,closed,2020-02-16 12:13:42+00:00,2020-03-02 02:08:50+00:00,"Removed the ""no global server list"" note"
+1586,closed,2020-02-14 12:38:47+00:00,2020-02-18 15:38:30+00:00,Add mindustry.tk (UPDATED)
+1582,closed,2020-02-14 09:16:43+00:00,2020-02-18 16:46:05+00:00,Update bundle_de.properties
+1581,closed,2020-02-14 08:20:10+00:00,2020-03-26 15:50:59+00:00,new server.json
+1567,closed,2020-02-12 19:04:50+00:00,2020-02-12 19:10:31+00:00,Update servers.json
+1566,closed,2020-02-12 18:40:27+00:00,2020-03-26 21:39:34+00:00,[quality of life] better visiualize sorters with no filter
+1564,closed,2020-02-12 17:27:50+00:00,2020-02-13 02:50:39+00:00,Update bundle_es.properties
+1563,closed,2020-02-12 16:10:47+00:00,2020-02-12 16:17:07+00:00,[quality of life] illuminator color on the minimap
+1562,closed,2020-02-12 14:44:25+00:00,2020-03-23 21:16:59+00:00,translations; missing tags added
+1557,closed,2020-02-12 09:15:50+00:00,2020-02-12 14:16:29+00:00,Update bundle_ru.properties
+1551,closed,2020-02-11 18:55:04+00:00,2020-02-11 19:02:12+00:00,add mindustry-suggestions repository to .github workflow
+1550,closed,2020-02-11 17:58:55+00:00,2020-03-26 22:44:07+00:00,[byte logic] 104
+1540,closed,2020-02-09 01:38:43+00:00,2020-02-10 12:22:12+00:00,Add HostEvent
+1539,closed,2020-02-08 23:39:15+00:00,2020-03-28 03:10:43+00:00,Threshold Unloader
+1535,closed,2020-02-08 17:01:03+00:00,2020-02-08 17:17:19+00:00,Additional Category(mod)
+1534,closed,2020-02-08 14:43:26+00:00,2020-02-09 01:28:46+00:00,return map from WorldLoadEvent
+1532,closed,2020-02-08 05:58:51+00:00,2020-02-11 12:01:50+00:00,[byte logic] 103 master merge
+1522,closed,2020-02-06 12:29:17+00:00,2020-07-14 02:26:30+00:00,Deutsche Sprache aktualisiert.
+1518,closed,2020-02-06 07:07:50+00:00,2020-02-08 14:11:38+00:00,New storage block: Max Unloader
+1506,closed,2020-02-04 02:11:20+00:00,2020-03-26 21:42:56+00:00,"Seperate flame and topRegion rendering, for better code readability."
+1505,closed,2020-02-04 00:25:07+00:00,2020-02-04 00:42:29+00:00,Make the flame optional on GenericSmelter Blocks.
+1498,closed,2020-02-03 15:06:03+00:00,2020-02-13 13:43:17+00:00,[mods] Let mechs/units override drawShadows
+1494,closed,2020-02-02 14:54:46+00:00,2020-02-06 00:06:06+00:00,[quality of life] server list categories
+1491,closed,2020-02-02 13:54:23+00:00,2020-03-01 13:47:34+00:00,Update achievements.vdf
+1488,closed,2020-02-01 08:54:11+00:00,2020-02-05 23:36:27+00:00,added my server
+1481,closed,2020-01-30 17:20:26+00:00,2020-01-30 18:13:41+00:00,gitignore - adding mods/ and *.bat
+1480,closed,2020-01-30 17:11:54+00:00,2020-01-30 17:13:45+00:00,Gitignore update: mods/ and .bat
+1464,closed,2020-01-28 18:37:59+00:00,2020-04-28 17:27:48+00:00,[quality of life] impact reactor startup sequence
+1462,closed,2020-01-28 15:45:54+00:00,2020-03-28 03:14:40+00:00,Add Server to servers.json
+1461,closed,2020-01-28 15:43:34+00:00,2020-02-02 13:50:59+00:00,Add kr server
+1459,closed,2020-01-28 05:52:27+00:00,2020-02-18 15:38:50+00:00,Adds mindustry.tk
+1444,closed,2020-01-25 19:49:51+00:00,2020-01-31 07:17:21+00:00,add time played to end of game score screen
+1439,closed,2020-01-25 04:42:55+00:00,2020-02-03 19:17:20+00:00,(done) batteries glow
+1437,closed,2020-01-25 03:28:21+00:00,2020-01-25 04:42:08+00:00,yet another batteries glow pr
+1421,closed,2020-01-23 09:51:42+00:00,2020-02-11 20:15:33+00:00,[server] pausable
+1413,closed,2020-01-21 15:42:11+00:00,2020-02-12 09:44:35+00:00,Update bundle_ru.properties (setting.bridgeopacity.name translation)
+1408,closed,2020-01-21 15:12:41+00:00,2020-01-22 04:35:49+00:00,Update bundle_ru.properties
+1407,closed,2020-01-21 11:48:36+00:00,2020-01-23 19:47:07+00:00,Fixed BlockBuildEndEvent sometimes not firing in multiplayer
+1406,closed,2020-01-20 22:05:27+00:00,2020-01-23 19:53:43+00:00,Font
+1399,closed,2020-01-19 21:42:04+00:00,2020-01-24 15:05:03+00:00,If construction was simplified.
+1398,closed,2020-01-19 19:24:25+00:00,2020-03-26 22:29:41+00:00,[quality of life] mechpad checkpointing
+1392,closed,2020-01-16 21:49:35+00:00,2020-01-24 15:27:23+00:00,show mod name when placing a block
+1390,closed,2020-01-15 22:25:30+00:00,2020-01-19 17:13:12+00:00,Phase conveyors and conduits colored
+1385,closed,2020-01-15 00:01:51+00:00,2020-01-25 03:26:54+00:00,orange colour variance depending on power redo (done)
+1384,closed,2020-01-14 23:55:28+00:00,2020-01-14 23:57:28+00:00,Orange on batteries shade depending on power content
+1380,closed,2020-01-14 13:21:34+00:00,2020-03-28 03:31:15+00:00,edit fastlane
+1377,closed,2020-01-14 10:36:14+00:00,2020-01-14 13:46:33+00:00,Catch-up with latest working Arc
+1376,closed,2020-01-14 03:43:38+00:00,2020-01-14 23:53:24+00:00,Orange on batteries change colour based on power contents
+1375,closed,2020-01-14 00:13:11+00:00,2020-01-14 00:31:39+00:00,There was a missing f
+1370,closed,2020-01-13 08:52:44+00:00,2020-01-21 15:25:27+00:00,update zh_CN translate
+1365,closed,2020-01-13 03:02:23+00:00,2020-01-13 20:54:53+00:00,batteries have glow based on power stored
+1359,closed,2020-01-11 16:39:54+00:00,2020-01-11 17:44:20+00:00,Delete DS_Store
+1356,closed,2020-01-11 13:04:09+00:00,2020-01-11 15:42:23+00:00,Remove false description on Omega's armor
+1350,closed,2020-01-10 17:39:01+00:00,2020-01-10 17:59:54+00:00,[quality of life] visualize solar panel efficiency
+1345,closed,2020-01-09 17:48:34+00:00,2020-01-09 17:55:12+00:00,Delete DS_Store
+1337,closed,2020-01-08 13:10:36+00:00,2020-01-08 13:10:41+00:00,[milestone] leetspeak
+1335,closed,2020-01-08 12:59:00+00:00,2020-07-14 17:22:16+00:00,[texture] seamless solar panels
+1333,closed,2020-01-07 00:12:03+00:00,2020-11-16 12:27:09+00:00,Authentication implementation for servers
+1330,closed,2020-01-06 11:38:39+00:00,2020-04-28 17:01:54+00:00,[drones] miner drone dropoff
+1329,closed,2020-01-06 10:05:51+00:00,2020-06-01 00:19:42+00:00,[6.0] conduit pump connection
+1326,closed,2020-01-05 14:14:08+00:00,2020-07-14 02:25:02+00:00,[sandbox] ability to switch team
+1323,closed,2020-01-05 07:19:38+00:00,2020-03-28 03:45:53+00:00,Rotatable Force Projectors
+1314,closed,2020-01-04 10:37:35+00:00,2020-04-28 17:35:50+00:00,Add preview outline for Force Projectors on hovering
+1312,closed,2020-01-03 19:07:10+00:00,2020-01-04 20:40:22+00:00,Make peoples are possible to alliance. Hex war related.
+1307,closed,2020-01-03 02:54:47+00:00,2020-03-24 15:18:37+00:00,Made power nodes retain connections in schematics
+1306,closed,2020-01-03 00:32:40+00:00,2020-01-08 15:22:05+00:00,Update bundle_ru.properties
+1305,closed,2020-01-01 17:09:25+00:00,2020-03-26 16:30:00+00:00,Estimate and display conveyor resource flow
+1300,closed,2020-01-01 03:59:05+00:00,2020-01-01 04:55:59+00:00,let boolean and double be used by mods
+1299,closed,2020-01-01 03:08:14+00:00,2020-01-01 17:10:38+00:00,move download links higher in README.MD
+1296,closed,2019-12-31 17:14:19+00:00,2020-07-14 15:12:14+00:00,Server Autosave Feature
+1294,closed,2019-12-31 14:08:59+00:00,2020-03-02 16:59:59+00:00,[modding] unit power cell position
+1286,closed,2019-12-30 20:49:09+00:00,2020-03-26 18:50:08+00:00,Display cumulative production speed of multiple blocks
+1280,closed,2019-12-30 13:56:58+00:00,2019-12-30 17:26:31+00:00,Overall Czech translation improvement
+1279,closed,2019-12-30 11:15:36+00:00,2019-12-30 17:26:30+00:00,Overall improvement of Czech translation
+1271,closed,2019-12-29 08:06:06+00:00,2019-12-29 08:51:48+00:00,Add ServerLoaded event
+1270,closed,2019-12-29 05:30:10+00:00,2020-01-07 19:17:45+00:00,PlayerChatEvent change
+1265,closed,2019-12-28 16:10:20+00:00,2019-12-28 19:24:43+00:00,web move dialog
+1261,closed,2019-12-28 02:48:19+00:00,2019-12-28 16:21:14+00:00,check if Votekick's voteRequired has been reached every vote
+1258,closed,2019-12-25 15:32:02+00:00,2019-12-28 15:36:15+00:00,Update bundle_zh_TW.properties
+1257,closed,2019-12-25 14:33:40+00:00,2019-12-28 07:09:56+00:00,Update bundle_ko.properties
+1256,closed,2019-12-24 20:06:24+00:00,2019-12-28 22:43:39+00:00,"Add ""Reload Mods"" button to Mods dialog."
+1255,closed,2019-12-24 20:04:59+00:00,2019-12-24 20:05:52+00:00,"Add ""Reload Mods"" button to mods dialog."
+1249,closed,2019-12-21 16:12:12+00:00,2020-01-08 23:09:23+00:00,[chat] dynamic team color
+1248,closed,2019-12-21 15:37:51+00:00,2020-03-26 21:28:55+00:00,[rules] custom mech
+1246,closed,2019-12-21 15:15:17+00:00,2019-12-22 10:32:19+00:00,Let version string be translatable.
+1245,closed,2019-12-21 12:39:55+00:00,2020-01-09 18:10:16+00:00,[drone] firefighter
+1244,closed,2019-12-21 09:41:13+00:00,2020-03-26 22:05:32+00:00,[multiplayer] techtree
+1243,closed,2019-12-21 09:14:41+00:00,2019-12-22 05:12:45+00:00,fix my scientific innacuracy
+1242,closed,2019-12-21 08:40:50+00:00,2020-01-08 16:19:30+00:00,[code] remove duplicate condition from if in launchpad
+1241,closed,2019-12-21 07:19:47+00:00,2020-03-27 20:16:29+00:00,[power] small armored node
+1239,closed,2019-12-20 13:02:14+00:00,2020-03-02 19:55:41+00:00,[server] uuid security level
+1235,closed,2019-12-19 23:15:51+00:00,2019-12-19 23:23:42+00:00,Fix chat scroll
+1217,closed,2019-12-15 20:45:41+00:00,2020-07-14 14:27:01+00:00,Second-tier illuminator
+1216,closed,2019-12-15 11:22:28+00:00,2020-03-27 20:11:54+00:00,Update bundle_nl.properties
+1209,closed,2019-12-13 00:12:29+00:00,2019-12-28 07:07:41+00:00,Update bundle_ko.properties
+1201,closed,2019-12-12 10:14:43+00:00,2019-12-12 20:28:51+00:00,Handle missing locale keys for link descriptions
+1199,closed,2019-12-11 18:59:38+00:00,2019-12-11 19:13:45+00:00,Fixed ore texture names
+1197,closed,2019-12-11 16:07:20+00:00,2020-03-28 11:24:50+00:00,Fix and add some French translations
+1195,closed,2019-12-11 12:30:44+00:00,2020-01-23 22:13:30+00:00,Update and rename core/assets/bundles/bundle_cs.properties to  jádro/…
+1193,closed,2019-12-11 12:03:27+00:00,2019-12-11 12:03:33+00:00,🛎 You must construct additional pylons!
+1191,closed,2019-12-11 01:12:21+00:00,2020-05-04 20:02:03+00:00,Surge Capacitor (higher tier battery)
+1189,closed,2019-12-10 10:49:17+00:00,2020-01-23 22:16:37+00:00,Add Ability to choose what resource is mined
+1180,closed,2019-12-07 14:16:35+00:00,2019-12-11 11:37:30+00:00,[Unfinished] nl_be locale
+1175,closed,2019-12-06 21:15:16+00:00,2019-12-06 21:39:57+00:00,add liquid-distributor block
+1171,closed,2019-12-06 11:55:20+00:00,2020-03-26 19:22:22+00:00,[WIP] Add bundle_lt.properties Lithuanian translation
+1167,closed,2019-12-05 17:04:41+00:00,2020-07-14 02:38:12+00:00,Create bundle_zh_HK.properties
+1166,closed,2019-12-05 16:38:23+00:00,2019-12-05 16:48:08+00:00,Create bundle_zh_HK.properties
+1165,closed,2019-12-05 15:43:17+00:00,2019-12-10 12:35:46+00:00,Update bundle_zh_TW.properties
+1158,closed,2019-12-04 10:57:17+00:00,2020-03-26 19:13:45+00:00,💰Upgrade bannedblocks to allowance
+1150,closed,2019-12-01 18:31:14+00:00,2020-03-26 19:20:46+00:00,Editor: protect blocks from being changed by players (e.g. item sources)
+1146,closed,2019-11-30 14:44:17+00:00,2019-11-30 14:44:21+00:00,🐝 Movable cores 🐦
+1141,closed,2019-11-28 19:23:12+00:00,2019-11-28 19:23:17+00:00,🎄 Festive mode
+1140,closed,2019-11-28 19:08:45+00:00,2019-12-23 03:16:55+00:00,🎇 Observer mech
+1139,closed,2019-11-28 18:59:36+00:00,2020-01-20 23:54:58+00:00,Add Inverted Overflow Gate
+1137,closed,2019-11-27 18:36:11+00:00,2019-12-12 21:33:59+00:00,Conservative Generators
+1129,closed,2019-11-25 08:49:25+00:00,2020-03-24 16:03:08+00:00,⌛️ Factorio flavoured bottleneck
+1127,closed,2019-11-24 15:11:34+00:00,2019-11-24 17:58:41+00:00,Update bundle_pt_BR.properties
+1126,closed,2019-11-24 12:08:12+00:00,2020-03-27 13:32:02+00:00,Calculate powerbalance before batteries interfere
+1125,closed,2019-11-24 09:48:22+00:00,2020-03-27 13:37:51+00:00,Filipino (Tagalog)
+1112,closed,2019-11-22 01:10:32+00:00,2020-03-24 16:03:25+00:00,Update bundle_de.properties
+1105,closed,2019-11-20 21:09:57+00:00,2019-12-11 05:08:49+00:00,RockTheVote for server
+1093,closed,2019-11-19 09:52:26+00:00,2020-01-23 20:50:12+00:00,Educate players on tiles where a block is more efficient
+1090,closed,2019-11-19 07:40:26+00:00,2020-01-23 20:01:48+00:00,Improved Mining Drones
+1088,closed,2019-11-19 01:12:08+00:00,2020-03-27 13:36:46+00:00,"Add toggle-able ""debug"" overlay"
+1086,closed,2019-11-18 15:48:56+00:00,2019-11-18 20:52:35+00:00,Add fdroid to links
+1084,closed,2019-11-18 13:19:17+00:00,2019-11-18 13:19:22+00:00,Wololoo
+1080,closed,2019-11-17 20:18:27+00:00,2020-07-02 18:03:07+00:00,[anti-air] tractor beam 🦈
+1076,closed,2019-11-16 15:33:45+00:00,2019-11-17 19:12:14+00:00,"Smoke Threshold, Heating edits"
+1073,closed,2019-11-16 02:45:34+00:00,2019-11-16 02:56:04+00:00,Schematics size
+1070,closed,2019-11-15 16:35:07+00:00,2020-01-23 20:07:09+00:00,[ImgBot] Optimize images - Lossless
+1069,closed,2019-11-15 14:13:33+00:00,2020-01-08 16:27:22+00:00,Miner drone dropoff
+1064,closed,2019-11-15 06:47:44+00:00,2019-12-14 04:41:52+00:00,Add info about Repair Point can heal mechs
+1063,closed,2019-11-14 21:27:37+00:00,2019-11-16 06:38:12+00:00,Oro
+1059,closed,2019-11-14 11:18:48+00:00,2020-01-08 16:25:11+00:00,Core: seed
+1058,closed,2019-11-14 07:41:32+00:00,2019-11-14 17:44:57+00:00,"Warn if any core is under attack, the pull"
+1057,closed,2019-11-13 23:24:51+00:00,2019-11-14 00:52:32+00:00,"show liquids in ""resources detected"" section"
+1054,closed,2019-11-13 17:43:36+00:00,2019-11-14 14:26:03+00:00,Allow for modded water extractors to use no power
+1053,closed,2019-11-13 14:10:32+00:00,2019-11-23 03:39:06+00:00,Make chat show/hide setting vaiable
+1052,closed,2019-11-13 10:56:49+00:00,2020-05-29 18:26:50+00:00,Colorize powernodes based on network status instead of its powerlines
+1050,closed,2019-11-12 11:20:33+00:00,2019-11-13 04:43:43+00:00,Skip to next building in queue when you don't have enough resources 
+1049,closed,2019-11-12 10:32:01+00:00,2020-03-26 21:25:06+00:00,Keep items on conveyor when upgrading
+1048,closed,2019-11-12 09:39:01+00:00,2020-01-24 16:24:41+00:00,Visualize which mass drivers shoot at the selected one
+1042,closed,2019-11-11 19:27:55+00:00,2019-12-01 05:42:38+00:00,👾 Finish enemy descriptions for bundle.properties [stale] ugh
+1033,closed,2019-11-10 21:29:40+00:00,2019-11-11 18:56:41+00:00,"Big changes. ""..."" →…"
+1030,closed,2019-11-10 18:54:31+00:00,2020-01-08 16:33:44+00:00,fix https://github.com/Anuken/Mindustry/issues/1028
+1029,closed,2019-11-10 16:44:06+00:00,2020-01-23 20:00:57+00:00,sand water outputs sand
+1026,closed,2019-11-10 09:33:22+00:00,2019-11-10 09:33:26+00:00,"Yes, of course! The Holy Hand Grenade of Antioch!"
+1024,closed,2019-11-09 15:07:52+00:00,2019-11-09 15:16:17+00:00,fix comment
+1023,closed,2019-11-09 05:16:17+00:00,2019-11-14 19:44:09+00:00,(ignore this)(go to #1060)
+1013,closed,2019-11-07 10:11:53+00:00,2020-01-09 18:12:07+00:00,Display bars for bridge contents
+1012,closed,2019-11-07 01:15:19+00:00,2019-11-23 20:17:27+00:00,Update bundle_pt_BR.properties
+1011,closed,2019-11-07 01:03:48+00:00,2019-11-20 20:05:05+00:00,Updated Polish Translation
+1009,closed,2019-11-06 11:42:42+00:00,2020-03-24 15:19:27+00:00,Conveyor upgrade assist
+1006,closed,2019-11-05 19:42:56+00:00,2020-01-08 21:16:29+00:00,[graphic] configurable bridge transparency
+994,closed,2019-11-04 20:19:54+00:00,2020-03-26 15:46:52+00:00,[WIP] Update bundle_tr.properties
+972,closed,2019-11-01 16:06:18+00:00,2019-11-05 23:54:35+00:00,Update bundle_zh_TW.properties
+969,closed,2019-11-01 10:05:43+00:00,2019-11-01 12:03:55+00:00,Update blocks.java
+955,closed,2019-10-30 19:29:32+00:00,2020-07-02 19:27:23+00:00,💼 Optionally show resources ingame
+954,closed,2019-10-30 19:22:17+00:00,2020-01-23 20:14:02+00:00,Move Force Projector visuals to (new) ProjectorTrait
+950,closed,2019-10-30 13:47:08+00:00,2019-11-01 21:30:55+00:00,📎 Auto junctions
+946,closed,2019-10-30 10:25:32+00:00,2019-10-30 20:56:24+00:00,Update README.md
+945,closed,2019-10-30 10:15:37+00:00,2019-11-05 23:54:31+00:00,Update bundle_zh_TW.properties
+941,closed,2019-10-29 18:57:58+00:00,2019-10-29 18:59:37+00:00,Fix #940
+939,closed,2019-10-29 18:15:57+00:00,2019-10-29 18:38:44+00:00,dispose event
+936,closed,2019-10-29 13:26:02+00:00,2019-11-08 21:51:48+00:00,🃏 Prevent inverted sorter chaining
+934,closed,2019-10-29 07:07:17+00:00,2019-10-29 07:07:28+00:00,Create full_description.txt
+927,closed,2019-10-28 11:04:50+00:00,2020-03-26 15:25:37+00:00,🌡 Silicon furnace
+925,closed,2019-10-28 09:24:06+00:00,2019-10-28 12:23:31+00:00,Plastanium Wall
+906,closed,2019-10-27 08:47:26+00:00,2020-03-26 15:24:13+00:00,Update bundle_de.properties
+904,closed,2019-10-27 02:26:22+00:00,2019-10-27 05:26:41+00:00,Update tools:pack path on windows
+892,closed,2019-10-26 07:31:03+00:00,2019-12-23 03:15:16+00:00,🥌 Do not count color codes toward maximum name length
+879,closed,2019-10-25 16:59:50+00:00,2020-03-27 20:25:34+00:00,actually implement oh no
+861,closed,2019-10-22 16:02:53+00:00,2019-10-22 16:07:58+00:00,Update arc hash
+849,closed,2019-10-21 16:45:50+00:00,2019-11-02 18:36:16+00:00,⚔️ Fix stuttering conveyors between teams
+848,closed,2019-10-21 12:06:51+00:00,2019-10-21 14:02:41+00:00,Synchronize powergraph
+833,closed,2019-10-17 14:46:39+00:00,2019-10-17 15:09:53+00:00,fixed typo in ContentParser
+827,closed,2019-10-13 23:06:20+00:00,2019-10-14 22:58:30+00:00,"""Smarter"" targeting for Turrets"
+825,closed,2019-10-13 20:04:00+00:00,2019-11-04 22:40:12+00:00,Conservative generators
+824,closed,2019-10-13 20:00:10+00:00,2020-03-26 15:29:52+00:00,Disallow dumping inside of enemy turf
+823,closed,2019-10-13 11:16:56+00:00,2019-10-15 03:36:43+00:00,3 additional teams
+812,closed,2019-10-11 08:20:38+00:00,2019-10-20 21:06:17+00:00,Set core path for annotations explicitly
+810,closed,2019-10-10 23:10:36+00:00,2019-12-14 04:39:03+00:00,[WIP] Desktop mouse control
+808,closed,2019-10-10 17:50:52+00:00,2019-10-21 22:46:14+00:00,Update bundle_it.properties
+801,closed,2019-10-09 18:15:51+00:00,2019-10-13 17:00:33+00:00,inverse match sorter
+799,closed,2019-10-09 14:06:39+00:00,2020-03-26 15:24:01+00:00,Complete Overhaul Of bundle_de.properties
+797,closed,2019-10-09 01:37:57+00:00,2020-01-08 16:23:13+00:00,Added PlayerLog
+796,closed,2019-10-08 07:20:51+00:00,2019-10-08 13:55:23+00:00,add Slag supply means
+795,closed,2019-10-07 17:49:40+00:00,2019-10-21 22:49:26+00:00,Update bundle_fr.properties
+791,closed,2019-10-07 10:12:21+00:00,2019-10-25 17:00:55+00:00,oh no bundle_oh_NO.properties; adding support for nonstandard locales
+787,closed,2019-10-06 20:56:32+00:00,2019-10-15 22:19:57+00:00,Updated Polish translation
+786,closed,2019-10-06 20:29:59+00:00,2019-10-09 13:33:21+00:00,Update bundle_de.properties
+783,closed,2019-10-06 13:30:25+00:00,2020-01-24 16:21:08+00:00,Update bundle_de.properties
+777,closed,2019-10-05 15:08:50+00:00,2019-10-20 20:50:55+00:00,Hybrid grid hotkey mode.
+770,closed,2019-10-03 21:42:45+00:00,2019-11-13 18:25:42+00:00,Enemy bot names
+764,closed,2019-10-02 19:34:22+00:00,2019-10-15 22:07:43+00:00,"""Fixed"" bloom being dark when zooming out"
+763,closed,2019-10-02 18:36:52+00:00,2019-12-23 03:08:47+00:00,Update bundle_pt_BR.properties
+756,closed,2019-10-01 11:32:49+00:00,2020-01-23 19:45:06+00:00,Change item amount display of Block Inventories to show decimals
+755,closed,2019-10-01 11:22:29+00:00,2019-12-23 03:08:23+00:00,Update bundle_de.properties
+751,closed,2019-09-30 12:30:59+00:00,2019-10-12 14:26:44+00:00,Update bundle_ko.properties
+750,closed,2019-09-30 03:07:50+00:00,2019-12-23 03:07:35+00:00,Update bundle_pt_BR.properties
+749,closed,2019-09-30 00:11:39+00:00,2019-10-04 12:16:34+00:00,Update bundle_zh_TW.properties
+741,closed,2019-09-28 10:39:55+00:00,2019-11-04 22:52:38+00:00,Made unloaders able to take items out of bridge conveyors / phase conveyors
+738,closed,2019-09-28 05:24:29+00:00,2019-09-28 12:28:29+00:00,Node edit
+734,closed,2019-09-27 18:09:56+00:00,2019-09-28 07:46:05+00:00,Update bundle_ja.properties
+733,closed,2019-09-27 17:04:58+00:00,2019-10-11 09:06:41+00:00,Update guide
+719,closed,2019-09-26 16:06:33+00:00,2019-10-02 00:32:16+00:00,Create achievements.vdf
+716,closed,2019-09-25 21:45:39+00:00,2019-09-27 21:24:19+00:00,"Update bundle_pt_BR.properties (incomplete, please don't merge yet)"
+707,closed,2019-09-24 23:34:06+00:00,2019-09-25 09:53:52+00:00,Can I add it?
+704,closed,2019-09-23 14:33:27+00:00,2019-12-13 15:04:44+00:00,Update bundle_ru.properties
+702,closed,2019-09-23 11:48:54+00:00,2019-09-23 15:59:47+00:00,Update bundle_ru.properties
+695,closed,2019-09-22 16:04:39+00:00,2019-09-22 16:11:47+00:00,Update the French translation
+689,closed,2019-09-21 22:11:04+00:00,2019-09-22 16:10:40+00:00,Update bundle_it.properties
+684,closed,2019-09-20 12:56:41+00:00,2019-09-25 09:58:15+00:00,Update bundle_ko.properties
+679,closed,2019-09-18 18:44:27+00:00,2019-09-18 18:53:46+00:00,Update bundle_pt_BR.properties
+676,closed,2019-09-18 12:00:55+00:00,2019-09-18 12:09:31+00:00,Update Japanese translations
+673,closed,2019-09-17 10:02:16+00:00,2019-10-15 03:39:54+00:00,Translate to Japanese by Eru
+671,closed,2019-09-16 19:36:52+00:00,2019-09-25 00:21:52+00:00,Minor code cleanup and fail-fast NPE validation for status effects
+668,closed,2019-09-16 06:07:45+00:00,2019-09-16 12:41:26+00:00,Fixes minimap zoom bug
+662,closed,2019-09-14 18:00:05+00:00,2019-09-16 01:14:09+00:00,Plugin YML
+658,closed,2019-09-13 17:20:54+00:00,2019-10-21 23:23:40+00:00,Update bundle_zh_CN.properties
+652,closed,2019-09-11 21:59:33+00:00,2019-09-26 04:34:53+00:00,Show position of player
+651,closed,2019-09-11 16:19:30+00:00,2019-09-24 23:33:32+00:00,Update bundle.properties
+649,closed,2019-09-10 17:44:17+00:00,2019-10-15 03:39:37+00:00,[WIP]
+641,closed,2019-09-07 13:47:56+00:00,2019-09-23 14:27:03+00:00,Provide German translation for the tutorial. (#640)
+634,closed,2019-09-04 17:45:11+00:00,2019-09-07 02:10:57+00:00,Coherent help message for a button (minor).
+625,closed,2019-08-31 16:59:44+00:00,2019-10-15 03:38:39+00:00,Creating bundle_hu.properties
+624,closed,2019-08-30 13:09:29+00:00,2019-09-15 11:40:24+00:00,[Ready to merge] add leds
+621,closed,2019-08-28 09:55:14+00:00,2019-08-30 09:08:25+00:00,Update bundle_ko.properties
+619,closed,2019-08-26 16:34:51+00:00,2019-08-31 16:11:57+00:00,Real CHAOS
+616,closed,2019-08-26 14:59:49+00:00,2019-08-31 17:05:02+00:00,Long time no see...
+615,closed,2019-08-26 14:43:02+00:00,2019-08-31 16:10:12+00:00,"Huge translate and fix, bundle_fr.properties I respect the etymology and the context (not finished)"
+614,closed,2019-08-26 12:10:19+00:00,2019-08-26 12:17:58+00:00,Update bundle_fr.properties
+613,closed,2019-08-25 17:32:50+00:00,2019-12-23 03:07:54+00:00,bundle_ro.properties (NOT FINISHED)
+606,closed,2019-08-23 21:05:39+00:00,2019-08-24 16:20:48+00:00,Update to Bundle_tr
+604,closed,2019-08-23 16:18:01+00:00,2019-08-31 11:54:05+00:00,FR translation fix
+601,closed,2019-08-22 05:10:21+00:00,2019-08-22 05:15:16+00:00,Update bundle_ko.properties
+599,closed,2019-08-21 14:56:31+00:00,2019-08-31 07:42:19+00:00,Some traduction about the new components add
+593,closed,2019-08-18 12:47:39+00:00,2019-08-18 14:27:58+00:00,fixed scrolling with mouse (2)
+591,closed,2019-08-17 18:55:10+00:00,2019-09-24 23:35:45+00:00, [WIP] Spanish bundle update
+581,closed,2019-08-15 07:33:59+00:00,2019-09-16 00:42:13+00:00,add co_op
+580,closed,2019-08-15 07:22:28+00:00,2019-09-16 01:26:23+00:00,Update bundle.properties
+578,closed,2019-08-09 16:30:13+00:00,2019-08-09 20:53:12+00:00,pls delete it
+573,closed,2019-08-06 20:42:34+00:00,2019-09-16 00:43:03+00:00,some zone descriptions
+572,closed,2019-08-06 13:32:55+00:00,2019-08-10 23:26:07+00:00,confoos
+567,closed,2019-07-30 04:36:30+00:00,2019-07-30 05:24:16+00:00,Update bundle_zh_CN.properties
+565,closed,2019-07-28 06:18:39+00:00,2019-09-16 00:43:32+00:00,Update bundle_ko.properties
+561,closed,2019-07-17 14:52:57+00:00,2019-07-17 14:53:46+00:00,small Modified
+559,closed,2019-07-13 13:59:37+00:00,2019-09-16 00:50:17+00:00,Resources war - new pvp gamemode
+552,closed,2019-07-08 12:15:06+00:00,2019-08-22 05:29:01+00:00,(Temporary) bundle_ko.properties
+537,closed,2019-06-26 17:56:33+00:00,2019-07-16 15:15:12+00:00,Multiplayer improvements
+536,closed,2019-06-25 22:41:11+00:00,2019-06-26 04:04:38+00:00,formatting en bundle with backslash apostrophe
+529,closed,2019-06-15 19:41:06+00:00,2019-09-16 00:50:40+00:00,(EN bundle) added descriptions
+520,closed,2019-06-10 02:14:44+00:00,2019-06-10 02:17:46+00:00,Create bundle_id.properties
+519,closed,2019-06-10 01:52:18+00:00,2019-06-10 02:17:36+00:00,Update bundle_in_ID.properties
+518,closed,2019-06-10 01:50:53+00:00,2019-06-10 02:18:19+00:00,Update bundle_in_ID.properties
+512,closed,2019-06-07 11:20:22+00:00,2019-06-07 11:26:28+00:00,Applied Factory Method Pattern in Mechs.java
+510,closed,2019-06-03 15:03:40+00:00,2019-06-03 15:12:08+00:00,Fix call to method with a wrong name (Scope::getMembers() instead of Scope::getSymbols())
+501,closed,2019-05-27 04:13:04+00:00,2019-05-27 15:05:10+00:00,Reduce the cyclomatic complexity of render method in MapRenderer.java 
+493,closed,2019-05-11 15:18:55+00:00,2019-08-13 20:49:28+00:00,Update bundle_pt_BR.properties
+488,closed,2019-05-05 06:43:53+00:00,2019-05-22 10:43:26+00:00,bundle_fil.properties
+479,closed,2019-05-01 08:09:37+00:00,2019-05-01 08:11:42+00:00,Update Uk_ua and ru bundles
+478,closed,2019-04-30 02:33:23+00:00,2019-04-30 04:01:11+00:00,I help
+477,closed,2019-04-29 02:19:48+00:00,2019-04-30 17:13:26+00:00,Update bundle_ko.properties
+476,closed,2019-04-28 17:59:39+00:00,2019-07-21 15:12:43+00:00,Create bundle_af.properties
+471,closed,2019-04-24 16:57:57+00:00,2019-04-25 01:39:59+00:00,Update bundle_ko.properties
+470,closed,2019-04-23 19:17:23+00:00,2019-05-13 13:07:50+00:00,Improved sandbox
+468,closed,2019-04-23 15:36:52+00:00,2019-08-13 20:50:01+00:00,Hungarian translation
+466,closed,2019-04-15 09:24:28+00:00,2019-04-30 16:55:55+00:00,Update bundle_ita.properties
+465,closed,2019-04-13 19:13:00+00:00,2019-04-14 07:21:37+00:00,Add string conversion to utf8 for discord rpc
+461,closed,2019-04-11 21:05:02+00:00,2019-08-13 20:50:26+00:00,Update bundle_fr.properties
+456,closed,2019-04-07 20:29:06+00:00,2019-04-12 20:56:32+00:00,New respawning and waves options for custom games
+455,closed,2019-04-06 19:54:34+00:00,2019-04-12 20:47:47+00:00,Update bundle_ru.properties
+419,closed,2019-03-06 12:57:44+00:00,2019-03-06 13:35:16+00:00,"I messed up, sorry. I mean it"
+407,closed,2019-02-13 04:39:24+00:00,2019-03-28 21:24:07+00:00,Create bundle_az.properties
+405,closed,2019-02-10 02:04:19+00:00,2019-03-28 21:23:23+00:00,Update bundle_zh_CN.properties
+400,closed,2019-02-06 17:31:03+00:00,2019-02-06 17:43:21+00:00,Some Wrong Translations
+393,closed,2019-01-18 16:30:35+00:00,2019-02-27 00:40:06+00:00,[WIP] Romanian bundle!
+391,closed,2019-01-11 18:03:53+00:00,2019-02-26 03:44:41+00:00,Create bundle_nl.properties
+384,closed,2018-12-21 18:20:51+00:00,2019-01-01 23:34:34+00:00,Create  strings.xml
+376,closed,2018-12-14 11:10:39+00:00,2019-01-01 23:44:09+00:00,Update block config every frame
+371,closed,2018-12-09 22:37:52+00:00,2018-12-09 23:16:04+00:00,Gridmode
+368,closed,2018-12-05 20:46:54+00:00,2018-12-05 20:49:19+00:00,[Accident]Speed cheats
+362,closed,2018-12-02 10:10:35+00:00,2019-01-14 03:56:43+00:00,"[WIP] Block UI rework, block and power info, (power rewrite?), enable/disable logic"
+353,closed,2018-11-23 05:33:42+00:00,2018-12-07 11:22:44+00:00,Filipino (Pilipinas) Language for Mindustry
+348,closed,2018-11-21 08:00:26+00:00,2018-12-13 20:53:49+00:00,Power info
+341,closed,2018-11-18 05:37:08+00:00,2018-11-18 05:38:51+00:00,New ui
+336,closed,2018-11-16 01:22:02+00:00,2018-11-19 00:15:32+00:00,Power can no longer go negative or exceed capacity
+334,closed,2018-11-15 20:56:48+00:00,2018-11-16 15:12:18+00:00,Update ServerControl.java
+329,closed,2018-11-13 18:43:43+00:00,2019-02-27 00:38:55+00:00,Created a bundle for translation to Serbian
+320,closed,2018-11-09 22:56:59+00:00,2018-11-10 10:28:08+00:00,"Fixed sector -2, 0 by adding a battle mission"
+319,closed,2018-11-09 10:38:55+00:00,2018-12-02 10:11:23+00:00,Enable/Disable option for blocks
+306,closed,2018-11-05 07:00:09+00:00,2018-11-07 06:46:55+00:00,change to game/screen mode of libgdx
+305,closed,2018-11-05 01:11:38+00:00,2018-11-05 18:06:51+00:00,Proposal for configurable starting core position and fixing tutorial sector
+303,closed,2018-11-04 12:31:55+00:00,2018-11-04 14:11:03+00:00,add again text.unit.none
+299,closed,2018-11-03 17:30:49+00:00,2019-02-26 03:46:07+00:00,Start of nl_BE [Not finished!]
+298,closed,2018-11-03 09:14:09+00:00,2018-11-03 13:33:16+00:00,Translation file preparation
+287,closed,2018-10-31 18:35:38+00:00,2018-11-08 02:33:10+00:00,Update translations and add some languages
+286,closed,2018-10-31 15:34:34+00:00,2018-11-03 16:33:11+00:00,[WIP][CLASSIC]Update bundle_ru.properties
+285,closed,2018-10-30 13:28:03+00:00,2018-10-30 13:40:58+00:00,Cultivator placement fix
+282,closed,2018-10-28 11:14:33+00:00,2018-10-28 15:13:46+00:00,Update bundle_ko.properties
+281,closed,2018-10-28 11:13:29+00:00,2018-11-02 02:42:14+00:00,Rename bundle_ko.properties to bundle_ko_KR.properties
+280,closed,2018-10-28 11:10:19+00:00,2018-10-28 14:57:47+00:00,Update bundle.properties
+279,closed,2018-10-28 11:09:26+00:00,2018-11-02 02:51:35+00:00,Update bundle_ko.properties
+277,closed,2018-10-27 11:37:55+00:00,2018-10-27 11:38:52+00:00,Export translations from POEditor
+274,closed,2018-10-26 02:21:39+00:00,2018-10-26 04:12:38+00:00,Fix typo
+267,closed,2018-10-24 11:01:40+00:00,2019-01-01 19:15:08+00:00,"Add UI,font and base camera scale settings(with one change in uCore)"
+266,closed,2018-10-24 03:36:49+00:00,2018-10-24 10:35:51+00:00,Add texts in font file
+265,closed,2018-10-24 03:32:17+00:00,2018-10-24 03:32:45+00:00,Add text in font file
+264,closed,2018-10-23 11:54:35+00:00,2018-10-24 02:58:18+00:00,Add Scale settings in a rough way...(with one change in uCore)
+263,closed,2018-10-23 06:22:56+00:00,2018-10-24 07:30:41+00:00,addtion of korean translated names
+259,closed,2018-10-22 13:16:25+00:00,2018-10-23 13:01:37+00:00,Updates bundle_fr_be.properties
+254,closed,2018-10-19 14:26:58+00:00,2018-10-22 07:16:45+00:00,call onFirstBegin on new sector
+245,closed,2018-10-16 01:23:08+00:00,2018-10-16 18:38:35+00:00,adjust buttons width in sector dialog
+237,closed,2018-10-13 07:37:38+00:00,2018-10-13 12:56:12+00:00,add BlockBuildCompletEvent
+232,closed,2018-09-30 07:59:23+00:00,2018-10-22 19:01:23+00:00,(WIp)Update bundle_uk_UA.properties
+218,closed,2018-09-08 21:49:45+00:00,2018-09-27 22:07:26+00:00,Update bundle_ru.properties
+215,closed,2018-09-05 22:29:48+00:00,2018-09-05 22:47:48+00:00,Add option to build client/server with commit
+209,closed,2018-09-02 23:00:51+00:00,2018-09-03 00:10:19+00:00,Requesting Turkish language option for Mindustry
+200,closed,2018-08-21 11:20:54+00:00,2018-08-21 13:00:00+00:00,created bundle_fi.properties (not ready)
+184,closed,2018-08-14 08:22:08+00:00,2018-08-14 08:47:52+00:00,Solve the generation problem to go after sector 16
+181,closed,2018-08-11 12:25:12+00:00,2018-08-13 10:35:54+00:00,Super Duper Hard add korean chat fonts with keep orignal english fonts
+167,closed,2018-08-01 17:45:17+00:00,2018-08-01 22:34:42+00:00,Update bundle.properties
+147,closed,2018-07-22 17:09:52+00:00,2018-08-20 19:47:41+00:00,Update bundle.fr properties [Incomplete]
+139,closed,2018-07-12 13:39:19+00:00,2018-07-12 14:32:01+00:00,Update .travis.yml
+134,closed,2018-07-04 13:35:02+00:00,2018-07-06 01:11:04+00:00,Change Korean font & full support Korean texts
+116,closed,2018-04-15 07:18:33+00:00,2018-04-15 08:35:49+00:00,Placement Preview
+112,closed,2018-04-03 19:05:48+00:00,2018-04-21 22:09:21+00:00,"Rotational replace, noclip & infinity reach in desktop sandbox"
+110,closed,2018-03-28 04:38:34+00:00,2018-03-28 13:49:16+00:00,File choosing assistance
+102,closed,2018-03-16 23:32:31+00:00,2018-05-06 03:02:42+00:00,add an info button for descriptions of the difficulty mode.
+95,closed,2018-02-22 18:49:48+00:00,2018-02-22 18:50:24+00:00,Alternate dim
+77,closed,2018-01-18 16:26:58+00:00,2018-01-18 23:34:46+00:00,"Replaced old, bulky controller cursor with new one"
+64,closed,2018-01-06 18:43:44+00:00,2018-01-06 18:44:27+00:00,Fixed linebreaks
+36,closed,2017-12-30 10:45:29+00:00,2018-03-04 05:18:20+00:00,WIP: LiquidTunnel
+22,closed,2017-12-16 16:07:59+00:00,2018-01-09 00:01:43+00:00,Made crafter support multiple recipes
+12,closed,2017-12-11 19:28:55+00:00,2017-12-11 23:09:07+00:00,Update Tile.java
+11,closed,2017-12-11 19:06:21+00:00,2017-12-11 19:23:42+00:00,Update Block.java
