@@ -1,0 +1,3356 @@
+date,author,message,files_changed
+2023-01-07 16:23:55+00:00,Anuken,Oct now has an octagon shield,3
+2023-01-07 16:24:02+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-01-07 16:27:15+00:00,Anuken,Fixed #7952,1
+2023-01-07 16:28:01+00:00,buthed010203,"Fix crash when toString returns null value (#8067)
+
+* Fix crash when toString returns null value
+
+* Return a string from NullUnit toString
+
+* Begone redundancy
+
+* Unwrap before null check to ensure non-nullability",2
+2023-01-07 16:29:46+00:00,Garen7,"Fixes polies helping the enemy team in pvp (#8056)
+
+Co-authored-by: Garen7 <Garen7@users.noreply.github.com>",1
+2023-01-07 16:30:49+00:00,Garen7,"Fixes the damage modifier not working sometimes (#8124)
+
+Co-authored-by: Garen7 <Garen7@users.noreply.github.com>",6
+2023-01-07 16:36:48+00:00,Anuken,#8040 but better,1
+2023-01-07 16:36:52+00:00,Anuken,Merge remote-tracking branch 'origin/master',9
+2023-01-07 16:37:39+00:00,MEEPofFaith,Fix only 1 ammoType displaying with missile units (#8020),1
+2023-01-07 16:38:12+00:00,stacktrace-error,"yay more hardcoded regions (#8021)
+
+* change fuckall
+
+* more of this
+
+* typo",2
+2023-01-07 16:39:05+00:00,end-me-please,Update LogicBlock.java (#8032),1
+2023-01-07 16:39:31+00:00,kituta,"Update bundle_ja.properties (#8006)
+
+* Update bundle_ja.properties
+
+一部を翻訳 // Translated in part.
+
+1244 Factions 派閥ではなくチームでも良いかもしれません
+
+* Update bundle_ja.properties
+
+セクター名と説明文 //Sector Name and Description
+ブロックの説明文 //Block Description
+
+* Update bundle_ja.properties
+
+Jun 3, 2021 Partial 7.0 merge - API preview から Nov 14, 2022 Revert hold time までの原語版の追記変更を適用しました。//Applied changes additions from Jun 3, 2021 to Nov 14, 2022.
+チュートリアル、現在目標(左上)、ユニット説明文などを翻訳//Translated tutorial text, current target text (upper left), unit description, etc.
+
+* Update bundle_ja.properties
+
+* Update bundle_ja.properties
+
+* Update bundle_ja.properties
+
+* Update bundle_ja.properties
+
+セルプロの説明文を原語版に合わせました。 // The description of Serpulo has been adapted to the original language version.
+語句の変更 // Changed a word or phrase.
+
+「依存関係」を「前提Mod」にしました。
+
+* Update bundle_ja.properties
+
+* Update bundle_ja.properties
+
+* Update bundle_ja.properties
+
+* Update bundle_ja.properties
+
+ブロックの説明文を整理しました。 // Organized block descriptions.
+
+* Update bundle_ja.properties
+
+* Update bundle_ja.properties
+
+* Update bundle_ja.properties
+
+* Update bundle_ja.properties
+
+Don't translate these yet! だったので戻しました。// Since it was ""Don't translate these yet!"", I returned the corresponding text.
+
+* Update bundle_ja.properties
+
+翻訳の追加と微修正 // Translations were added and minor corrections were made.
+
+* Update bundle_ja.properties
+
+脱字を修正 // Fixed a typo
+
+* Update bundle_ja.properties
+
+表記ゆれの統一 // Uniformity of notation
+
+* Update bundle_ja.properties
+
+* Update bundle_ja.properties
+
+誤字の修正 // Correction of typos",1
+2023-01-07 16:40:17+00:00,unknown,Automatic bundle update,1
+2023-01-07 16:43:07+00:00,MEEPofFaith,"Move beam drill facing update (Fix minor graphical glitch) (#8004)
+
+* move beam drill facing update
+
+* Add updateFacing back to updateTile
+
+* Stop consuming if not drilling anything.",1
+2023-01-07 16:43:23+00:00,Garen7,"Additional block build over options (#7993)
+
+* Adds missing block groups
+
+* Allows electrolyzers to be rotated by bulding over them too
+
+Co-authored-by: Garen7 <Garen7@users.noreply.github.com>",3
+2023-01-07 16:44:08+00:00,Zelaux,Fixed boolean setters for Structs (#8041),1
+2023-01-07 16:44:25+00:00,Nunting,Update bundle_ko.properties (#7992),1
+2023-01-07 16:45:25+00:00,Garen7,"Updates android Readme and Gradle (#7942)
+
+Co-authored-by: Garen7 <Garen7@users.noreply.github.com>",2
+2023-01-07 16:45:33+00:00,whert-dev,Added angleOffset to DrawPistons (#7950),1
+2023-01-07 16:46:14+00:00,MEEPofFaith,placeEffect (#7968),6
+2023-01-07 16:49:59+00:00,MEEPofFaith,"Power icon (#7901)
+
+* Power icon
+
+* Less yellow yelloow",1
+2023-01-07 17:03:54+00:00,Anuken,Fixed #7922,1
+2023-01-07 17:03:58+00:00,Anuken,Merge remote-tracking branch 'origin/master',19
+2023-01-07 17:04:36+00:00,Anuken,Fixed #7932,1
+2023-01-07 17:06:57+00:00,Anuken,Fixed #8092,1
+2023-01-07 17:15:37+00:00,Anuken,Fixed #8086 / Fixed #8065,2
+2023-01-07 17:37:37+00:00,Anuken,Fixed #7978,1
+2023-01-07 17:39:12+00:00,Anuken,Fixed #7946,1
+2023-01-07 17:44:29+00:00,Anuken,#8126,1
+2023-01-07 17:54:26+00:00,Garen7,"Fixes Tanks rotating needlessly after attack commands (#8112)
+
+Co-authored-by: Garen7 <Garen7@users.noreply.github.com>",1
+2023-01-07 17:55:19+00:00,MEEPofFaith,Cargo units *will* chase you down if you pick up their target. (#8033),1
+2023-01-07 18:15:56+00:00,Anuken,Fixed #8119,4
+2023-01-07 18:15:59+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-01-07 18:17:21+00:00,unknown,Automatic bundle update,34
+2023-01-07 18:22:58+00:00,phinner,"Update bundle_fr.properties (reopen of  #7883) (#7918)
+
+* pull #7883
+
+* add new translations
+
+* add these fine gentlemen to the contributors
+
+* bateau -> vaisseau
+
+* forgor again :skull:",2
+2023-01-07 18:23:43+00:00,unknown,Automatic bundle update,1
+2023-01-07 18:42:43+00:00,Anuken,Fixed #8011,1
+2023-01-07 18:42:48+00:00,Anuken,Merge remote-tracking branch 'origin/master',35
+2023-01-07 18:44:34+00:00,Anuken,Fixed #8060,1
+2023-01-07 18:48:28+00:00,GlennFolker,"Make custom Env flag reliably possible (#8019)
+
+* Make custom Env flag reliably possible
+
+* screw you
+
+* ""compatibility"" for mods that don't use add()",3
+2023-01-07 18:53:03+00:00,Anuken,Fixed #8042,1
+2023-01-07 18:53:07+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-01-07 19:00:32+00:00,Slotterleet,Update bundle_ru.properties (#7973),1
+2023-01-07 19:01:28+00:00,Anuken,Fixed #7962,2
+2023-01-07 19:01:33+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-01-07 19:10:41+00:00,Anuken,Fixed #8008,1
+2023-01-07 19:18:07+00:00,Anuken,Fixed #7944,2
+2023-01-07 19:26:25+00:00,Anuken,Fixed #8084,2
+2023-01-07 19:41:12+00:00,Anuken,sandbox is now actually sandbox again,1
+2023-01-07 19:42:27+00:00,Prosta4okua,"🍉🍉🍉 Watermelons have deployed. Prepare yourself for new Ukrainian translation for v7 release (#7885)
+
+* hehe
+
+* Finished translation. Need to proofread. Added 2 missing entries.
+
+* Fixes
+
+* Fixes #2
+
+* Added button Random to translations and fixed error
+
+* Fixes from @1stvaliduser
+
+* fixes
+
+* fixes
+
+* будівль -> будівель",4
+2023-01-07 19:43:14+00:00,unknown,Automatic bundle update,34
+2023-01-07 19:46:19+00:00,MEEPofFaith,Fix collideLine (#8037),1
+2023-01-07 19:46:31+00:00,Anuken,Fixed #8117,1
+2023-01-07 19:47:10+00:00,Anuken,Fixed #8117,1
+2023-01-07 19:47:14+00:00,Anuken,Merge remote-tracking branch 'origin/master',38
+2023-01-07 19:54:15+00:00,Anuken,Fixed #8015,1
+2023-01-07 19:54:34+00:00,phinner,"Update Xpdustry V7 servers (#7977)
+
+* update servers
+
+* more...
+
+* Add lobby server",3
+2023-01-07 20:07:40+00:00,Anuken,Fixed #8025,1
+2023-01-07 20:07:57+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-01-07 20:20:11+00:00,L0615T1C5-216AC-9437,Remove ports from cn (#8002),1
+2023-01-07 20:20:26+00:00,L0615T1C5-216AC-9437,"Add more ports to cn (#8003)
+
+* Add more ports to cn
+
+* Update servers_v7.json",1
+2023-01-07 20:29:51+00:00,Xasmedy,Added the mindustry.ddns.net HUB. (#7911),1
+2023-01-07 20:30:51+00:00,DikHalz,"add new server, servers_v7,json (#8106)
+
+* add new server, servers_v7,json
+
+* Update servers_v7.json
+
+* Update servers_v7.json
+
+* Update servers_v7.json
+
+Co-authored-by: DHz06 <87813567+DHz06@users.noreply.github.com>",1
+2023-01-07 21:14:04+00:00,Garen7,"Fixes typo on Payload Mass Drivers (#8090)
+
+Co-authored-by: Garen7 <Garen7@users.noreply.github.com>",1
+2023-01-07 21:16:34+00:00,MaxSMokeSkaarj,"SMoA come back (#8064)
+
+* SMoA come back
+
+* leave from v6
+
+* Fix",2
+2023-01-07 21:20:18+00:00,Xenerain,Update servers_v7.json (#8127),1
+2023-01-07 21:21:03+00:00,Anuken,a,2
+2023-01-07 21:22:06+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,3
+2023-01-07 21:22:55+00:00,VaporSpace2,"updates to GMS server network (#8059)
+
+adding the new ""Generic PvP server"" to v7 server list, renamed server network to ""generic mindustry""",1
+2023-01-07 23:40:41+00:00,TheTrueInfinity,Update servers_v7.json (#8118),1
+2023-01-07 23:49:20+00:00,MrS-1302,"Update servers_v6.json (#8082)
+
+Server upgrade to V7
+
+Co-authored-by: Anuken <arnukren@gmail.com>",1
+2023-01-08 00:34:36+00:00,Anuken,CargoAI target clearing,1
+2023-01-08 00:34:40+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-01-08 02:44:56+00:00,MrS-1302,"Update servers_v7.json (#8128)
+
+Server upgrade to V7",1
+2023-01-08 03:58:42+00:00,xem8k5,Update servers_v7.json (#8129),1
+2023-01-08 04:34:18+00:00,adamlolgaming,Update bundle_pl.properties (#8057),1
+2023-01-08 04:38:12+00:00,Miniontoby,"Fixed sand-floor translation in Dutch (#8058)
+
+Changed from 'Donker Zand' which means 'dark sand' to 'Zand' which is just 'sand'",1
+2023-01-08 04:38:26+00:00,MWestfall,"Update servers_v6.json (#7990)
+
+Remove ECAN from v6",1
+2023-01-08 04:40:42+00:00,MWestfall,"Update servers_v7.json (#7989)
+
+Add ECAN to v7",1
+2023-01-08 04:41:28+00:00,Volas171,"Update servers_v7.json (#8074)
+
+* Update servers_v7.json
+
+* little space",1
+2023-01-08 04:42:16+00:00,Somka000,"Add server to list (#8009)
+
+Co-authored-by: Anuken <arnukren@gmail.com>",1
+2023-01-08 04:42:28+00:00,Somka000,"Add server to list (#8009)
+
+Co-authored-by: Anuken <arnukren@gmail.com>",0
+2023-01-08 05:15:55+00:00,Khanx,Updated spanish translation (#7928),1
+2023-01-08 05:16:58+00:00,Anuken,Merge of #7987,1
+2023-01-08 05:17:52+00:00,Anuken,"Merge remote-tracking branch 'origin/master'
+
+# Conflicts:
+#	core/assets/bundles/bundle_es.properties",4
+2023-01-08 05:18:51+00:00,unknown,Automatic bundle update,1
+2023-01-08 06:22:32+00:00,J0anJosep,Update bundle_ca.properties (#7947),1
+2023-01-08 06:23:54+00:00,Anuken,Merged #8053,1
+2023-01-08 06:24:54+00:00,unknown,Automatic bundle update,1
+2023-01-08 15:19:47+00:00,Anuken,Fixed #8132,2
+2023-01-08 15:19:52+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-01-08 15:24:55+00:00,Anuken,Fixed #8131,1
+2023-01-08 17:29:29+00:00,Anuken,Status flash tweaks,3
+2023-01-08 19:40:47+00:00,Anuken,More consistent status flash,1
+2023-01-09 03:54:29+00:00,Volas171,Update servers_v7.json (#8133),1
+2023-01-09 03:55:07+00:00,Prosta4okua,"Ukr translation v7  (#8134)
+
+* hehe
+
+* Finished translation. Need to proofread. Added 2 missing entries.
+
+* Fixes
+
+* Fixes #2
+
+* Added button Random to translations and fixed error
+
+* Fixes from @1stvaliduser
+
+* fixes
+
+* fixes
+
+* виправлення
+
+* Update bundle_uk_UA.properties",1
+2023-01-09 17:48:03+00:00,romanin-rf,Update servers_v7.json (#8137),1
+2023-01-09 17:48:55+00:00,unknown,Automatic bundle update,1
+2023-01-09 17:49:20+00:00,unknown,"Update servers_v7.json (#8135)
+
+I want to add a server",1
+2023-01-10 02:11:15+00:00,unknown,"Update servers_v7.json (#8138)
+
+I created survival server",1
+2023-01-10 02:11:25+00:00,TNT331,Add v7 Serv (#8139),1
+2023-01-10 03:08:40+00:00,MEEPofFaith,"Region part growing (#7861)
+
+E x p a n d",2
+2023-01-10 03:11:32+00:00,MaxSMokeSkaarj,"Thanks Anton! (#8142)
+
+thats a very stupid mistake",1
+2023-01-10 03:17:20+00:00,Anuken,Ship beryllium cost increase / Scathe discover range nerf,2
+2023-01-10 03:17:27+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-01-10 13:45:57+00:00,unknown,"Update servers_v7.json (#8146)
+
+Explosive hub and pvp",1
+2023-01-10 16:59:31+00:00,Anuken,Minor unit balance changes,1
+2023-01-10 16:59:36+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-01-10 17:11:37+00:00,MEEPofFaith,"Proper trails for point lasers (#8038)
+
+* Proper trails for point lasers
+
+* Take current size into account
+
+* fh9weqfjpoepiofjwpiqoefjpoiwjieqpofpjioji
+
+* Web editing moment
+
+* Point laser bullets shouldn't have aa shoot effect
+
+* h",1
+2023-01-11 02:25:23+00:00,Anuken,unitCrashDamage rule,2
+2023-01-11 02:26:57+00:00,Anuken,+,1
+2023-01-11 13:56:29+00:00,MEEPofFaith,"Make crash damage a multiplier instead of a toggle (#8151)
+
+* Switch unitCrashDamage to a multiplier
+
+* Add to rules dialog",4
+2023-01-11 13:57:16+00:00,unknown,Automatic bundle update,34
+2023-01-11 14:06:44+00:00,MEEPofFaith,Fix armor piercing not working against buildings (#8150),1
+2023-01-11 14:23:22+00:00,Anuken,Fixed #8153,1
+2023-01-11 14:23:29+00:00,Anuken,Merge remote-tracking branch 'origin/master',39
+2023-01-12 00:59:58+00:00,Anuken,Fixed #8156,1
+2023-01-12 01:01:44+00:00,osp54,XCore server (#8158),1
+2023-01-12 13:36:47+00:00,Anuken,Fixed #8159,1
+2023-01-12 13:36:52+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-01-12 13:50:19+00:00,Anuken,Damage object pooling,1
+2023-01-12 13:51:28+00:00,Darkness6030,"Fixed russian translate (#8045)
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_ru.properties",1
+2023-01-12 14:35:48+00:00,Anuken,Fixed crash with modded unit classes,1
+2023-01-12 14:35:52+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-01-12 16:32:57+00:00,Anuken,Force canGameOver in campaign,1
+2023-01-12 16:36:13+00:00,Anuken,Further scathe uncover range nerf,1
+2023-01-12 19:30:57+00:00,Anuken,Fixed #8161 / Fixed #8162,3
+2023-01-12 19:38:11+00:00,Anuken,Revert JSON rules change,2
+2023-01-12 19:42:42+00:00,Anuken,Fixed #8165,1
+2023-01-12 21:24:51+00:00,Darkness6030,"Administration improvements (#8167)
+
+* Administration improvements
+
+Reduced the interval for preventing sending the same message because 50 seconds is too much and kinda confusing
+Added saving and loading kicked IPs so they are saved even when the server crashes
+Fixed smth in Config
+
+* skill issue",1
+2023-01-12 22:01:47+00:00,Anuken,Fixed #8168,2
+2023-01-12 22:01:52+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-01-13 03:52:32+00:00,Anuken,encoding test,1
+2023-01-13 03:53:33+00:00,unknown,Automatic bundle update,1
+2023-01-13 14:31:10+00:00,Anuken,Fixed #8170,1
+2023-01-13 14:31:14+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-01-13 14:42:28+00:00,Anuken,Reverting #8037,1
+2023-01-13 14:44:08+00:00,Nunting,Update bundle_ko.properties (#8171),1
+2023-01-13 14:59:01+00:00,Anuken,Complete revert of #8019,1
+2023-01-13 14:59:05+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-01-13 21:51:36+00:00,Darkness6030,"Fix cheaty item and liquid turrets (#8176)
+
+* Update Turret.java
+
+* Update TractorBeamTurret.java
+
+* Update TractorBeamTurret.java
+
+* Update ItemTurret.java
+
+* Update LiquidTurret.java",3
+2023-01-14 00:34:48+00:00,Anuken,Fixed #8177,1
+2023-01-14 00:34:52+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-01-14 15:05:30+00:00,MEEPofFaith,"Hitscan fix 2 (#8175)
+
+* Revert ""Reverting #8037""
+
+Re-implement #8037
+
+* Properly count collisions
+
+Fix #8170",1
+2023-01-14 19:41:14+00:00,Knochi,Never use „tun“ in German language (#8179),1
+2023-01-15 13:42:59+00:00,DinnerWool,Update servers_v7.json (#8183),1
+2023-01-15 13:51:51+00:00,Anuken,Fixed drawing of assembler payloads,2
+2023-01-15 13:51:57+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-01-15 20:19:13+00:00,Anuken,Fixed #8184,2
+2023-01-16 16:06:34+00:00,Anuken,Fixed #8185,1
+2023-01-16 16:07:00+00:00,nanmenyangde,"Revert #8176 (#8186)
+
+Liquid turrets are used to give buff like wet but not do the damage. The ammo change is not appropriate.",1
+2023-01-16 20:28:40+00:00,Anuken,Fixed #8187,1
+2023-01-16 20:28:45+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-01-17 05:18:09+00:00,unknown,"Update servers_v7.json (#8189)
+
+HexPvP IP Change",1
+2023-01-17 23:49:20+00:00,J0anJosep,Update bundle_ca.properties (#8190),1
+2023-01-17 23:50:44+00:00,Anuken,Fixed #8192,1
+2023-01-17 23:50:49+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-01-18 15:41:39+00:00,Anuken,Fixed #8194,1
+2023-01-18 16:49:22+00:00,SachaTending,add tendhost(not running) [reopened] (#8147),1
+2023-01-19 05:34:13+00:00,eSK8er,Update servers_v7.json (#8145),1
+2023-01-20 14:37:28+00:00,Anuken,Efficiency fix,1
+2023-01-20 14:37:33+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-01-21 14:40:26+00:00,unknown,"Update servers_v7.json (#8201)
+
+Crawler arena",1
+2023-01-22 13:59:32+00:00,Anuken,Fixed #8202,1
+2023-01-22 13:59:36+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-01-22 14:26:09+00:00,Anuken,Removed Omnidustry sandbox due to moderation issues (#8203),1
+2023-01-22 14:54:39+00:00,SSTentacleSS,Banned logic displays on sandbox (#8204),1
+2023-01-22 16:03:59+00:00,SSTentacleSS,Update SERVERLIST.md (#8205),1
+2023-01-31 19:07:30+00:00,osp54,[XCore] Hexed server,1
+2023-02-01 18:09:46+00:00,Epowerj,"Merge pull request #8242 from osp54/patch-2
+
+[XCore] Hexed server",1
+2023-02-01 18:35:06+00:00,Anuken,Fixed #8232,1
+2023-02-01 18:35:11+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-02-01 19:09:16+00:00,Anuken,Fixed #8236,1
+2023-02-01 19:18:29+00:00,Anuken,Fixed #8211,1
+2023-02-01 19:42:50+00:00,Anuken,Fixed #8235 / Fixed #8221,6
+2023-02-01 19:45:00+00:00,Darkness6030,It doesn't work (#8237),1
+2023-02-01 19:45:28+00:00,way-zer,Update servers_v7.json (#8240),1
+2023-02-01 19:45:56+00:00,MEEPofFaith,Strip colors from mod name as well (#8224),1
+2023-02-01 19:48:26+00:00,unknown,Update servers_v7.json (#8215),1
+2023-02-01 19:51:36+00:00,ulwepo,Update servers_v7.json (#8214),1
+2023-02-01 19:51:47+00:00,TheRadioactiveBanana,"Added nuclear pvp server (#8222)
+
+i somehow forgot to press propose changes doing this yesterday, so i do this again today",1
+2023-02-01 19:55:39+00:00,SSTentacleSS,Update servers_v7.json (#8238),1
+2023-02-01 19:55:52+00:00,KotMilkMeoWtwo,"Update servers_v7.json (#8234)
+
+nya",1
+2023-02-01 19:57:09+00:00,LeTuanVN,"Update vi translation (#8225)
+
+* Update bundle_vi.properties
+
+* Update bundle_vi.properties",1
+2023-02-01 20:20:34+00:00,Anuken,Random server order,2
+2023-02-01 20:20:38+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-02-01 20:21:42+00:00,phinner,"Mod dependency resolution improvements (#7972)
+
+* soft dependencies + better mod resolution algorithm
+
+* update ModMeta#toString
+
+* var
+
+* add #7962 bugfix
+
+* Use existing code to resolve
+
+* add state text for mod dialog
+
+* bugfix
+
+* fix error text
+
+* remove external resolver class
+
+It's simpler like that :)",3
+2023-02-01 20:22:46+00:00,unknown,Automatic bundle update,34
+2023-02-09 03:25:10+00:00,Anuken,Fixed #8251,1
+2023-02-09 03:28:44+00:00,MEEPofFaith,Fix modded payload conveyor icons (#8266),1
+2023-02-09 03:35:13+00:00,MEEPofFaith,"Make type not required if the template already provides one (#8257)
+
+Such as with missile units",1
+2023-02-09 03:44:07+00:00,Darkness6030,"Add pvpAutoPause rule (#8249)
+
+* Update Rules.java
+
+* Update NetServer.java",2
+2023-02-09 03:48:17+00:00,Anuken,Replaced #8035,1
+2023-02-09 03:48:33+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,4
+2023-02-09 03:49:19+00:00,unknown,Automatic bundle update,1
+2023-02-09 03:50:21+00:00,Kieaer,Remove dead servers v6 (#8262),1
+2023-02-09 03:51:25+00:00,phinner,"Add info section about SRV records in SERVERLIST.md (#8252)
+
+* update SERVERLIST.md
+
+* aslo setup :skull:",1
+2023-02-09 03:54:17+00:00,SSTentacleSS,"Update servers_v7.json (#8260)
+
+We added DNS v4/v6 with proxy, updated addresses and moved our servers to a more productive host
+
+*P.S Sorry for creating pull requests before this, I was too stupid to realize that this pull request is directed to the order of ping requests, and not to the order of servers in general..*",1
+2023-02-09 03:54:45+00:00,unknown,"Update servers_v7.json (#8256)
+
+Explosive hub deleted",1
+2023-02-09 14:20:06+00:00,way-zer,"Fix Turret bug when `cheat` (#8273)
+
+* （C/S) Fix ItemTurret ammo when `cheat`.
+
+* （C/S) Fix `TurretBuild.updateReload` NPE when `cheat`",2
+2023-02-09 14:21:55+00:00,Kieaer,"Fix server auto pause when gameover (#8220)
+
+* Fix server auto pause when gameover
+
+* Update ServerControl.java
+
+* Update ServerControl.java",1
+2023-02-09 14:22:58+00:00,SSTentacleSS,"Update servers_v7.json (#8271)
+
+**SRV proved to be really too inefficient and unprofitable!!**
+
+1. Huge delays
+2. These records do not work for everyone",1
+2023-02-09 22:43:11+00:00,Volas171,Update servers_v7.json (#8276),1
+2023-02-09 22:50:43+00:00,Anuken,Fixed #8277,1
+2023-02-09 22:50:46+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,7
+2023-02-11 22:40:57+00:00,Anuken,Basic unit boost command support,9
+2023-02-13 19:12:53+00:00,Anuken,Quell no longer targets flying units,3
+2023-02-13 19:13:48+00:00,unknown,Automatic bundle update,34
+2023-02-14 20:08:24+00:00,Anuken,turret status fix,2
+2023-02-14 20:08:27+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,34
+2023-02-15 13:35:53+00:00,Anuken,Fixed #8297,1
+2023-02-15 13:57:06+00:00,Anuken,Less Core.app.post for build events,2
+2023-02-15 13:58:09+00:00,Darkness6030,"Changed Darkdustry domain to direct IP address (#8292)
+
+Why? Because darkdustry.net is not available in some countries (Ukraine, Israel and some more)
+Also improved formatting",1
+2023-02-15 13:59:57+00:00,MEEPofFaith,Use setBars instead of overriding displayBars (#8296),1
+2023-02-15 14:00:10+00:00,ulwepo,Update bundle_ja.properties (#8300),1
+2023-02-15 14:00:34+00:00,Larofeticus,"Update Team.java to increase dynamic range of team colors (#8279)
+
+I'm having a lot of trouble finding enough visually distinct team colors; In the worst case I need about 25 colors. I am manually excluded colliding team numbers I know about, but, I can only find about 14 easily distinguishable colors before everything is another bright magenta, or yellow, or cyan, or pale green.",1
+2023-02-15 14:01:03+00:00,MEEPofFaith,Return salvo and swarmer to how they were before shoot changes (#8278),1
+2023-02-15 14:02:32+00:00,way-zer,"Fix turret when cheating (#8291)
+
+* （C/S) Fix ItemTurret ammo when `cheat`.
+
+* （C/S) Fix `TurretBuild.updateReload` NPE when `cheat`
+
+* Why `shouldConsume` cause `potentialEfficiency=0`",1
+2023-02-15 14:02:46+00:00,SSTentacleSS,"Update servers_v7.json (#8294)
+
+DNS doesn't work for everyone",1
+2023-02-15 14:34:38+00:00,Baldur404,"Update servers_v7.json (#8290)
+
+Co-authored-by: Anuken <arnukren@gmail.com>",1
+2023-02-15 14:59:32+00:00,Anuken,Hide isHidden content in mod info,1
+2023-02-15 15:33:36+00:00,Anuken,Fixed shield break effect,1
+2023-02-15 15:34:52+00:00,Anuken,Minor Conquer buff,2
+2023-02-15 15:34:57+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,6
+2023-02-15 15:38:44+00:00,unknown,"Update servers_v7.json (#8293)
+
+Explosive corp deleted",1
+2023-02-15 17:16:51+00:00,MEEPofFaith,"Move core launch/landing to CoreBlock (#8055)
+
+* Move core launch/landing to CoreBlock
+
+* Slight cleanup
+
+* just gonna...",2
+2023-02-16 04:22:05+00:00,MEEPofFaith,`connectedPower` similar to `conductivePower` (#8306),4
+2023-02-17 14:03:44+00:00,Kowkodivka,Update servers_v7.json (#8307),1
+2023-02-17 14:13:59+00:00,Kieaer,"Add window size parameter (#8281)
+
+* Add window size parameter
+
+* Formatting
+
+* Java 8",1
+2023-02-17 14:18:08+00:00,Anuken,formatting,1
+2023-02-19 00:47:22+00:00,Anuken,Fixed #8316,2
+2023-02-19 00:48:08+00:00,ferrandusqui31,"Missing translation and errors correction (#8312)
+
+On line 104 updated joingame from ""Uneix-me a una partida"" to ""Unir-se a una partida"".
+On line 494 update editor.savemap from ""Desa un mapa"" to ""Desa el mapa"".
+On line 1386 updated block.kiln.name from ""Kiln"" to ""Forn de vidre"".
+On line 1468 updated block.reinforced.message  from ""Missatge remarcat"" to ""Missatge reforçat"".",1
+2023-02-19 00:48:22+00:00,MEEPofFaith,ClientServerConnectEvent (#8309),2
+2023-02-19 04:12:47+00:00,Anuken,added missing break,1
+2023-02-19 04:12:52+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-02-19 14:25:09+00:00,osp54,[XCore] Change ip (#8319),1
+2023-02-19 14:26:59+00:00,Fischer1000,"Update hungarian language file (#8315)
+
+Fine tune the file. I have made it to it's quarter today (line 537).",1
+2023-02-20 17:19:56+00:00,Anuken,Crash fix,1
+2023-02-20 17:20:01+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-02-20 17:27:24+00:00,Anuken,githubImportMod old signature returned,1
+2023-02-20 18:46:01+00:00,Taras4k,Update servers_v7.json (#8322),1
+2023-02-20 19:19:36+00:00,Anuken,Update deployment.yml,1
+2023-02-21 14:52:55+00:00,DikHalz,"Update servers_v7.json (#8325)
+
+HUB
+
+Co-authored-by: ColaHz <87813567+ColaHz@users.noreply.github.com>",1
+2023-02-21 14:55:33+00:00,unknown,Update servers_v7.json (#8320),1
+2023-02-21 14:55:55+00:00,ulwepo,Update bundle_ja.properties (#8324),1
+2023-02-21 15:24:45+00:00,Anuken,Fixed #8326,2
+2023-02-21 15:24:50+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-02-21 15:26:04+00:00,twinflac,"Updated belarusian translate. (#8327)
+
+Edited by monodx.",1
+2023-02-21 15:54:56+00:00,Anuken,Fixed issues with #7972,1
+2023-02-21 15:55:01+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-02-21 23:15:20+00:00,Anuken,Fixed #8328,2
+2023-02-22 18:02:04+00:00,Kieaer,Fix server always paused (#8330),1
+2023-02-22 18:02:09+00:00,twinflac,"Updated and improved belarusian translation. (#8331)
+
+Edited by monodx.",1
+2023-02-22 18:03:15+00:00,unknown,Automatic bundle update,1
+2023-02-23 14:06:07+00:00,SSTentacleSS,Update servers_v7.json (#8332),1
+2023-02-23 21:12:52+00:00,Anuken,isLogicControllable,5
+2023-02-23 21:12:57+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-02-25 16:38:18+00:00,Anuken,Fixed keybind names,36
+2023-02-26 20:36:28+00:00,Anuken,a,1
+2023-02-27 04:03:03+00:00,Anuken,fixed ignoreLiquidFullness,1
+2023-02-27 16:25:12+00:00,TheTrueInfinity,"Update servers_v7.json (#8349)
+
+* Update servers_v7.json
+
+* Update servers_v7.json
+
+* Update servers_v7.json",1
+2023-02-27 16:25:29+00:00,Kowkodivka,"[RU] Small translation update (#8342)
+
+* [RU] Small translation update
+
+* Update bundle_ru.properties",1
+2023-02-27 16:26:26+00:00,MEEPofFaith,Don't generate edges if edges already exist (#8338),1
+2023-02-27 16:26:47+00:00,MEEPofFaith,overRegion (#8337),1
+2023-03-08 11:56:44+00:00,Anuken,Fixed #8340 / Reverted #8220,1
+2023-03-08 11:56:49+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-03-08 12:06:59+00:00,Anuken,Fixed #8368,2
+2023-03-08 12:12:04+00:00,SunkyMP3G,"Clearer translations (#8364)
+
+* Clearer translations
+
+* Small changes",1
+2023-03-08 13:26:11+00:00,MEEPofFaith,"Player unit spawns before core animation finishes (#8375)
+
+* Player unit spawns before core animation finishes
+
+* the
+
+* Shouldn't the landing particles also be aimed at the tile's world pos?",2
+2023-03-08 14:10:34+00:00,MEEPofFaith,"Display Interval Bullet in Stats + Collapsers (#8366)
+
+* Display interval bullets in stats
+
+* Collapsers for sub-bullets
+
+* highlight /sec as well
+
+* top",2
+2023-03-08 14:11:07+00:00,MEEPofFaith,"Interval Bullet Delay (#8365)
+
+Like homing delay",1
+2023-03-08 14:11:55+00:00,unknown,Automatic bundle update,34
+2023-03-08 14:16:07+00:00,MEEPofFaith,Non-hexagonal force projectors (#8358),1
+2023-03-08 14:17:39+00:00,MEEPofFaith,"Shield flash on top (#8373)
+
+Co-authored-by: Anuken <arnukren@gmail.com>",2
+2023-03-08 14:18:17+00:00,twinflac,"Update bundle_be.properties. (#8374)
+
+Worked Dima Pozniac and monodx.
+
+Thanks.",1
+2023-03-08 14:18:46+00:00,osp54,[XCore] new server (#8372),1
+2023-03-08 14:19:41+00:00,unknown,Automatic bundle update,1
+2023-03-08 14:19:57+00:00,MEEPofFaith,"Drill multipliers for regular drills and beam drills (#8339)
+
+* Drill multipliers for other drills
+
+* h",3
+2023-03-08 14:20:48+00:00,NgLam2911,"Vietnamese translation for mindustry v7 update (Phase 1) (#7843)
+
+* Update bundle_vi.properties
+
+* Update bundle_vi.properties
+
+* Alot of todo ...
+
+* More...
+
+* REEEEEEEE
+
+* Alot of descriptions
+
+* re-translate sectors desc
+
+* fck VSC
+
+* update sector descriptions
+
+* Sector hints
+
+* Block description
+
+---------
+
+Co-authored-by: Arckyn Nightingale <86044974+Kynarc@users.noreply.github.com>
+Co-authored-by: Anuken <arnukren@gmail.com>",1
+2023-03-08 14:21:36+00:00,unknown,Automatic bundle update,1
+2023-03-08 14:25:56+00:00,J0anJosep,"Update bundle_ca.properties (#8341)
+
+Missatge reforçat->Missatge destacat
+Unir->Uneix (use imperative in buttons)",1
+2023-03-08 18:11:53+00:00,MEEPofFaith,json-able attributes (#8334),2
+2023-03-09 10:25:35+00:00,Anuken,Basic setProp implementation,9
+2023-03-09 10:25:41+00:00,Anuken,Merge remote-tracking branch 'origin/master',47
+2023-03-18 20:14:01+00:00,Anuken,Pathfinder bugfixes,4
+2023-03-25 15:11:06+00:00,Anuken,Steam kick bugfixes,4
+2023-03-25 16:42:29+00:00,Anuken,Fixed Steam public lobby hosting / Misc Steam bugfixes,6
+2023-03-25 16:43:28+00:00,unknown,Automatic bundle update,34
+2023-03-25 17:01:12+00:00,Anuken,Fixed #8423,1
+2023-03-25 17:01:16+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-03-25 17:10:21+00:00,SITUVNgcd,"Add `Events.fire(Trigger.unitCommandChange)` in select/remove unit by type (#8406)
+
+* Added `Events.fire(Trigger.unitCommandChange)` and `boolean fireInRebuildCommand`
+
+Added `Events.fire(Trigger.unitCommandChange)` to **left click - select** and **right click - remove**.
+Added `boolean fireInRebuildCommand` to prevent infinite event loop with `rebuildCommand`.
+
+* Remove useless `fireInRebuildCommand` flag.",1
+2023-03-25 17:16:12+00:00,Anuken,Fixed #8399,1
+2023-03-25 17:16:15+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-03-25 17:20:04+00:00,Anuken,Fixed #8401,1
+2023-03-25 17:36:45+00:00,Anuken,Fixed #8418,2
+2023-03-25 17:46:11+00:00,nanmenyangde,Fix memory leak in pools (#8415),1
+2023-03-25 17:46:55+00:00,gorodmi,Allow 0 items (#8389),1
+2023-03-25 17:47:53+00:00,MEEPofFaith,"Fix armor piercing ignoring status effect health multiplier (#8387)
+
+* Make rawDamage protected
+
+* pierceArmor ignores status effect health multiplier
+
+* This is no longer the case",2
+2023-03-25 17:49:22+00:00,MEEPofFaith,"If it don't collide, don't collide (#8388)",1
+2023-03-25 17:50:06+00:00,Pasu4,"Scale planet grid to planet radius (#8381)
+
+* Scale planet grid to planet radius
+
+* Fix skewed sector icons on small planets",2
+2023-03-25 17:50:25+00:00,Darkness6030,"Call.textInput (#8355)
+
+* Update Menus.java
+
+* Update EventType.java
+
+* Update UI.java
+
+* WHY
+
+* WHY x2
+
+* fix
+
+* :skull:",3
+2023-03-25 17:51:43+00:00,MEEPofFaith,Make an interface for blocks that spawn tethered units (#8395),2
+2023-03-25 17:52:04+00:00,phoskee,"Update bundle_it.properties (#8411)
+
+Fixed errors
+Translated some sentences",1
+2023-03-25 17:55:26+00:00,BalaM314,"Set controller after setting spawnedByCore (fix UnitChangeEvent) (#8428)
+
+* CoreBlock.playerSpawn: Set spawnedByCore first
+* The call to unit.controller() calls player.unit(unit)
+* That function fires UnitChangeEvent
+* The unit in UnitChangeEvent has spawnedByCore incorrectly set to false
+* This caused me to waste an hour of my life while making a plugin
+
+* Might as well improve code readability",1
+2023-03-25 17:56:48+00:00,thedimas3007,[thedimas] Use IP instead of domain (#8393),1
+2023-03-25 17:57:11+00:00,TheRadioactiveBanana,Add eradication mindustry HexPvP && Hub server (#8380),1
+2023-03-25 17:57:20+00:00,Brandons404,added pvp server to fish (#8413),1
+2023-03-25 17:57:50+00:00,Suportik-GFX,Update servers_v7.json (#8421),1
+2023-03-25 17:58:10+00:00,HamzaGSopp,"new server v7 (#8426)
+
+new server Tamazia",1
+2023-03-25 18:00:08+00:00,MEEPofFaith,"Battery Graphical Updates (#8323)
+
+* Battery Graphical Updates
+
+* Add the vanilla fields back
+
+* Add back topRegion and depricate it",3
+2023-03-25 18:06:14+00:00,MEEPofFaith,Pierce damage decay (#8416),2
+2023-03-25 18:24:09+00:00,MEEPofFaith,"More specific ui scaling options (#8356)
+
+Increments of 5 instead of 25",1
+2023-03-25 18:26:46+00:00,Anuken,Removed pointless CRC check,1
+2023-03-25 18:26:50+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-03-25 18:31:14+00:00,MEEPofFaith,"Include int[] in readObject/writeObject (#8400)
+
+* Include int[] in readObject/writeObject
+
+* The almighty Object[]
+
+* Order",1
+2023-03-26 02:45:07+00:00,MEEPofFaith,"Better Ammo Stats Display (#8429)
+
+* Cleaner ammo stats based on unit factory recipe stats
+
+* Display suppression in bullet stats
+
+Also reword from ""regen"" to ""repair"" to more accurately convey that build towers are affected as well.
+
+* PointLaserBulletTypes don't display damage in dps
+
+* Display preview region instead of region
+
+* autoFixed",3
+2023-03-26 02:45:57+00:00,unknown,Automatic bundle update,34
+2023-03-26 15:53:46+00:00,MEEPofFaith,"Fix frags in frags creating a large empty space (#8430)
+
+* Fix frags in frags creating a large empty space
+
+* Change suppression message
+
+Consistency with status duration
+
+* Too little space between boxes",2
+2023-03-26 18:53:14+00:00,MEEPofFaith,"(Optionally) Scale efficiency of attribute crafters (#8433)
+
+* Scale efficiency of attribute crafters
+
+* Make it optional :D
+
+* Call super",1
+2023-03-27 02:46:30+00:00,Anuken,Multi-line server list,3
+2023-03-27 02:46:35+00:00,Anuken,Merge remote-tracking branch 'origin/master',39
+2023-03-27 03:17:08+00:00,Anuken,Closes Anuken/Mindustry-Suggestions/issues/4353,1
+2023-03-27 14:07:41+00:00,Anuken,Fixed #8435,1
+2023-03-27 14:19:35+00:00,Anuken,might as well blacklist it in the game too,1
+2023-03-27 14:40:16+00:00,Anuken,Fixed RadialEffect + MultiEffect,1
+2023-03-28 18:04:07+00:00,Suportik-GFX,"Update servers_v7.json (#8441)
+
+adding one more server under the Exploding Cowards.",1
+2023-03-28 22:04:35+00:00,Volas171,Update servers_v7.json (#8443),1
+2023-03-30 22:26:05+00:00,phinner,"Update Xpdustry servers (#8446)
+
+* Update Xpdustry servers
+
+* Add warning about SRV records
+
+* Remove default port
+
+* And now... Dik is gone too",2
+2023-03-31 01:23:53+00:00,MEEPofFaith,bridgeReplacement for ducts (#8447),1
+2023-03-31 18:21:41+00:00,Xasmedy,"Adding a new menu type. (#8449)
+
+* Added a new type of menu.
+
+* Renamed the methods and fixed buttons not selecting.
+
+* Fixed followUpMenu and menu having different dialogs.
+
+* Applying review changes.
+- Refactored the menu dialog instantiation.
+- Fixed the single-line else statement.",2
+2023-03-31 20:30:14+00:00,Xasmedy,Update contributors (#8450),1
+2023-04-01 02:02:57+00:00,Anuken,Better impl of #8451,1
+2023-04-01 02:03:02+00:00,Anuken,Merge remote-tracking branch 'origin/master',6
+2023-04-01 02:44:54+00:00,Anuken,Setprop description,1
+2023-04-01 02:45:47+00:00,unknown,Automatic bundle update,34
+2023-04-01 03:04:55+00:00,Anuken,JSON planet cloudMesh/HexSkyMesh support,1
+2023-04-01 03:05:00+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-04-01 13:54:01+00:00,Xasmedy,Fixing menu not hiding on click. (#8455),1
+2023-04-01 13:55:54+00:00,Anuken,battery fix,2
+2023-04-01 13:55:59+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-04-01 14:04:22+00:00,Anuken,Fixed #8458,1
+2023-04-01 14:39:00+00:00,commel,"Update bundle_de.properties (#8452)
+
+Fixed two typos of fordere -> vordere",1
+2023-04-01 21:30:05+00:00,Anuken,Hide weapon sprites for certain units,3
+2023-04-01 21:30:08+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-04-02 04:19:33+00:00,MEEPofFaith,Proper speedup amount (#8461),1
+2023-04-02 14:36:26+00:00,Anuken,Fixed team write error,1
+2023-04-02 14:36:31+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-04-02 14:38:19+00:00,Anuken,Fixed #8463,1
+2023-04-02 14:54:42+00:00,Anuken,Fixed #8462,2
+2023-04-02 15:00:27+00:00,J0anJosep,Update bundle_ca.properties (#8464),1
+2023-04-02 17:28:49+00:00,Anuken,Fixed #8465,2
+2023-04-02 17:28:53+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-04-02 23:53:19+00:00,MEEPofFaith,"Parse singular consumes (#8466)
+
+* Parse singular `Consume`s
+
+* Proper coolant parsing
+
+* Temporary manual update of ClassMap
+
+Does not include all consume types.
+
+I don't know what gradle command to run to update `ClassMap`. I've tried `tools:updateScripts` but that just cleared everything.",4
+2023-04-03 02:44:44+00:00,Anuken,Classmap auto-update,2
+2023-04-03 03:21:23+00:00,DikHalz,Update servers_v7.json (#8468),1
+2023-04-03 14:03:24+00:00,MEEPofFaith,Fix janky sublimate ammo display (#8469),2
+2023-04-03 19:37:09+00:00,buthed010203,"Fix multiline messages being cut off (#8471)
+
+I'm not fixing this properly",1
+2023-04-03 20:38:10+00:00,MEEPofFaith,"Multi shotgun fix (#8460)
+
+* Multi-barrel shotgun fix
+
+* multi-recoil support
+
+* @Nullable for everything",13
+2023-04-03 20:40:12+00:00,Anuken,Fixed some possible crashes,3
+2023-04-04 15:02:47+00:00,Anuken,New duo animation,5
+2023-04-05 23:51:16+00:00,Anuken,Removed pointless code,3
+2023-04-06 00:06:45+00:00,Anuken,Update push.yml,1
+2023-04-06 13:54:48+00:00,twinflac,"Update bundle_be.properties (#8478)
+
+Update logical translate.
+
+Work monoDx.
+Thanks",1
+2023-04-06 13:55:06+00:00,Nunting,Update bundle_ko.properties (#8479),1
+2023-04-06 13:56:07+00:00,unknown,Automatic bundle update,1
+2023-04-06 14:46:52+00:00,Anuken,Optimized imports,39
+2023-04-06 14:46:57+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-04-06 16:15:12+00:00,Anuken,Fixed #8480,1
+2023-04-06 22:16:04+00:00,code-explorer786,"Add PlayerChatEvent on clients (#8432)
+
+* Add PlayerChatEvent on clients
+
+https://github.com/mindustry-antigrief/mindustry-client/commit/d32dd01097ef62fb0a1bd5aade2a738c04652854
+
+Co-authored-by: buthed010203 <naguiar010203@gmail.com>
+
+* Only fire when valid. (Currently deciding on whether or not to add ChatEvent without the player.)
+
+---------
+
+Co-authored-by: buthed010203 <naguiar010203@gmail.com>",1
+2023-04-06 23:07:24+00:00,JniTrRny,"More Dark UI in stats display (#8473)
+
+* The Dark UI Menace
+
+* Attack of the Dark UI",14
+2023-04-06 23:08:17+00:00,unknown,Automatic bundle update,34
+2023-04-06 23:13:36+00:00,Anuken,Better item display rates,1
+2023-04-06 23:13:41+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-04-07 14:43:59+00:00,Anuken,Doubled server object buffer size,2
+2023-04-07 15:05:26+00:00,Anuken,Fixed #8483 (meep why did you make the minimum 5%),2
+2023-04-08 14:29:42+00:00,Anuken,Reset UI scale to 100% when broken,3
+2023-04-08 14:52:53+00:00,Anuken,PR cleanup,5
+2023-04-08 16:15:16+00:00,Darkness6030,New Darkdustry host (#8492),1
+2023-04-09 01:37:33+00:00,Anuken,Fixed shoot pattern overrides not working in mods,2
+2023-04-09 01:37:37+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-04-09 01:55:20+00:00,Anuken,Fixed objectives disappearing for no reason,1
+2023-04-09 20:01:35+00:00,Anuken,Fixed #8494,1
+2023-04-09 20:07:34+00:00,Anuken,Fixed #8495,1
+2023-04-09 20:08:04+00:00,L0615T1C5-216AC-9437,Update CN Ports (#8499),1
+2023-04-09 20:12:24+00:00,MEEPofFaith,"Ammo obliteration (#8498)
+
+* alwaysShooting for turrets
+
+similar to alwaysShooting for weapons
+
+* Weapon alwaysShooting takes shootCone into account
+
+Speaking of untested PRs...",2
+2023-04-09 22:16:25+00:00,Anuken,Fixed #8496,1
+2023-04-09 22:16:30+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-04-15 18:39:41+00:00,Anuken,Display camera on map + right-click to pan,4
+2023-04-15 19:54:33+00:00,Anuken,Minimap attack indicators,4
+2023-04-16 02:12:30+00:00,NoahvdAa,Remove mindustry.party (#8511),1
+2023-04-16 02:16:44+00:00,twinflac,"Rework (#8488)
+
+* update core/assets/bundles/bundle_be.properties
+
+* update core/assets/bundles/bundle_be.properties
+
+* update core/assets/bundles/bundle_be.properties
+
+* update core/assets/bundles/bundle_be.properties
+
+* update core/assets/bundles/bundle_be.properties
+
+* update core/assets/bundles/bundle_be.properties
+
+* update core/assets/bundles/bundle_be.properties
+
+* update core/assets/bundles/bundle_be.properties",1
+2023-04-16 02:17:46+00:00,Anuken,Fixed #8507,6
+2023-04-16 02:17:51+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-04-16 02:20:55+00:00,unknown,vps changed ip (#8510),1
+2023-04-16 02:21:40+00:00,unknown,Automatic bundle update,1
+2023-04-16 02:22:39+00:00,Brandons404,"Update servers_v7.json - added sandbox server (#8504)
+
+* added pvp server to fish
+
+* updated servers_v7.json",1
+2023-04-16 02:24:40+00:00,Anuken,Fixed #8509,1
+2023-04-16 02:24:45+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-04-16 02:27:24+00:00,lemon3357,Update servers_v7.json (#8508),1
+2023-04-16 16:07:57+00:00,Anuken,Use schematic/map names for filenames,3
+2023-04-16 16:09:06+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-04-18 13:35:29+00:00,Anuken,Load saves in parallel,4
+2023-04-18 14:10:11+00:00,Anuken,Fixed #8513,1
+2023-04-18 14:14:07+00:00,MEEPofFaith,Add overlays to render updates (#8514),1
+2023-04-18 14:55:39+00:00,lemon3357,Update server_v7.json:add new server (#8512),1
+2023-04-18 20:37:34+00:00,MEEPofFaith,"Erekir payload conveyor sprite consistency (#8506)
+
+* Erekir payload conveyor sprite consistency
+
+* Better blending from conveyor to factory
+
+* Better blending for the 5x5",9
+2023-04-20 05:03:18+00:00,Anuken,splashDamagePierce,2
+2023-04-21 15:44:00+00:00,Anuken,Fixed minimap update lag,1
+2023-04-21 15:44:05+00:00,Anuken,Merge remote-tracking branch 'origin/master',11
+2023-04-22 01:24:18+00:00,Anuken,Fixed #8525,1
+2023-04-22 01:29:39+00:00,Anuken,Fixed #8523,1
+2023-04-22 01:32:30+00:00,zaboal,Removed non-license notice from the end (#8524),1
+2023-04-22 01:32:46+00:00,ienov,update easyplay servers (#8521),1
+2023-04-22 01:56:16+00:00,MEEPofFaith,"Don't set lighting if the preset has noLighting = true (#8519)
+
+* Don't set lighting if the preset has noLighting = true
+
+Allows lighting in the preset or world processors to take over instead of being forced to disable lighting.
+
+* Less confusing style",1
+2023-04-25 03:59:46+00:00,Anuken,Logic pathfind instruction,5
+2023-04-25 03:59:51+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-04-28 14:29:47+00:00,Anuken,Fixed #8529,2
+2023-04-28 14:39:35+00:00,Taras4k,"new ip (#8534)
+
+* new ip
+
+* Update servers_v7.json",1
+2023-04-28 14:40:32+00:00,JniTrRny,"Update bundle_th.properties (#8532)
+
+* 6 months of doing nothing
+
+* Why am I up there
+
+* More ✨lore✨ to the descriptions
+
+* RIP original item description
+
+* revenge of the item details
+
+* new vocabulary just dropped
+
+* cancel transliteration
+
+sounds kinda lame, so might revert it later.",2
+2023-04-28 14:41:51+00:00,unknown,Automatic bundle update,1
+2023-04-28 14:42:31+00:00,MEEPofFaith,warmup and totalProgress for Pumps (#8536),1
+2023-04-28 14:48:17+00:00,Anuken,Fixed #8533,1
+2023-04-28 14:48:21+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-04-28 14:55:11+00:00,osp54,[XCore] Mini Attack server + reserve server (#8530),1
+2023-04-28 18:39:28+00:00,Anuken,PointDefenseWeapon no longer affects range,4
+2023-04-28 18:39:34+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-04-28 19:17:05+00:00,Anuken,and these other weapons too,2
+2023-04-28 19:37:38+00:00,Anuken,tests are no longer stupid,1
+2023-04-29 13:03:51+00:00,J0anJosep,Update bundle_ca.properties (#8542),1
+2023-05-03 22:38:50+00:00,Anuken,unitHealthMultiplier re-implemented,3
+2023-05-06 03:40:05+00:00,Anuken,Fixed invalid ranges for some weapons,1
+2023-05-06 03:46:21+00:00,Anuken,Fixed power node linking in basegen,1
+2023-05-06 15:11:57+00:00,Anuken,Doubled max schematic size,1
+2023-05-07 01:27:45+00:00,Anuken,Fixed #8557,1
+2023-05-07 01:31:02+00:00,BalaM314,"Fix override of Building.block in PayloadSource (#8551)
+
+* Would break(without crash) mods that read the block config of PayloadSource",1
+2023-05-07 01:33:45+00:00,BalaM314,"Gradle opt -PnoLocalArc to force no localArc (#8552)
+
+renaming Arc is annoying, also vscode doesnt like it",1
+2023-05-07 01:34:11+00:00,MEEPofFaith,Clear invalid payload ammo (#8544),2
+2023-05-07 01:49:40+00:00,Slotterleet,"A couple of features for better planet modding (#8558)
+
+* Planet item whitelist
+
+* allowLaunchToNumbered for planets
+
+* Update core/src/mindustry/type/Planet.java
+
+* Update core/src/mindustry/type/Planet.java
+
+---------
+
+Co-authored-by: Anuken <arnukren@gmail.com>",4
+2023-05-07 01:51:37+00:00,Catchears,"update german translation (#8560)
+
+* update german translation
+
+* resolve @Shawak's comment",1
+2023-05-07 01:51:51+00:00,Darkness6030,"Update russian bundle (#8559)
+
+* Update russian bundle
+
+* Update bundle_ru.properties",1
+2023-05-07 01:52:38+00:00,HamzaGSopp,"Update servers_v7.json (#8556)
+
+* Update servers_v7.json
+
+chabge adresse of tamazia
+
+* Update servers_v7.json
+
+---------
+
+Co-authored-by: Anuken <arnukren@gmail.com>",1
+2023-05-07 01:52:52+00:00,Prosta4okua,"New translation (#8555)
+
+* Update bundle_uk_UA.properties
+
+Old
+
+* Messaged
+
+* Update bundle_uk_UA.properties
+
+* Update bundle_uk_UA.properties
+
+---------
+
+Co-authored-by: SUS <94375206+1stvaliduser@users.noreply.github.com>",1
+2023-05-07 01:53:10+00:00,Phippe,"Fix some mistakes in German translation (#8543)
+
+* Fix typo in German tutorial
+
+* Fix some more",1
+2023-05-07 01:53:52+00:00,unknown,Automatic bundle update,1
+2023-05-07 01:56:56+00:00,Anuken,unitHealth in logic,3
+2023-05-07 01:57:00+00:00,Anuken,Merge remote-tracking branch 'origin/master',12
+2023-05-07 03:04:31+00:00,JniTrRny,"Wave limit game rule in custom maps (#8550)
+
+* custom maps wave limit
+
+* whoopsies",7
+2023-05-07 13:38:17+00:00,stacktrace-error,"gas sprites (ark too ig) (#8528)
+
+* ?
+
+* this was better
+
+* ghghghghgghghhghghghg
+
+* single pixel changes",5
+2023-05-07 13:39:11+00:00,unknown,Automatic bundle update,34
+2023-05-07 14:42:45+00:00,JniTrRny,"Search bar for wave UI (#8501)
+
+* wave search + other editor things
+
+* everything but wave search",7
+2023-05-07 16:32:10+00:00,Midblyte,"Fix some Italian translations (#8564)
+
+Co-authored-by: Midblyte <midblyte@anonaddy.me>",1
+2023-05-07 16:33:03+00:00,unknown,Automatic bundle update,34
+2023-05-08 01:17:44+00:00,HamzaGSopp,Update servers_v7.json (#8568),1
+2023-05-08 13:50:33+00:00,Anuken,Possible parser status effect fix,2
+2023-05-08 16:15:00+00:00,Anuken,Canvas block schematic preview,3
+2023-05-08 16:15:06+00:00,Anuken,Merge remote-tracking branch 'origin/master',53
+2023-05-08 21:05:27+00:00,MEEPofFaith,Attempt healing targetting even if the bullet doesn't collide with ground targets (#8516),1
+2023-05-08 22:41:56+00:00,MEEPofFaith,"Smoother Screenshake Reduction (#8310)
+
+* Smoother Screenshake Reduction
+
+Screen shake will now always reach 0 no matter the intensity or duration without being cut off early.
+
+* Keep the max reduction rate",1
+2023-05-09 13:33:59+00:00,MEEPofFaith,Revert Math.max in shakeReduction (#8570),1
+2023-05-10 00:34:13+00:00,MEEPofFaith,"Properly handle missile units shooting more missile units (#8359)
+
+* Properly handle missile units shooting more missile units
+
+* Remove `shooter`, just pass down the owner",2
+2023-05-10 15:54:39+00:00,Anuken,bigger numbers,2
+2023-05-10 15:54:44+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-05-10 16:37:25+00:00,Anuken,Allow placing floors (for mods),5
+2023-05-10 16:48:41+00:00,Anuken,Placeable overlays,3
+2023-05-10 16:52:47+00:00,Darkness6030,sendUnformatted method in PlayerComp (#8575),1
+2023-05-10 16:52:54+00:00,MEEPofFaith,"Ser-pew-lo Turret Animations (#8562)
+
+* Scatter animations
+
+* Do the same thing to salvo
+
+Like, the exact same thing.
+
+Corporate wants you to tell the difference between these two pictures.
+They're the same picture.
+
+* Faster salvo barrel recoil
+
+* Move entire scatter midsection
+
+* Cyclone barrel animations",16
+2023-05-10 16:54:18+00:00,xstabux,"Better planet selection (#8572)
+
+* Better AboutDialog
+
+* I'm there!
+
+* New Planet Select UI
+
+* fix
+
+* Better Planet Selection
+
+* no",2
+2023-05-10 17:00:49+00:00,Anuken,Cleanup,1
+2023-05-10 17:05:49+00:00,Anuken,Cleanup,1
+2023-05-10 17:10:48+00:00,MEEPofFaith,"Horizontal shifting of pistons (also adds proper icons for pistons) (#8345)
+
+* Horizontal offset for pistons
+
+* might as well fix icons in the meantime
+
+* Make a positive offset shift to the right",4
+2023-05-10 17:13:43+00:00,Anuken,Minor DrawPistons fix,1
+2023-05-10 19:57:43+00:00,Anuken,Fixed JSON sector preset files failing to load,3
+2023-05-11 01:03:08+00:00,phinner,"Add BlockRotateEvent (#8577)
+
+* feat: Add BuildRotateEvent
+
+* fix: Fix invalid argument
+
+* fix: Goofy aaah static imports
+
+* chore: Update ConfigEvent doc + Add forgotten annotation
+
+* chore: Remove final keyword
+
+* fix: Remove rotation validation in Build#beginPlace
+
+* Already covered by client snapshots
+
+* fix: Remove useless imports",3
+2023-05-11 01:07:40+00:00,MEEPofFaith,RegionPart movement should not be affected by growth scale (#8578),1
+2023-05-11 05:06:49+00:00,MEEPofFaith,PartMove progress is ignored for growth (#8580),1
+2023-05-11 15:24:42+00:00,Anuken,Merged Custom/editor maps implementation,5
+2023-05-11 15:24:47+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-05-11 15:39:49+00:00,Anuken,Disabled annoying X scrolling in map dialogs,1
+2023-05-11 15:51:57+00:00,Anuken,Reverted name change to un-break mods,2
+2023-05-11 15:59:45+00:00,Anuken,Fixed map alignment,1
+2023-05-11 16:04:14+00:00,phinner,"Update French translation (#8579)
+
+* pull #7883
+
+* add new translations
+
+* add these fine gentlemen to the contributors
+
+* bateau -> vaisseau
+
+* forgor again :skull:
+
+* chore: Translate missing strings + Small changes
+
+* chore: Apply suggested changes (author: Kalpas)",1
+2023-05-11 16:52:32+00:00,Anuken,Better utilization of JoinDialog UI space,3
+2023-05-11 16:52:37+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-05-11 17:41:45+00:00,Anuken,Mobile rebuild button support,7
+2023-05-11 17:42:50+00:00,unknown,Automatic bundle update,34
+2023-05-11 19:24:41+00:00,Anuken,Minor cleanup,3
+2023-05-11 19:24:45+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-05-11 21:05:18+00:00,Anuken,Fixed #8582,2
+2023-05-12 02:21:05+00:00,way-zer,"fix NPE in SpawnGroup.write (#8584)
+
+* Update SpawnGroup.java
+
+* Update contributors
+
+* No Objects.isNull",2
+2023-05-12 05:58:30+00:00,MEEPofFaith,"Revert ""Properly handle missile units shooting more missile units (#8359)"" (#8585)
+
+This reverts commit 1373381554e87ac8420d26a998a6009201f550d8.",2
+2023-05-12 06:05:52+00:00,Anuken,Gas sprite revert,5
+2023-05-12 06:23:03+00:00,Anuken,Fixed map list dialog,1
+2023-05-12 06:34:02+00:00,Anuken,Neoplasia reactor rebuildable,1
+2023-05-12 16:10:37+00:00,Anuken,Fixed #8587,2
+2023-05-12 16:16:32+00:00,Anuken,Better VariableReactorBuild explosion check,2
+2023-05-12 18:26:28+00:00,Anuken,why was this here,1
+2023-05-12 19:24:14+00:00,Anuken,Noise filter fix,1
+2023-05-13 06:41:04+00:00,Anuken,Update SERVERLIST.md,1
+2023-05-13 13:48:32+00:00,buthed010203,Fix crash (#8599),1
+2023-05-13 13:53:47+00:00,BalaM314,"Use shouldExplode, explosionMinWarmup in generators (#8600)",2
+2023-05-13 14:51:05+00:00,Anuken,Fixed #8602,2
+2023-05-13 14:51:10+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-05-13 22:22:01+00:00,Anuken,Latest RoboVM,1
+2023-05-14 20:50:20+00:00,HamzaGSopp,Update servers_v7.json (#8606),1
+2023-05-15 12:53:54+00:00,Xenerain,Update servers_v7.json (#8611),1
+2023-05-15 12:54:07+00:00,Vojtak42,Update bundle_cs.properties (#8610),1
+2023-05-15 13:59:14+00:00,GlennFolker,"Move most planet rendering out of PlanetRenderer to Planet (#8608)
+
+* Planet speaks for itself
+
+* Ok fine keep old Gradle version
+
+* Planet grid mesh builder
+
+* Inline",4
+2023-05-15 14:26:35+00:00,Anuken,Ignore null messages,2
+2023-05-15 14:26:40+00:00,Anuken,Merge remote-tracking branch 'origin/master',6
+2023-05-15 15:44:08+00:00,Anuken,Native (Zenity) file dialogs for Linux,2
+2023-05-16 02:54:10+00:00,Anuken,Made default CacheLayer add method insert before 'normal',5
+2023-05-16 04:16:46+00:00,Anuken,Log zenity error,1
+2023-05-16 04:33:17+00:00,Anuken,arc,1
+2023-05-16 04:34:12+00:00,Anuken,augh,1
+2023-05-16 13:35:12+00:00,SSTentacleSS,"Update servers_v7.json (#8615)
+
+Обновили комплектацию серверов",1
+2023-05-16 21:24:41+00:00,Anuken,Base building AI is back,10
+2023-05-16 21:24:52+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-05-16 21:26:10+00:00,unknown,Automatic bundle update,34
+2023-05-16 22:13:09+00:00,Anuken,More core units for bases,1
+2023-05-16 22:13:15+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-05-17 01:15:56+00:00,Anuken,near is nearer,1
+2023-05-17 13:38:15+00:00,Anuken,near is further,1
+2023-05-17 22:45:15+00:00,Anuken,New salvo sprite,8
+2023-05-17 23:03:16+00:00,Anuken,New base schematcs from Bluewolf,24
+2023-05-17 23:32:47+00:00,Anuken,Some more random schematics,7
+2023-05-18 04:27:01+00:00,Anuken,Tecta buff / Closes Anuken/Mindustry-Suggestions/issues/4427,4
+2023-05-18 04:45:18+00:00,Anuken,Vanilla base walls only,1
+2023-05-18 13:29:44+00:00,Ilya246,insanius (#8621),1
+2023-05-18 15:03:58+00:00,Anuken,Scatter resprite (By Daz from Discord),4
+2023-05-18 15:04:04+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-05-18 15:54:30+00:00,Anuken,Less MeshBuilder memory usage,1
+2023-05-18 16:21:45+00:00,Anuken,Map list fixes on phones,1
+2023-05-18 23:56:39+00:00,stacktrace-error,"swarmer resprite? (#8573)
+
+* plastic
+
+* swarm
+
+* I did not forget I did not forget I did not forget I did not forget I did not for
+
+* god I can never settle on anything hhhhhhhhhhhhhhhhhhhhhhhhhhhh
+
+* Revert ""god I can never settle on anything hhhhhhhhhhhhhhhhhhhhhhhhhhhh""
+
+This reverts commit a59734eb04a923e2209c795ac533e61598c8b341.
+
+* eh why not
+
+* Revert ""eh why not""
+
+This reverts commit c228dc5337c915faf3bf4abe09d8fb5e6909a424.",2
+2023-05-19 04:01:36+00:00,Anuken,Fixed #8622,2
+2023-05-19 04:01:43+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-05-19 14:53:06+00:00,MEEPofFaith,"Shift swarmer shoot barrels to match the chutes (#8624)
+
+Similar to how cyclone shoot barrels match the ends of each barrel.",1
+2023-05-19 15:08:18+00:00,Anuken,Ripple tint change / Minor optimization,3
+2023-05-19 15:08:26+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-05-19 15:12:32+00:00,Anuken,Removed redundant team checks,1
+2023-05-19 16:29:53+00:00,Anuken,Load logger in iOS,3
+2023-05-19 16:30:45+00:00,Anuken,typo,2
+2023-05-20 01:02:54+00:00,MEEPofFaith,Interval bullets for continuous bullets (#8628),2
+2023-05-20 01:03:39+00:00,MEEPofFaith,"Chained PartProgress Operation in Json (#8627)
+
+* Op parsing method
+
+* Parse multi op
+
+* Big brain
+
+* Parse operation array
+
+* Error wording
+
+* Unnecessary code",1
+2023-05-20 14:40:33+00:00,Anuken,Pathfinder fixes / Hail resprite by Snake#2132 on Discord,3
+2023-05-20 14:40:39+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-05-21 04:57:10+00:00,Anuken,Always hide content when isHidden() == true,1
+2023-05-21 07:59:08+00:00,Anuken,Team#isEnemy is pointless,4
+2023-05-21 08:42:23+00:00,Anuken,fixed iOS crash,1
+2023-05-21 08:46:50+00:00,Anuken,pain,3
+2023-05-21 14:59:09+00:00,way-zer,fixup! Fix Turret bug when `cheat` (#8273) (#8629),1
+2023-05-21 19:24:23+00:00,Anuken,Interplanetary accelerator hidden in database,2
+2023-05-21 19:24:30+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-05-21 19:47:56+00:00,Anuken,Logic sprite upper limit now 64,1
+2023-05-22 00:42:34+00:00,Anuken,arc,1
+2023-05-22 02:36:36+00:00,Anuken,Possible crash fix,1
+2023-05-22 05:09:53+00:00,Anuken,Faster connection lookup,2
+2023-05-22 18:28:10+00:00,Anuken,Closes Anuken/Mindustry-Suggestions/issues/4433,3
+2023-05-23 01:42:46+00:00,Anuken,Fixed mod startup crash,2
+2023-05-23 01:51:06+00:00,Anuken,New scorch sprite by Fox1va_,3
+2023-05-23 13:16:53+00:00,Alexander397172YT,new server CreateDustry v7 (#8631),1
+2023-05-23 19:44:25+00:00,frieda666,Add test case for achievement (#8633),1
+2023-05-24 13:22:05+00:00,TheSerjio,Update bundle_ru.properties (#8638),1
+2023-05-24 13:22:34+00:00,yozozchomutova,"Update bundle_cs.properties (#8639)
+
+* Updated bundle_cs.properties
+
+All unstraslated words I've found were translated. Spacing between lines were synchronized with bundle.properties. +Added self to contributors file.
+
+* Updated bundle_cs.properties
+
+Replaced with shorters words, fixing issue with multilined text in buttons.
+
+* Translated several keys to Czech.",1
+2023-05-24 13:49:30+00:00,Anuken,Fixed #8632,3
+2023-05-24 13:49:35+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-05-24 20:49:09+00:00,Anuken,Fixed turrets with moveWhileCharging = true and accurateDelay = true,1
+2023-05-25 06:44:07+00:00,Anuken,near is further again,1
+2023-05-25 13:13:37+00:00,Anuken,Stack router fix,1
+2023-05-25 16:05:33+00:00,Anuken,Buffer gone,1
+2023-05-26 18:12:34+00:00,Anuken,Fixed squished logic icons,1
+2023-05-26 21:57:24+00:00,buthed010203,"Don't show ghosts when typing in chat (#8644)
+
+* Don't show ghosts when typing in chat
+
+* braint",1
+2023-05-27 13:05:08+00:00,way-zer,fix assetsJar (#8641),1
+2023-05-27 13:19:14+00:00,thedimas3007,Add some servers (#8640),1
+2023-05-27 13:57:53+00:00,Anuken,Fixed Base AI not working sometimes,4
+2023-05-27 20:26:24+00:00,error-27,Fix Scaling on Objective Dialogs (#8646),1
+2023-05-28 04:06:57+00:00,MEEPofFaith,Spinning FlareParts (#8637),1
+2023-05-28 13:14:15+00:00,GlennFolker,Allow Universe to update all solar systems (#8647),1
+2023-05-28 13:57:26+00:00,Anuken,Misc minor bugfixes,3
+2023-05-28 13:57:31+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-05-29 14:23:32+00:00,Anuken,Fixed #8649,1
+2023-05-29 17:09:56+00:00,Darkness6030,"Load content icons on a headless server (#8650)
+
+* Update build.gradle
+
+* Update Fonts.java
+
+* Update ServerLauncher.java
+
+* Update ServerLauncher.java
+
+* s stands for shiza
+
+* Update build.gradle",3
+2023-05-29 18:01:55+00:00,SSTentacleSS,Update servers_v7.json (#8651),1
+2023-05-31 00:08:48+00:00,Anuken,Select command from reconstructor / Units save command when controlled,8
+2023-05-31 00:08:53+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-05-31 00:15:44+00:00,Anuken,Bugfixes for reconstructor config,1
+2023-05-31 02:51:07+00:00,MEEPofFaith,Inversion option for payload router sorting (#8652),1
+2023-05-31 12:53:21+00:00,Anuken,Fixed #8653,1
+2023-05-31 12:53:26+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-05-31 22:26:04+00:00,Darkness6030,Make PlayerInfo map public (#8655),1
+2023-06-02 15:11:54+00:00,ulwepo,"Update servers_v7.json (#8656)
+
+thanks",1
+2023-06-02 15:37:15+00:00,JniTrRny,"Improvements to the Schematics UI (#8605)
+
+* schematics UI improvements
+
+* better edit tags UI
+
+* visual tweaks
+
+* cleanup
+
+inline obsession
+cleanup again...
+another little bit of cleanup
+a little bit of cleanup
+minor cleanup",7
+2023-06-02 15:38:01+00:00,unknown,Automatic bundle update,34
+2023-06-02 15:41:12+00:00,Slotterleet,"Dynamic selection of planet tech in rules dialog (#8487)
+
+* Dynamic selection of planets in rules dialog
+
+* Code cleanup
+
+* Do not let Anuken/Mindustry#8494 happen again
+
+* Fixed inconsistency with campaign sectors",4
+2023-06-02 15:56:08+00:00,Anuken,Closes Anuken/Mindustry-Suggestions/issues/4456,5
+2023-06-02 15:56:13+00:00,Anuken,Merge remote-tracking branch 'origin/master',47
+2023-06-02 16:06:06+00:00,Anuken,Closes Anuken/Mindustry-Suggestions/issues/4457,2
+2023-06-02 16:06:53+00:00,unknown,Automatic bundle update,34
+2023-06-02 23:11:49+00:00,Anuken,Fixed #8659,2
+2023-06-02 23:11:54+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-06-02 23:12:05+00:00,Brandons404,"Updated servers_v7.json - switching hosts (#8660)
+
+* added pvp server to fish
+
+* updated servers_v7.json
+
+* updated servers_v7",1
+2023-06-03 04:30:29+00:00,Anuken,Fixed #8658,1
+2023-06-03 04:30:34+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-06-03 04:58:22+00:00,Anuken,Ignore processing players kicked in event,2
+2023-06-03 05:00:29+00:00,SITUVNgcd,"Update Vietnamese translation (#8663)
+
+* Update Vietnamese translation
+
+- Fixed mistake in #8654: Changed new line to `\n` instead of `\r\n`.
+- Update and translate new strings.
+
+* Add SITUVNgcd as contributor",2
+2023-06-03 15:47:19+00:00,Anuken,Fixed #8667,5
+2023-06-03 15:47:24+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-06-03 15:47:32+00:00,Darkness6030,Update servers_v7.json (#8669),1
+2023-06-03 15:48:18+00:00,unknown,Automatic bundle update,1
+2023-06-03 16:38:18+00:00,Anuken,ServerConnectFilter,3
+2023-06-03 16:38:22+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-06-03 16:43:39+00:00,Anuken,augh,1
+2023-06-04 03:45:55+00:00,frieda666,"Improvement on votekick (#8664)
+
+* Add test case for achievement
+
+* Allow admins to cancel votekick & allow players to change vote
+
+* Require reason to start votekick
+
+* Require reason to start votekick
+
+* Update message sent by votekick button",2
+2023-06-04 14:59:43+00:00,GergoEB,Remove the rulebreaker (#8672),1
+2023-06-04 16:43:07+00:00,alxgsv,"Adapt interface to display notch of mac laptops (#8666)
+
+* Adapt interface to display notch of mac laptops
+
+* `macNotchHeight` as a separate variable, and description for mac notch setting",39
+2023-06-05 00:50:48+00:00,Darkness6030,"Better votekick reason input (#8673)
+
+* Update bundle.properties
+
+* Update PlayerListFragment.java
+
+* Update bundle.properties
+
+* Update bundle.properties",2
+2023-06-05 00:51:34+00:00,unknown,Automatic bundle update,34
+2023-06-05 14:37:26+00:00,MEEPofFaith,Side-based liquid tile padding (#8676),2
+2023-06-05 18:30:07+00:00,Ninjdai1,"Update bundle_fr.properties (#8678)
+
+Translated new votekick strings",1
+2023-06-05 18:30:55+00:00,unknown,Automatic bundle update,1
+2023-06-06 00:08:26+00:00,bend-n,replace aa server (#8679),1
+2023-06-06 14:05:11+00:00,Anuken,Fixed #8680,2
+2023-06-06 14:05:16+00:00,Anuken,Merge remote-tracking branch 'origin/master',44
+2023-06-06 19:44:18+00:00,xem8k5,Update servers_v7.json (#8677),1
+2023-06-07 13:35:57+00:00,Darkness6030,"Map improvements (#8682)
+
+* Update Map.java
+
+* Update MapListDialog.java
+
+* Update ServerControl.java",3
+2023-06-07 13:52:50+00:00,Anuken,Closes Anuken/Mindustry-Suggestions/issues/4452,2
+2023-06-07 13:52:55+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-06-07 18:13:41+00:00,Darkness6030,:skull: (#8685),1
+2023-06-07 21:36:19+00:00,xzxADIxzx,fix a small mistake made by inattention (#8686),1
+2023-06-08 03:15:24+00:00,CoCo-Snow,Update bundle_de.properties (#8688),1
+2023-06-08 14:01:45+00:00,Anuken,arc,1
+2023-06-08 14:01:48+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,3
+2023-06-08 14:47:15+00:00,Anuken,arc,1
+2023-06-09 13:26:21+00:00,qwertystar,"Update bundle_zh_CN.properties (#8692)
+
+refer the Chinese translation of hint.rebuildSelect to provide that of hint.rebuildSelect.mobile",1
+2023-06-10 01:53:35+00:00,VaporSpace2,"GMS shutting down (removing GMS servers from server list) (#8696)
+
+GMS is meeting its end so now is the time to remove the 2 servers from the server list, thanks",1
+2023-06-10 16:27:36+00:00,Anuken,Fixed #8698,1
+2023-06-10 16:27:40+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-06-10 20:59:11+00:00,null-ref-exc,Update Team.java (#8700),1
+2023-06-11 17:48:29+00:00,Anuken,Networking fix,1
+2023-06-11 17:48:33+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-06-12 03:18:04+00:00,Anuken,Admin player team switch + more trace info,10
+2023-06-12 03:19:14+00:00,unknown,Automatic bundle update,34
+2023-06-12 03:22:54+00:00,Anuken,Cleanup,1
+2023-06-12 03:22:59+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-06-12 03:46:12+00:00,way-zer,Update servers_v7.json (#8702),1
+2023-06-12 04:03:41+00:00,Anuken,e,1
+2023-06-12 04:03:51+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-06-12 04:04:41+00:00,unknown,Automatic bundle update,34
+2023-06-12 14:35:31+00:00,Anuken,Fixed objective flags not syncing,2
+2023-06-12 14:35:36+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-06-12 14:50:32+00:00,Anuken,Fixed logic blocks making clicking noises when not accessible,2
+2023-06-13 12:51:28+00:00,Darkness6030,Update Darkdustry address :skull: (#8707),1
+2023-06-13 13:29:21+00:00,Anuken,Show locked item names,1
+2023-06-13 13:29:26+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-06-13 14:37:17+00:00,BalaM314,"Correctly display ∞ unit cap in reconstructors (#8709)
+
+* Correctly display ∞ in reconstructors
+
+UnitFactory.java uses getStringCap, but Reconstructor uses getCap
+this was probably missed in 8cabae1
+
+* might as well fix formatting
+
+same format as UnitFactory.java",1
+2023-06-13 20:02:24+00:00,Anuken,Fixed #8710,2
+2023-06-13 20:02:29+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-06-13 22:54:10+00:00,Darkness6030,"Team improvements (#8704)
+
+* Update Team.java
+
+* Update ServerControl.java
+
+* better
+
+* kill me please
+
+* kill me please
+
+* kill me please
+
+* Update bundle_ca.properties
+
+* kill me please
+
+* Update bundle_da.properties
+
+* kill me please
+
+* kill me please
+
+* Update bundle_et.properties
+
+* Update bundle_eu.properties
+
+* Update bundle_fi.properties
+
+* Update bundle_fil.properties
+
+* Update bundle_fr.properties
+
+* Update bundle_hu.properties
+
+* Update bundle_id_ID.properties
+
+* Update bundle_ja.properties
+
+* Update bundle_ko.properties
+
+* Update bundle_lt.properties
+
+* Update bundle_nl.properties
+
+* Update bundle_nl_BE.properties
+
+* Update bundle_pl.properties
+
+* Update bundle_pt_BR.properties
+
+* Update bundle_pt_PT.properties
+
+* Update bundle_ro.properties
+
+* Update bundle_ru.properties
+
+* Update bundle_sr.properties
+
+* Update bundle_sv.properties
+
+* Update bundle_th.properties
+
+* Update bundle_tr.properties
+
+* Update bundle_tk.properties
+
+* Update bundle_uk_UA.properties
+
+* Update bundle_vi.properties
+
+* Update bundle_zh_CN.properties
+
+* Update bundle_zh_TW.properties
+
+* Update World.java
+
+* Update CustomRulesDialog.java
+
+* skill issue
+
+* skill issue x2
+
+* skill issue x3",39
+2023-06-14 13:10:44+00:00,Xenerain,Update servers_v7.json (#8712),1
+2023-06-14 13:11:46+00:00,unknown,Automatic bundle update,1
+2023-06-15 16:52:14+00:00,Alexander397172YT,new CreateDustry IP (#8713),1
+2023-06-15 17:57:27+00:00,MEEPofFaith,"Better handling of missiles splitting to other missiles (#8603)
+
+- Pass a shooter separate to owner into `BulletType#create`. `killShooter` kills the owner while the shooter is passed into the missile ai
+- `killShooter` no longer kills already dead units
+- `MissileAI` no longer aims at shooter's aim pos if the shooter is dead",3
+2023-06-15 19:44:02+00:00,way-zer,Update CoreBlock.java (#8583),1
+2023-06-15 23:33:01+00:00,MEEPofFaith,"Laser pierce fixes. (#8526)
+
+* Flip pierce check order
+
+Allow pierce cap + laser to function together
+
+* Apply to continuous bullets
+
++ Make visually accurately show length.
+
+* laser parameter for findPierceLength
+
+consistency with collideLine",3
+2023-06-16 03:31:37+00:00,Tornado3708,"Update bundle_be.properties (#8697)
+
+Foreshadow, tar fields and particular interface text translation.",1
+2023-06-16 15:56:55+00:00,JniTrRny,Update bundle_th.properties (#8714),1
+2023-06-16 15:57:43+00:00,unknown,Automatic bundle update,1
+2023-06-16 17:19:52+00:00,Anuken,Conduit junction replacement fix,2
+2023-06-16 17:19:57+00:00,Anuken,Merge remote-tracking branch 'origin/master',47
+2023-06-16 18:27:05+00:00,BalaM314,"Allow ulocate to output enemy buildings (#6704)
+
+* Allow ulocate to output enemy buildings
+Previously you would have to use ucontrol getblock to get the actual Building
+that's weird and just confuses newbs
+like me
+
+* whoops, turns out ulocate doesn't have a range
+
+* c o d e s t y l e
+
+* Always return building object if on same team",1
+2023-06-16 19:57:54+00:00,MEEPofFaith,"Lock rotation of blocks with `rotate = false` to 0 (#8531)
+
+* Lock rotation of blocks that don't rotate
+
+* Fix input visuals
+
+* Default to false
+
+Quick, stop forcing changes to mods before sk yells at me.
+
+* lock GenericCrafter rotation if rotate = false
+
+* Convert from a setter a to block method
+
+* Simplify
+
+* Revert ""lock GenericCrafter rotation if rotate = false""
+
+This reverts commit 26ac41baf52b2fd852b197bb0b83f86e122730b0.
+
+* Remove `lockRotation` boolean.
+
+Pointless. If you want something to rotate, just do `rotate = true; drawArrow = false;`",5
+2023-06-16 21:03:42+00:00,Anuken,Misc fixes,3
+2023-06-16 21:03:46+00:00,Anuken,Merge remote-tracking branch 'origin/master',6
+2023-06-16 21:04:43+00:00,Anuken,lockRotation,1
+2023-06-17 00:12:59+00:00,gabriel-fondato,"Update bundle_pt_BR.properties (#8687)
+
+* Update bundle_pt_BR.properties
+
+i translated the rest of the stuff to brazilian portuguese :D
+
+* Update contributors
+
+* Update bundle_pt_BR.properties
+
+* Fixed color translation
+
+* i fixed the miss conjugated verbs and translated one more line
+
+---------
+
+Co-authored-by: red <80164245+Redgabriel13-red13@users.noreply.github.com>",2
+2023-06-17 00:13:54+00:00,unknown,Automatic bundle update,1
+2023-06-17 03:52:41+00:00,phinner,"Update french translations (#8715)
+
+* pull #7883
+
+* add new translations
+
+* add these fine gentlemen to the contributors
+
+* bateau -> vaisseau
+
+* forgor again :skull:
+
+* chore: Translate missing strings + Small changes
+
+* chore: Apply suggested changes (author: Kalpas)
+
+* chore: Sync bundle files
+
+* chore: Translate missing lines
+
+* chore: Add trailing line back
+
+* chore: Minor visual changes",1
+2023-06-17 03:53:36+00:00,unknown,Automatic bundle update,1
+2023-06-17 19:33:08+00:00,Anuken,Quieter build sound / Display player name on hovered unit,2
+2023-06-17 19:33:13+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-06-17 21:40:29+00:00,Anuken,Misc fixes,2
+2023-06-17 21:54:29+00:00,Anuken,Fixed reconstructor commanding in multiplayer,4
+2023-06-18 00:39:52+00:00,Anuken,Do not crash when reading null planets,2
+2023-06-18 13:06:52+00:00,Anuken,Fixed #8718,3
+2023-06-18 13:08:09+00:00,Anuken,.,1
+2023-06-18 20:46:01+00:00,RebornTrack970,Fixed Grammar Error on TR Bundle (#8727),1
+2023-06-19 13:10:33+00:00,Darkness6030,Fix invalid heal targeting for non-sharded teams (#8728),1
+2023-06-19 14:28:54+00:00,Anuken,Conduit padCorners,3
+2023-06-19 14:28:59+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-06-19 14:56:30+00:00,Anuken,Conduit padCorners fix,1
+2023-06-19 17:50:33+00:00,Anuken,Fixed #8729,1
+2023-06-19 21:21:21+00:00,Anuken,Pathfinding improvements,4
+2023-06-19 22:44:16+00:00,Anuken,Fixed #8732,2
+2023-06-19 23:42:54+00:00,Anuken,Fixed non-even assembler modules not working,1
+2023-06-20 17:09:50+00:00,Anuken,Fixed #8733,6
+2023-06-20 17:22:08+00:00,CoCo-Snow,"Turn Issue Templates into Issue Forms for better structure (#8734)
+
+* Turned Issue Template into an Issue Form
+
+* Bug Fix in Form
+
+* Added Yoru Kitsune to credits
+
+(I did some translations and bug fixes)",3
+2023-06-20 17:23:58+00:00,Anuken,Update bug_report.yml,1
+2023-06-20 21:32:38+00:00,Anuken,Fixed #8735,2
+2023-06-20 21:32:43+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-06-21 13:05:39+00:00,Darkness6030,fix (#8736),1
+2023-06-21 20:28:25+00:00,Darkness6030,add getEmoji() method (#8739),1
+2023-06-22 03:54:39+00:00,Anuken,Less pierce damage for shocked status,2
+2023-06-22 03:55:05+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-06-22 16:03:15+00:00,Anuken,arc,1
+2023-06-22 16:10:52+00:00,Anuken,Fixed #8742,1
+2023-06-22 21:15:07+00:00,Somka000,"Update contributors (#8748)
+
+I did several Polish translations (I also helped translators since 2018), reported many bugs, had my own server, encouraged many people to play mindustry etc.",1
+2023-06-23 18:00:00+00:00,BasedUser,"Add priority servers, update servers_v7.json (#8720)
+
+* Update servers_v7.json
+
+* Add priority server outlining and bumping
+
+* a
+
+* chore: A little bit of cleanup :)
+
+* json
+
+* fixed no-server issue
+
+* removed cursed duplication
+
+---------
+
+Co-authored-by: phinner <62483793+Phinner@users.noreply.github.com>",3
+2023-06-24 02:51:53+00:00,Anuken,Cleanup output stream,2
+2023-06-24 02:51:58+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-06-24 17:43:10+00:00,Anuken,Decreased canvas silicon cost,1
+2023-06-25 02:17:38+00:00,Lime712,"Update bundle_de.properties (#8753)
+
+Large plasma bores are boosted by nitrogen, not hydrogen.",1
+2023-06-25 13:20:44+00:00,Lime712,"Update bundle_de.properties (#8754)
+
+English description in German bundle",1
+2023-06-25 17:36:03+00:00,Anuken,Update contributors,1
+2023-06-26 00:04:02+00:00,Anuken,Fixed #8757,1
+2023-06-26 00:04:16+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-06-26 11:11:58+00:00,Anuken,Fixed #8759,1
+2023-06-26 22:48:57+00:00,Anuken,Fixed #8760,1
+2023-06-27 14:29:42+00:00,Anuken,Fixed #8762,1
+2023-06-27 18:45:11+00:00,Anuken,Fixed #8764,2
+2023-06-27 20:03:13+00:00,SunkyMP3G,"New Ru translations (#8755)
+
+* Update bundle_ru.properties
+
+* Mistake",1
+2023-06-27 20:12:55+00:00,Anuken,Closes Anuken/Mindustry-Suggestions/issues/4499,2
+2023-06-27 20:13:00+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-06-27 20:27:50+00:00,Anuken,mesh fix,1
+2023-06-27 22:38:45+00:00,Anuken,mesh fix 2,1
+2023-06-28 14:58:28+00:00,Uenhe,Update RegenProjector.java (#8768),1
+2023-06-28 14:58:39+00:00,Slotterleet,Update bundle_ru.properties (#8770),1
+2023-06-29 13:43:41+00:00,Darkness6030,Update UnitType.java (#8778),1
+2023-06-29 13:48:26+00:00,Anuken,Fixed #8777,3
+2023-06-29 13:48:31+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-06-29 13:48:39+00:00,Kieaer,Update servers_v7.json (#8776),1
+2023-06-29 17:25:14+00:00,osp54,[XCore] Anarchy server (#8779),1
+2023-07-01 02:26:43+00:00,Anuken,Fixed #8782,4
+2023-07-01 02:26:49+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-07-01 02:51:14+00:00,Anuken,Fixed pathfinding not being able to attack towards solid blocks,1
+2023-07-01 13:21:53+00:00,stacktrace-error,"add sides to HoverPart (#8784)
+
+* add sides to HoverPart
+
+* weird elude",1
+2023-07-01 14:56:59+00:00,FourGamingStudio,"Four Family (#8785)
+
+add server.",1
+2023-07-02 15:06:55+00:00,Anuken,Disabled team switch outside of sandbox/PvP,1
+2023-07-05 08:52:58+00:00,Def-Try,Update servers_v7.json,1
+2023-07-05 17:20:48+00:00,Epowerj,"Merge pull request #8796 from Def-Try/patch-1
+
+Darkdustry IP change",1
+2023-07-07 11:00:03+00:00,TheRadioactiveBanana,"Removal of dead ips and slight ip change
+
+Also Eradicationdustry -> Eradication Mindustry because it sounds better",1
+2023-07-07 11:05:33+00:00,TheRadioactiveBanana,Forgot an ip,1
+2023-07-08 19:49:10+00:00,SSTentacleSS,Update servers_v7.json,1
+2023-07-18 20:32:34+00:00,thedimas3007,Update servers_v7.json,1
+2023-07-18 22:34:19+00:00,Epowerj,"Merge pull request #8824 from thedimas3007/patch-8
+
+Update servers_v7.json",1
+2023-07-21 03:56:29+00:00,Epowerj,"Merge pull request #8800 from TheRadioactiveBanana/patch-6
+
+Removal of dead ips and slight ip change",1
+2023-07-22 04:43:35+00:00,SSTentacleSS,Update servers_v7.json,1
+2023-07-22 05:03:36+00:00,Epowerj,"Merge pull request #8805 from SSTentacleSS/patch-17
+
+Update servers_v7.json",1
+2023-07-23 19:19:21+00:00,Anuken,Fixed #8787,5
+2023-07-23 19:19:31+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-07-23 19:22:52+00:00,Anuken,Fixed #8789,1
+2023-07-23 19:36:34+00:00,Anuken,Fixed #8794,1
+2023-07-23 19:43:04+00:00,Anuken,Fixed #8795,2
+2023-07-23 19:45:48+00:00,Anuken,Fixed #8807,1
+2023-07-23 19:49:12+00:00,Anuken,Fixed #8813,1
+2023-07-23 19:56:36+00:00,Anuken,Fixed #8819,2
+2023-07-23 19:59:19+00:00,Anuken,Fixed #8827,1
+2023-07-23 20:07:53+00:00,Anuken,Fixed #8830,1
+2023-07-23 20:24:47+00:00,NazrinNya,Update servers_v7.json (#8825),1
+2023-07-23 20:26:17+00:00,Darkness6030,Update EntityGroup.java (#8802),1
+2023-07-23 20:26:35+00:00,Lanark53,toxoflame server (#8790),1
+2023-07-23 20:27:11+00:00,MEEPofFaith,"Destroy bullet team (#8792)
+
+* Option for destroy bullet to be on the block's team
+
+* Random direction
+
+* h",2
+2023-07-23 20:27:46+00:00,nowords123,"added new phoenix server (#8801)
+
+Hi, I'm words an admin from phoenix
+I added a new phoenix server under the ip
+
+phoenix-network.dev:2023",1
+2023-07-23 20:28:50+00:00,Mythril382,the camper (#8806),1
+2023-07-23 20:30:44+00:00,Anuken,Better implementation of #8810,2
+2023-07-23 20:30:49+00:00,Anuken,Merge remote-tracking branch 'origin/master',5
+2023-07-23 20:31:00+00:00,J0anJosep,Update bundle_ca.properties (#8823),1
+2023-07-23 20:32:47+00:00,Lime712,"German Translation (#8761)
+
+* Update bundle_de.properties
+
+English description in German bundle
+
+* Update bundle_de.properties
+
+* Update bundle_de.properties
+
+* Update bundle_de.properties",1
+2023-07-24 04:19:22+00:00,KhanhLamVirual,"Update servers_v7.json (#8828)
+
+I want to add a new vndustry server",1
+2023-07-25 14:05:07+00:00,StalkerBaran,Update servers_v7.json (#8836),1
+2023-07-25 15:08:08+00:00,Anuken,Fixed #8838,2
+2023-07-25 15:08:14+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-07-25 16:14:15+00:00,Anuken,Fixed #8837,1
+2023-07-25 16:14:22+00:00,Anuken,???,1
+2023-07-26 01:04:47+00:00,Anuken,Fixed #8840,1
+2023-07-26 01:10:21+00:00,Anuken,Legacy blocks must not be logic constants,1
+2023-07-26 01:47:46+00:00,MEEPofFaith,"Allow fluid type configuration for ConsumeCoolant (#8841)
+
+* Allow fluid type configuration for ConsumeCoolant
+
+* Methods",2
+2023-07-26 05:44:20+00:00,BalaM314,"Expose NetServer currentlyKicking for plugin access (#8817)
+
+* Expose NetServer currentlyKicking for plugin access
+
+* Move code around
+
+* Un-final
+
+* currentlyKicking no longer needs a wrapper array",1
+2023-07-26 13:59:30+00:00,Taras4k,Rename my server and change ips (#8845),1
+2023-07-26 14:31:18+00:00,Anuken,Misc bugfixes,2
+2023-07-26 14:31:24+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-07-26 14:42:12+00:00,tech3mi,Update servers_v7.json (#8846),1
+2023-07-27 19:48:32+00:00,Anuken,Fixed #8849,2
+2023-07-27 19:48:41+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-07-28 03:40:48+00:00,Anuken,Fixed #8854,1
+2023-07-28 13:07:50+00:00,Anuken,Fixed #8856,1
+2023-07-28 20:42:28+00:00,osp54,ToxoFlame attack server (#8858),1
+2023-07-29 03:55:20+00:00,MEEPofFaith,"Bullet despawn unit shenanigans (#8859)
+
+* Proper despawn unit direction
+
+* Despawn unit chance
+
+* Merge if statements",1
+2023-07-29 04:22:01+00:00,Anuken,Fixed #8861,1
+2023-07-29 04:22:08+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-07-29 13:51:58+00:00,Anuken,Fixed incorrect consumption rate in booster stats,7
+2023-07-29 15:17:55+00:00,Anuken,Added sensor for shields,3
+2023-07-29 16:10:27+00:00,Anuken,More empty floor bugfixes,2
+2023-07-29 16:16:15+00:00,XaskyZ,Update servers_v7.json (#8862),1
+2023-07-29 17:29:21+00:00,MEEPofFaith,Weird creation things (#8860),1
+2023-07-30 01:57:01+00:00,Anuken,Fixed #8864,2
+2023-07-30 01:57:06+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-07-30 17:28:47+00:00,Darkness6030,Update StatusEffects.java (#8867),1
+2023-07-30 23:37:40+00:00,abcxyzDustry,"Update servers_v7.json (#8866)
+
+re-add server abcxyz",1
+2023-07-31 05:45:00+00:00,Hahaa13,Update servers_v7.json (#8869),1
+2023-07-31 15:09:08+00:00,tech3mi,"Update servers_v7.json (#8872)
+
+Added Attack&Defend and Sandbox servers but they havent got community",1
+2023-07-31 16:18:30+00:00,XaskyZ,Update servers_v7.json (#8873),1
+2023-07-31 17:48:41+00:00,siede2010,-127 ~ 128 to 0 ~ 255 entityTypeID (#8874),2
+2023-07-31 19:50:46+00:00,tech3mi,"Update servers_v7.json (#8847)
+
+Co-authored-by: Anuken <arnukren@gmail.com>",0
+2023-07-31 21:15:12+00:00,karlo292,Update servers_v7.json (#8879),1
+2023-08-01 05:18:47+00:00,Anuken,Fixed #8871,1
+2023-08-01 05:18:54+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-08-01 15:52:23+00:00,Idonotus,"Render the selected planets solar system (#8875)
+
+* Solar systems render based on the selected planet
+
+* Remove unnecessary setter
+
+* Compatibility",2
+2023-08-01 20:11:22+00:00,Slotterleet,"SunMesh support for JSON planets (#8882)
+
+* Single-color SunMesh support
+
+* This should work now
+
+* No more crap code",1
+2023-08-02 13:39:27+00:00,Anuken,Fixed #8884,1
+2023-08-02 13:39:34+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-08-03 01:20:05+00:00,Anuken,Fixed #8887,1
+2023-08-03 02:15:44+00:00,Anuken,WIP logic particle effect instruction,19
+2023-08-03 02:16:39+00:00,unknown,Automatic bundle update,34
+2023-08-03 02:16:39+00:00,Anuken,WIP logic sync instruction,2
+2023-08-03 02:16:44+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-08-03 06:56:38+00:00,Anuken,Fixed #8890,1
+2023-08-04 14:35:13+00:00,stacktrace-error,"ConsumeLiquidsDynamic (#8892)
+
+* ConsumeLiquidsDynamic
+
+* imports didn't optimize
+
+* wording
+
+* nevermind, no idea",2
+2023-08-04 14:59:33+00:00,Anuken,Fixed #8893,3
+2023-08-04 14:59:43+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-08-04 21:43:21+00:00,Anuken,Ignore wave version,1
+2023-08-05 05:57:13+00:00,Zerenta,"Update UnitTypes.java (#8895)
+
+precept buff lmao",1
+2023-08-05 17:29:15+00:00,Anuken,Do not allow various negative rule values,1
+2023-08-05 17:29:21+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-08-07 16:53:19+00:00,Anuken,Fixed #8903,2
+2023-08-08 13:29:20+00:00,Anuken,Fixed #8904,2
+2023-08-08 23:48:04+00:00,Hahaa13,Update servers_v7.json (#8905),1
+2023-08-09 16:36:43+00:00,Zerenta,"Aegires Nerf (#8899)
+
+* Update EnergyFieldAbility.java
+
+Nerfs aegires. hard. 3x less healing (3% to 1%)
+
+* Update UnitTypes.java
+
+segments better.
+reload 6 frames to 4 frames
+damage 25 to 30
+
+* Update EnergyFieldAbility.java
+
+Ty balam
+
+* Update UnitTypes.java
+
+Ty balam! :D
+
+* Update UnitTypes.java
+
+Thanks balam :D
+
+* Add EnergyFieldAbility.sameTypeHealMult
+
+* Apply to aegires
+
+Repair amount to other units is now 1.5% (50% of pre nerf)
+Repair amount to aegires is now 0.75% (25% of pre nerf)
+
+---------
+
+Co-authored-by: BalaM314 <71201189+BalaM314@users.noreply.github.com>",2
+2023-08-09 17:05:19+00:00,Anuken,"Pathfinding bugfixes / Logic dialog hiding ""unfixed""",5
+2023-08-09 17:05:26+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-08-09 21:43:10+00:00,NazrinNya,Update servers_v7.json (#8908),1
+2023-08-10 13:58:42+00:00,a-big-fish-fish,Update servers_v7.json (#8911),1
+2023-08-10 14:10:08+00:00,a-big-fish-fish,Update servers_v7.json (#8912),1
+2023-08-10 15:15:26+00:00,a-big-fish-fish,Update servers_v7.json (#8913),1
+2023-08-10 17:26:58+00:00,SatoshiSasaki,Fixed that the description of mech and ship was reversed (#8914),1
+2023-08-11 14:23:02+00:00,IqKero,"add new ips and change old one (#8918)
+
+(im Taras4k, but with new account)",1
+2023-08-11 15:54:20+00:00,Anuken,Closes Anuken/Mindustry-Suggestions/issues/4607,2
+2023-08-11 15:54:26+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-08-11 16:16:40+00:00,Anuken,Closes Anuken/Mindustry-Suggestions/issues/4608,8
+2023-08-11 16:17:29+00:00,unknown,Automatic bundle update,34
+2023-08-12 02:16:58+00:00,Zerenta,Scathe buff (#8919),1
+2023-08-12 14:47:34+00:00,Anuken,Fixed #8923,1
+2023-08-12 14:47:40+00:00,Anuken,Merge remote-tracking branch 'origin/master',35
+2023-08-12 15:40:25+00:00,nanmenyangde,Fix point defense weapons ignore damage multiplier (#8922),2
+2023-08-12 16:44:28+00:00,Anuken,Fixed #8924,1
+2023-08-12 16:44:33+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-08-12 17:09:21+00:00,Anuken,Fixed #8921,1
+2023-08-13 14:18:06+00:00,MinRi2,Fixed: Units lose LogicAI after reading. (#8920),1
+2023-08-13 15:05:43+00:00,Anuken,Added logic autoPathfind command,6
+2023-08-13 15:05:49+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-08-13 15:06:41+00:00,unknown,Automatic bundle update,34
+2023-08-14 13:40:57+00:00,nanmenyangde,Precept revert and buff (#8930),1
+2023-08-14 15:20:28+00:00,phinner,chore: Update chaotic neutral servers (#8934),2
+2023-08-14 15:50:37+00:00,Anuken,Fixed #8935,2
+2023-08-14 15:50:43+00:00,Anuken,Merge remote-tracking branch 'origin/master',37
+2023-08-14 17:33:42+00:00,tech3mi,Update servers_v7.json (#8936),1
+2023-08-15 13:51:52+00:00,Darkness6030,"ServerControl improvements (#8928)
+
+* Update ServerControl.java
+
+* Update Administration.java
+
+* Update Maps.java
+
+* Update ServerControl.java
+
+* Update ServerControl.java
+
+* Update Administration.java
+
+* Update ServerControl.java
+
+* Update Maps.java",3
+2023-08-15 13:52:03+00:00,a-big-fish-fish,Update servers_v7.json (#8938),1
+2023-08-15 17:09:57+00:00,Anuken,Fixed #8939,1
+2023-08-15 17:10:03+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-08-16 20:32:11+00:00,Anuken,Cleanup,2
+2023-08-17 13:15:37+00:00,nanmenyangde,Don't stop mining when planning (#8945),1
+2023-08-17 13:17:47+00:00,Anuken,Ignore ratelimit for local,2
+2023-08-17 13:17:54+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-08-18 13:33:47+00:00,Anuken,#8897,1
+2023-08-19 02:40:53+00:00,MaxSMokeSkaarj,Update servers_v7.json (#8950),1
+2023-08-20 01:11:50+00:00,abcxyzDustry,Update servers_v7.json (#8955),1
+2023-08-20 08:26:08+00:00,Anuken,Fixed #8957,3
+2023-08-20 08:26:14+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-08-20 14:08:33+00:00,lemon3357,Update servers_v7.json (#8958),1
+2023-08-20 14:08:45+00:00,SITUVNgcd,"Update Vietnamese translation (#8959)
+
+- Translated new strings.
+- Fixed gammar issue/typo.
+- Fixed strings format form (`{0}`).",1
+2023-08-20 14:08:56+00:00,xem8k5,add a new server (#8960),1
+2023-08-20 14:09:30+00:00,alexpvpmindustry,add alex servers (#8962),1
+2023-08-21 19:43:10+00:00,stacktrace-error,Update TreeBlock.java (#8965),1
+2023-08-21 23:58:18+00:00,stacktrace-error,"tree shadows (I'm sorry) (#8966)
+
+* Update TreeBlock.java
+
+* hgmjjjjjjjjjjjjjjjjjjjjjkhvgcfxchjk
+
+* ig",1
+2023-08-22 14:10:08+00:00,Anuken,Fixed #8967,4
+2023-08-22 14:10:15+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-08-23 15:05:09+00:00,Anuken,Capped explosive damage of blocks,1
+2023-08-24 19:26:02+00:00,Anuken,Different block explosion damage formula,3
+2023-08-25 21:14:27+00:00,NazrinNya,Update servers_v7.json (#8974),1
+2023-08-26 02:48:16+00:00,Anuken,Reverted building explosion nerf completely,2
+2023-08-26 02:48:22+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-08-27 02:32:43+00:00,Anuken,Don't allow loaders to accept items/liquids from unloaders,1
+2023-08-27 15:39:05+00:00,Anuken,Fixed #8978,2
+2023-08-27 15:39:50+00:00,unknown,Automatic bundle update,34
+2023-08-28 16:20:18+00:00,alexpvpmindustry,"removal of alex V6 servers (#8983)
+
+V6 servers no longer functioning :(",1
+2023-08-29 13:10:46+00:00,zeutd,"let DrawRegion drawer can draw regions rotate with building rotation (#8987)
+
+* let DrawRegion drawer can draw regions that rotate with building rotation
+
+create a variable buildingRotate that can select whether the region will rotate with building rotation or not
+
+* let DrawRegion drawer can draw regions rotate with building rotation
+
+create a variable buildingRotate that can select whether the region will rotate with building rotation or not
+make modders needn't to use DrawSideRegion to make this effect
+
+* Update DrawRegion.java",1
+2023-08-29 21:51:45+00:00,Anuken,Possible corner death fix,6
+2023-08-29 21:51:53+00:00,Anuken,Merge remote-tracking branch 'origin/master',36
+2023-08-30 13:05:05+00:00,Darkness6030,"Add language to trace info (#8990)
+
+* Update Administration.java
+
+* im stoopid
+
+* Update TraceDialog.java
+
+* Update bundle.properties",2
+2023-08-30 13:06:00+00:00,unknown,Automatic bundle update,34
+2023-08-31 21:23:23+00:00,Darkness6030,Update TraceDialog.java (#8992),1
+2023-09-01 18:24:11+00:00,Anuken,Fixed #8993,1
+2023-09-01 18:24:17+00:00,Anuken,Merge remote-tracking branch 'origin/master',36
+2023-09-02 13:19:32+00:00,stacktrace-error,"most ability displays (#8981)
+
+* works
+
+* why not
+
+* idk if that changes it but
+
+* json
+
+* destringening
+
+* automatic imports and leftover marker
+
+* uirfirf",49
+2023-09-02 13:20:23+00:00,unknown,Automatic bundle update,5
+2023-09-02 15:49:34+00:00,Anuken,Added setting to disable lighting,4
+2023-09-02 15:49:41+00:00,Anuken,Merge remote-tracking branch 'origin/master',49
+2023-09-02 15:59:23+00:00,HamzaGSopp,Update servers_v7.json (#8996),1
+2023-09-02 23:17:47+00:00,Anuken,Fixed #9001,1
+2023-09-02 23:17:53+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-09-02 23:18:45+00:00,unknown,Automatic bundle update,34
+2023-09-02 23:53:47+00:00,Hahaa13,Update servers_v7.json (#9002),1
+2023-09-03 15:37:43+00:00,Anuken,Removed pointless test,1
+2023-09-03 15:37:49+00:00,Anuken,Merge remote-tracking branch 'origin/master',35
+2023-09-03 15:39:13+00:00,SSansssssssssssss,Update servers_v7.json (#9006),1
+2023-09-03 17:28:11+00:00,Anuken,Updated Gradle + other deps,5
+2023-09-03 17:28:33+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-09-04 01:08:31+00:00,Zerenta,"fixes serp-specific fog issue (#9009)
+
+* fixes serp-specific fog issues
+
+* didnt know the f had a purpose",1
+2023-09-04 01:12:46+00:00,Anuken,Wave effect has color now,2
+2023-09-04 01:12:52+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-09-04 01:15:50+00:00,Anuken,Build fix?,1
+2023-09-04 01:52:25+00:00,Anuken,I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN I HATE THE ANDROID GRADLE PLUGIN V,4
+2023-09-04 02:02:02+00:00,Anuken,Fixed empty admin menu,1
+2023-09-04 02:45:37+00:00,Anuken,Fixed mod loading,2
+2023-09-04 03:50:38+00:00,Anuken,Fixed monos not mining,1
+2023-09-04 04:04:22+00:00,Anuken,Fixed #9011,1
+2023-09-04 14:05:39+00:00,Anuken,fixed #9017,2
+2023-09-04 15:28:34+00:00,Anuken,豈,3
+2023-09-04 15:29:08+00:00,Anuken,e,1
+2023-09-04 20:59:19+00:00,HamzaGSopp,Update servers_v7.json (#9019),1
+2023-09-04 21:56:10+00:00,Anuken,Crash fix,2
+2023-09-04 21:56:16+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-09-05 13:41:04+00:00,Anuken,Support for JSON planets without a parent,2
+2023-09-05 16:43:17+00:00,way-zer,"add `@server` to logic (#9018)
+
+* add @master to logic
+
+* remove `Vars.`
+
+* Update GlobalVars.java
+
+* Update GlobalVars.java",1
+2023-09-06 14:55:20+00:00,Redik2,"Update servers_v7.json (#9028)
+
+* Update servers_v7.json
+
+Idk if i need to write description, but i will. My server is about pvp in open world, that generates every round again. Also there are serpulo and erekir content, that balanced not bad.
+
+* Update servers_v7.json
+
+Fixed ad(d)ress",1
+2023-09-07 13:23:17+00:00,Anuken,Fixed #9031,1
+2023-09-07 13:23:22+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-09-08 04:27:43+00:00,alexpvpmindustry,"Update servers_v7.json (#9033)
+
+change to ip address",1
+2023-09-09 19:52:16+00:00,The1Crux,"Update servers_v7.json (#9037)
+
+sorry i forgot this ip in last fork",1
+2023-09-09 19:53:24+00:00,Darkness6030,"More ServerControl improvements (#9038)
+
+* More ServerControl improvements
+
+* Update server/src/mindustry/server/ServerControl.java
+
+---------
+
+Co-authored-by: Anuken <arnukren@gmail.com>",1
+2023-09-09 22:39:37+00:00,Anuken,Scathe buff,1
+2023-09-09 22:39:43+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-09-09 23:34:47+00:00,OpalSoPL,"PL translation of missing texts  (#9040)
+
+* translation of most of the missing translations
+
+* Update contributors",2
+2023-09-10 21:19:33+00:00,Anuken,Removed pointless statement,1
+2023-09-10 21:19:40+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-09-12 00:00:20+00:00,Anuken,Fixed #9049,2
+2023-09-12 17:56:16+00:00,Mythril382,"Ban/Unban Blocks & Units with World Processors (#9052)
+
+* uh
+
+* mmmmmm
+
+* hhhhhh
+
+* i
+
+* indicate",3
+2023-09-12 20:31:38+00:00,Zerenta,"Navanax buff (#8925)
+
+* Update UnitTypes.java
+
+its late at night imma just commit changes and pray i didnt fuck up anywhere
+
+* Allow changing suppress effect color
+* Fx.regenSuppressParticle and Fx.regenSuppressSeek now color-aware
+- regenSuppressParticle's color handling changed, allows changing the from color intead of the to color
+* Damage.applySuppression accepts color as an argument, old method signature still exists
+* SuppressionFieldAbility has a new field allowing to specify the color for effect particles
+* BulletType has a new field allowing to specify the color for suppress effect particles
+* BuildingComp has a new field storing the color to be used for suppression effect
+
+* name
+
+---------
+
+Co-authored-by: BalaM314 <71201189+BalaM314@users.noreply.github.com>",6
+2023-09-14 03:43:16+00:00,Anuken,Clamp mobile view,2
+2023-09-14 03:43:23+00:00,Anuken,Merge remote-tracking branch 'origin/master',9
+2023-09-14 04:50:30+00:00,Anuken,Fixed some crawling unit visual issues,1
+2023-09-14 05:53:09+00:00,Anuken,Implements Anuken/Mindustry-Suggestions/issues/4665,2
+2023-09-14 05:54:13+00:00,unknown,Automatic bundle update,34
+2023-09-14 18:34:00+00:00,Anuken,Fixed #9055,2
+2023-09-14 18:34:06+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-09-15 21:11:22+00:00,phinner,"Add text input option allowing empty text (#9058)
+
+* feat: Add option allowing empty text input
+
+* feat: Implement https://github.com/Anuken/Arc/pull/155
+
+* chore: Add missing null checks in Menus",3
+2023-09-16 15:19:37+00:00,Anuken,Updated Steam localization data,3
+2023-09-16 15:19:43+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-09-16 15:40:53+00:00,Anuken,Localization cleanup,127
+2023-09-16 19:43:23+00:00,NazrinNya,"Update server_v7.json (#9063)
+
+* Update servers_v7.json
+
+* Update servers_v7.json",1
+2023-09-16 20:23:48+00:00,ArkSourcer,Update servers_v7.json (#9064),1
+2023-09-17 04:22:04+00:00,way-zer,Update SpawnGroup.java (#9065),1
+2023-09-19 03:18:55+00:00,Anuken,Fixed commanded units attacking invalid targets,4
+2023-09-19 03:19:03+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-09-19 13:12:34+00:00,a-big-fish-fish,Update servers_v7.json (#9071),1
+2023-09-19 17:24:12+00:00,XuwenMeimei,"Update servers_v7.json (#9072)
+
+* Update servers_v7.json
+
+* Update servers_v7.json",1
+2023-09-19 21:25:49+00:00,Anuken,WIP command queueing,7
+2023-09-19 21:25:55+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-09-19 21:26:43+00:00,unknown,Automatic bundle update,34
+2023-09-19 22:58:26+00:00,ArkSourcer,Update servers_v7.json (#9074),1
+2023-09-20 03:48:40+00:00,Anuken,RTS Control groups,8
+2023-09-20 03:48:46+00:00,Anuken,Merge remote-tracking branch 'origin/master',35
+2023-09-20 03:51:07+00:00,unknown,Automatic bundle update,34
+2023-09-20 14:59:55+00:00,Anuken,Fixed #9077,1
+2023-09-20 15:00:01+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-09-21 01:20:22+00:00,MEEPofFaith,"Unnecessary Drawer Icon Adding (#9078)
+
+* DrawBlock icons shouldn't have icons by default
+
+It doesn't make sense for drawers like DrawLiquidTile to return icons. Overriding in every such class doesn't make as much sense as simply changing the superclass.
+
+* Ensure that finalIcons is never empty",3
+2023-09-21 01:55:06+00:00,Anuken,Added unit stances,11
+2023-09-21 01:55:18+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-09-21 01:56:15+00:00,unknown,Automatic bundle update,34
+2023-09-21 02:45:45+00:00,Anuken,Patrol + pursue target stances,7
+2023-09-21 02:45:51+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-09-21 02:46:40+00:00,unknown,Automatic bundle update,34
+2023-09-21 02:49:19+00:00,Redik2,"Open PVP (#9079)
+
+New hosting, new ip",1
+2023-09-21 13:57:57+00:00,Anuken,Ram stance + Mobile command queue support,9
+2023-09-21 13:58:12+00:00,Anuken,Merge remote-tracking branch 'origin/master',35
+2023-09-21 13:59:23+00:00,unknown,Automatic bundle update,34
+2023-09-21 14:40:44+00:00,Anuken,Keybind tweaks,4
+2023-09-21 14:40:52+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-09-21 14:41:58+00:00,unknown,Automatic bundle update,34
+2023-09-21 16:33:09+00:00,Anuken,Closes Anuken/Mindustry-Suggestions/issues/4677,3
+2023-09-21 16:33:15+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-09-21 16:34:07+00:00,unknown,Automatic bundle update,34
+2023-09-21 18:28:08+00:00,Anuken,Misc bugfixes,4
+2023-09-21 18:28:14+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-09-22 14:06:43+00:00,Anuken,Fixed setProp x/y not teleporting on strict servers,13
+2023-09-22 16:33:53+00:00,lemon3357,Update servers_v7.json (#9084),1
+2023-09-22 22:22:19+00:00,Anuken,Added stances for payloads,6
+2023-09-22 22:22:24+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-09-22 22:23:22+00:00,unknown,Automatic bundle update,34
+2023-09-22 22:32:35+00:00,Anuken,Payload stances changed to commands,6
+2023-09-22 22:32:40+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-09-22 22:33:39+00:00,unknown,Automatic bundle update,34
+2023-09-23 02:19:13+00:00,Anuken,Offset tooltips on mobile,1
+2023-09-23 02:19:19+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-09-23 15:03:15+00:00,Anuken,Command hotkeys,3
+2023-09-23 16:02:06+00:00,Anuken,Bindings per command/stance,5
+2023-09-23 16:02:54+00:00,unknown,Automatic bundle update,34
+2023-09-23 19:12:31+00:00,Anuken,Fixed tests,1
+2023-09-23 19:12:36+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-09-23 19:13:28+00:00,Anuken,Stained mountains has Scepter again,1
+2023-09-23 20:32:01+00:00,Anuken,Craters + Naval fortress wave changes,2
+2023-09-23 21:09:50+00:00,Anuken,Patrol tweaks,1
+2023-09-23 21:10:19+00:00,Anuken,Commands are now content,7
+2023-09-23 22:15:09+00:00,ArkSourcer,Update servers_v7.json (#9089),1
+2023-09-24 01:43:38+00:00,ArkSourcer,Update servers_v7.json (#9091),1
+2023-09-24 11:44:42+00:00,Anuken,WIP grouped unit arrival,9
+2023-09-24 11:46:04+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-09-24 12:11:37+00:00,Anuken,Limit formation speed,4
+2023-09-24 13:03:44+00:00,Anuken,Limit formation speed across collision layers,3
+2023-09-24 16:24:48+00:00,Anuken,Remove all piercing from shocked status,2
+2023-09-25 02:29:58+00:00,Anuken,Better turns for units pathfinding near blocks,1
+2023-09-25 16:23:46+00:00,Anuken,Pathfinding fixes,7
+2023-09-25 16:48:55+00:00,Anuken,More misc pathfinding improvements,2
+2023-09-25 17:37:11+00:00,Anuken,Queued formation movement fix,2
+2023-09-26 12:30:17+00:00,Anuken,Fixed #9094,1
+2023-09-26 12:30:34+00:00,a-big-fish-fish,Update servers_v7.json (#9095),1
+2023-09-27 12:58:55+00:00,a-big-fish-fish,Update servers_v7.json (#9099),1
+2023-09-27 13:38:28+00:00,112Hack,Update servers_v7.json (#9093),1
+2023-09-27 14:54:48+00:00,ArkSourcer,Update bundle_es.properties (#9100),1
+2023-09-27 21:17:59+00:00,ApsZoldat,"Add marker instruction to world processors (#9087)
+
+* Basic implementation of world processor marker control
+
+* Add line marker, some marker control fixes
+
+* Add remote for setting markers, add marker writer/reader to TypeIO
+
+* Add sides cap to ShapeTextMarker's draw() method
+
+* Marker instruction code refactor, revert accident auto-formatting, fix marker control bugs
+
+* Cleanup LMarkerControl.java
+
+* Remove deleted marker controls from MapObjectives
+
+* Marker control method refactor, fix minimap marker rendering
+
+* Refactor, proper double comparsion in MapObjectives
+
+* Fix line marker's color not changing through world processors",9
+2023-09-27 21:18:48+00:00,unknown,Automatic bundle update,34
+2023-09-28 05:04:03+00:00,Anuken,Marker instruction rework,18
+2023-09-28 05:06:36+00:00,unknown,Automatic bundle update,34
+2023-09-28 05:48:38+00:00,Redstonneur1256,"Add sensor for player camera (#9103)
+
+* Add sensor for player camera
+
+* Fix sensor for player camera",3
+2023-09-28 12:52:08+00:00,Anuken,copy paste,2
+2023-09-28 12:52:14+00:00,Anuken,Merge remote-tracking branch 'origin/master',37
+2023-09-28 17:47:47+00:00,guiYMOUR,"Maybe the ShieldArcAbility needs a minor fix? (#9105)
+
+* Update ShieldArcAbility.java
+
+* Update Fx.java
+
+* Update ShieldArcAbility.java
+
+* Update Fx.java
+
+* Update ShieldArcAbility.java
+
+* Update ShieldArcAbility.java
+
+* Update Fx.java
+
+* Update Fx.java
+
+* Update Fx.java...again...
+
+* Switch method",2
+2023-09-28 18:26:45+00:00,MEEPofFaith,"Point bullets hitting buildings doesn't call hit (#9106)
+
+* Point bullet hitting buildings doesn't call hit
+
+* Use px/py",1
+2023-09-28 20:07:02+00:00,ApsZoldat,Fix text setting in marker control (#9108),1
+2023-09-28 22:25:20+00:00,Anuken,Markers no longer synced,2
+2023-09-29 04:48:06+00:00,Arzxq,Update servers_v7.json (#9110),1
+2023-09-29 14:10:50+00:00,ApsZoldat,"Fix marker and bridge calculation game crashes, minor marker instruction fixes (#9112)
+
+* Fix text setting in marker control
+
+* Fix marker and bridge calculation game crashes, minor marker instruction code fixes",4
+2023-09-29 14:27:42+00:00,XuwenMeimei,Update servers_v7.json (#9111),1
+2023-09-29 14:40:08+00:00,MEIQIUawa,Update servers_v7.json (#9115),1
+2023-09-30 01:25:12+00:00,Anuken,Fixed #9116,1
+2023-09-30 01:25:20+00:00,Anuken,Merge remote-tracking branch 'origin/master',5
+2023-09-30 19:29:29+00:00,XuwenMeimei,Update servers_v7.json (#9120),1
+2023-09-30 19:30:05+00:00,TheTrueInfinity,Update servers_v7.json (#9118),1
+2023-10-01 01:09:04+00:00,Anuken,Fixed #9121,1
+2023-10-01 01:09:10+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-10-01 13:20:10+00:00,MEIQIUawa,Update servers_v7.json (#9123),1
+2023-10-01 13:20:21+00:00,karlo292,"Update servers_v7.json (#9122)
+
+added second crocraft server",1
+2023-10-01 15:51:56+00:00,ivancea,"Changed ""perpendicular"" to ""ortogonal"" (#9125)",1
+2023-10-01 17:52:53+00:00,ArkSourcer,Funny change (#9126),1
+2023-10-01 18:58:44+00:00,Jerzozwierz123,"Update bundle_pl.properties (#9127)
+
+Fixed translations",1
+2023-10-01 22:47:37+00:00,Anuken,Closes Anuken/Mindustry-Suggestions/issues/4703,2
+2023-10-02 16:00:25+00:00,RebornTrack970,"TR Bundle Update (mostly by Ekozet) (#9130)
+
+* Update bundle_tr.properties
+
+* Update bundle_tr.properties",1
+2023-10-02 16:00:54+00:00,GaruPlayOfficial,"Update servers_v7.json (#9129)
+
+Hello, I started my server, I just had some problems with the network, I seem to have fixed them. Please add my server to your server list",1
+2023-10-02 16:01:48+00:00,unknown,Automatic bundle update,1
+2023-10-02 22:32:39+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-10-03 13:48:55+00:00,Anuken,RailBulletType collision fixes,1
+2023-10-03 18:58:24+00:00,Anuken,Removed useless code from ScriptMainGenerator,1
+2023-10-04 13:34:34+00:00,phinner,chore: Add CN testing servers (#9134),2
+2023-10-04 14:31:33+00:00,MEIQIUawa,Update servers_v7.json (#9135),1
+2023-10-04 18:30:13+00:00,siede2010,"Fixing RegionPart Child Rotation (#9137)
+
+why would it ever need i * sign.
+when it first goes around i = 0;
+second time i = 1;
+it just breaks the Child Mirroring by adding 1 tiny little annoying offset.",1
+2023-10-05 14:56:53+00:00,ApsZoldat,"Add privileged desynced client global variables (#9138)
+
+* Fix text setting in marker control
+
+* Fix marker and bridge calculation game crashes, minor marker instruction code fixes
+
+* Add privileged desynced client constant global variables
+
+* Remove broken attempt to not initialize client vars on server
+
+* Make @clientLocale variable non-constant, make @server and @client privileged",4
+2023-10-06 16:00:56+00:00,StalkerBaran,"Update servers_v7.json (#9141)
+
+Update ""Meow Island"" to ""MeowIsland"" (because why not)",1
+2023-10-06 17:20:53+00:00,way-zer,"Optimize `wait`/`message` (#9086)
+
+* add `IExecutor.yield` to optimize `wait`
+
+* add MessageType.label. and add outSuccess
+
+* remove `MessageType.label` in support `marks`
+
+* amend
+
+* amend",3
+2023-10-07 17:17:57+00:00,Anuken,Slight puddle performance increase,4
+2023-10-07 17:18:06+00:00,Anuken,Merge remote-tracking branch 'origin/master',9
+2023-10-07 18:49:18+00:00,ArkSourcer,"For events. (#9144)
+
+* Funny change
+
+* Update servers_v7.json",1
+2023-10-08 17:00:45+00:00,Anuken,ShootSummon empty constructor,1
+2023-10-08 17:00:50+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-10-09 14:04:45+00:00,Anuken,Fixed #9148,1
+2023-10-09 20:16:32+00:00,Darkness6030,Remove duplicate (#9149),1
+2023-10-13 04:38:53+00:00,Anuken,Json support for UnlockableContent fields,2
+2023-10-13 04:39:00+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-10-13 06:15:05+00:00,Anuken,Fixed #9156,1
+2023-10-13 13:23:14+00:00,J0anJosep,Update bundle_ca.properties (#9158),1
+2023-10-13 18:58:59+00:00,NazrinNya,Update servers_v7.json (#9165),1
+2023-10-14 01:14:55+00:00,Atomic-Laboratory,"Add Atomic to the server list (#9155)
+
+* Add Atomic to the server list
+
+* Add second port
+
+* Remove unused port 6567
+
+Was hoping to use it soon:tm: but oh well...",1
+2023-10-14 13:09:59+00:00,way-zer,PR: world-switch (#9167),5
+2023-10-15 02:12:47+00:00,Atomic-Laboratory,Add Atomic Attack server (#9170),1
+2023-10-15 02:18:13+00:00,Atomic-Laboratory,"Add ""loadautosave"" server command. (#9169)
+
+* Add ""loadautosave"" server command.
+
+A command that loads the last auto-save. This command can be placed inside `config startcommands` to automatically load the last save when the server starts.
+
+* autosaves config is actually autosave. use first() not get(0)
+
+* Get most recent autosave w/o sorting
+
+* Remove left over debug
+
+oops....",1
+2023-10-15 03:12:07+00:00,JasonP01,"Update servers_v7.json (#9171)
+
+Added xpdustry events to partnered servers",1
+2023-10-15 13:52:02+00:00,Anuken,Fixed #9166,1
+2023-10-15 13:52:07+00:00,Anuken,Merge remote-tracking branch 'origin/master',8
+2023-10-16 16:16:38+00:00,Atomic-Laboratory,"Change port for Atomic Servers (#9174)
+
+* Change port for Atomic Servers
+
+I cant choose ports when making a new game server node...
+
+* change domain
+
+move domain to 129.146.33.189",1
+2023-10-18 14:18:29+00:00,lemon3357,Update servers_v7.json (#9175),1
+2023-10-19 05:47:51+00:00,Atomic-Laboratory,"Add Atomic PvP (#9176)
+
+A pvp server were (almost) all turrets have infinite ammo and cryo fluid. Maximize chaos. Hosted on Germany.",1
+2023-10-19 13:27:30+00:00,karlo292,"Update servers_v7.json (#9177)
+
+added new IP for crocraft network server",1
+2023-10-19 17:55:04+00:00,MEEPofFaith,"SoundEffect - An Effect that produces sound when created. (#9178)
+
+* SoundEffect
+
+* Add to ClassMap
+
+* Loading via prov does not work
+
+* MEEP, that's not how you random",2
+2023-10-20 02:02:34+00:00,Anuken,Load/unload command icon swap,2
+2023-10-20 02:02:41+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-10-20 05:48:11+00:00,Anuken,Unit enter payload command,11
+2023-10-20 05:49:09+00:00,unknown,Automatic bundle update,34
+2023-10-21 13:15:03+00:00,MEIQIUawa,Update servers_v7.json (#9188),1
+2023-10-21 13:15:15+00:00,Redik2,Update servers_v7.json (#9182),1
+2023-10-21 19:18:57+00:00,Anuken,Fixed load block command not arriving on target,2
+2023-10-21 19:19:03+00:00,Anuken,Merge remote-tracking branch 'origin/master',35
+2023-10-22 03:04:12+00:00,Anuken,Let units without weapons patrol,1
+2023-10-22 03:41:01+00:00,Atomic-Laboratory,"Move Atomic Servers to DE Node (#9191)
+
+VPS Provider nuked their US node by accident, this may or may not be a permanent migration.",1
+2023-10-22 13:14:52+00:00,Mythril382,"`useUnitCap` fun (#9187)
+
+* a
+
+* aaaaa
+
+* aaaaaaaaaaaa
+
+* AAAAAAAAAAAAAAAAAAAAAAA
+
+* *inhales*
+
+* AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+* *inhales*
+
+* AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+* *inhales*
+
+* aaaa
+
+* AAAAAAAÆEEEEEEEEEEEEEEEE
+
+* anyways im stupid
+
+* *exhales*
+
+* Update core/src/mindustry/world/blocks/units/Reconstructor.java
+
+---------
+
+Co-authored-by: Anuken <arnukren@gmail.com>",5
+2023-10-23 15:18:01+00:00,Anuken,Derelict block click repair,9
+2023-10-23 15:18:08+00:00,Anuken,Merge remote-tracking branch 'origin/master',6
+2023-10-23 15:34:54+00:00,Anuken,Fixed #9195,1
+2023-10-23 16:24:48+00:00,TheTrueInfinity,"Update servers (#9190)
+
+* Update servers_v7.json
+
+For a while "".ru""
+
+* Update servers
+
+Fixed [ Line 125 ]
+
+* Update servers
+
+Fixed line 123",1
+2023-10-24 04:59:15+00:00,eSK8er,Update servers_v7.json (#8438),1
+2023-10-24 04:59:40+00:00,summoner001,"Update bundle_hu.properties (#9189)
+
+* Update bundle_hu.properties
+
+Correction, completion and correction of errors in the Hungarian translation
+
+* Update bundle_hu.properties
+
+* Update bundle_hu.properties",1
+2023-10-24 05:00:24+00:00,unknown,Automatic bundle update,1
+2023-10-27 22:06:04+00:00,Xenerain,Update servers_v7.json (#9201),1
+2023-10-27 22:06:26+00:00,summoner001,"Update bundle_hu.properties (#9203)
+
+* Update bundle_hu.properties
+
+Correction, completion and correction of errors in the Hungarian translation
+
+* Update bundle_hu.properties
+
+Correction, completion and correction of errors in the Hungarian translation
+
+* Update bundle_hu.properties
+
+Correction, completion and correction of errors in the Hungarian translation
+
+* Update bundle_hu.properties
+
+Correction, completion and correction of errors in the Hungarian translation
+
+* Update bundle_hu.properties
+
+Correction, completion and correction of errors in the Hungarian translation
+
+* Update bundle_hu.properties
+
+Correction, completion and correction of errors in the Hungarian translation",1
+2023-10-27 22:07:10+00:00,unknown,Automatic bundle update,1
+2023-10-27 22:36:15+00:00,ArkSourcer,"Edit bundle_es (#9198)
+
+* Funny change
+
+* Update servers_v7.json
+
+* Update bundle_es.properties
+
+Traductions for the bundle_es
+By ArkSource",1
+2023-10-27 22:42:25+00:00,Anuken,Fixed some blocks not being mobile rotate-able,1
+2023-10-27 22:42:31+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-10-28 13:29:28+00:00,Anuken,Fixed #9208,1
+2023-10-28 13:32:03+00:00,BasedUser,"Update bundle_ru attributions (#9205)
+
+* Update bundle_ru attributions
+
+i don't think anyone calls me by my old alias anymore
+
+* Update bundle_ru.properties",1
+2023-10-28 13:32:12+00:00,lemon3357,Update servers_v7.json (#9204),1
+2023-10-28 22:55:03+00:00,MEIQIUawa,Update servers_v7.json (#9211),1
+2023-10-29 15:19:53+00:00,MEIQIUawa,Update servers_v7.json (#9214),1
+2023-10-29 17:57:22+00:00,NazrinNya,"Update servers_v7.json (#9215)
+
+* Update servers_v7.json
+
+* Update servers_v7.json
+
+* Update servers_v7.json",1
+2023-10-30 13:13:47+00:00,Anuken,Ignore .git in mods,3
+2023-10-30 13:14:00+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-10-30 13:45:48+00:00,Anuken,Fixed #9216,1
+2023-10-30 18:56:40+00:00,Anuken,includeBuild for Arc,2
+2023-10-30 19:01:57+00:00,Anuken,no getArcHash,1
+2023-10-30 19:13:26+00:00,Anuken,most unfortunate,1
+2023-10-30 23:06:53+00:00,ArkSourcer,"Agua (#9217)
+
+* Funny change
+
+* Update servers_v7.json
+
+* Update bundle_es.properties
+
+Traductions for the bundle_es
+By ArkSource
+
+* Update servers_v7.json",1
+2023-10-31 01:01:04+00:00,Anuken,Derelict repair rule,4
+2023-10-31 14:20:39+00:00,Volas171,Update servers_v7.json (#9219),1
+2023-10-31 15:24:03+00:00,Anuken,Added dynamic status for custom speed/health/etc,6
+2023-10-31 15:24:11+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-10-31 15:25:06+00:00,unknown,Automatic bundle update,34
+2023-10-31 16:20:18+00:00,Anuken,Add setProp of speed/armor,2
+2023-10-31 16:20:23+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-10-31 16:38:55+00:00,Anuken,"alignment, comments",1
+2023-10-31 23:34:14+00:00,buthed010203,Update io ips (#9221),1
+2023-10-31 23:37:48+00:00,Anuken,Removed v7 server from v6 list,1
+2023-11-01 03:59:34+00:00,Anuken,Fixed #8917,1
+2023-11-01 03:59:41+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-11-01 16:23:48+00:00,Anuken,Simplification,1
+2023-11-01 18:44:00+00:00,Anuken,"Removed Omega network (see description)
+
+Multiple staff members of the Omega network have been DDOSing other server networks. It's been pretty obvious for a while, but enough is enough.
+
+No, I will not re-add the network. Don't bother commenting or PMing me on Discord.",1
+2023-11-01 23:13:26+00:00,Anuken,Fixed basin tank doors,1
+2023-11-01 23:13:32+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-11-02 12:58:26+00:00,Ilya246,"foreshadow overhaul (#9223)
+
+* overhaul foreshadow
+
+* whar ?",4
+2023-11-02 12:59:20+00:00,unknown,Automatic bundle update,34
+2023-11-02 13:01:59+00:00,ErosAa2,"Scepter buff (#9226)
+
+* Update UnitTypes.java
+
+* Update UnitTypes.java
+
+* nevermind",1
+2023-11-02 15:02:26+00:00,summoner001,"Update bundle_hu.properties - The finishing touches (#9207)
+
+* Update bundle_hu.properties - The finishing touches
+
+Correction, completion and correction of errors in the Hungarian translation.
+
+Sorry for the many commits, this is the first time I've done this.
+
+This is the final corrections. If you find any problem, I will repair it asap.
+
+* Update bundle_hu.properties
+
+Filling in a missing translation
+
+* Update bundle_hu.properties
+
+Correction, completion and correction of errors in the Hungarian translation
+
+* Update bundle_hu.properties
+
+Correction, completion and correction of errors in the Hungarian translation
+
+delete unnecessary spaces
+
+* Update bundle_hu.properties
+
+Minor fixes
+
+* Update bundle_hu.properties
+
+minor fixes
+fixing typos
+
+* Update bundle_hu.properties
+
+minor fixes
+
+* Update bundle_hu.properties
+
+new translations
+
+1263 - rules.derelictrepair = Allow Derelict Block Repair
+
+Minor fixes
+
+* Update bundle_hu.properties
+
+more fixes
+
+* Update bundle_hu.properties
+
+Minor fixes
+
+* Update bundle_hu.properties
+
+fixes
+
+* Update bundle_hu.properties
+
+fixes
+
+* Update bundle_hu.properties
+
+fixes
+
+* Update bundle_hu.properties
+
+minor fixing",1
+2023-11-02 15:03:05+00:00,unknown,Automatic bundle update,1
+2023-11-02 15:45:08+00:00,summoner001,"Update bundle_hu.properties (#9227)
+
+The last one. Sorry! :( Ready to merge.",1
+2023-11-03 02:46:15+00:00,Anuken,Fixed off-by-one team sprite in editor,1
+2023-11-03 02:46:22+00:00,Anuken,Merge remote-tracking branch 'origin/master',39
+2023-11-03 13:34:14+00:00,summoner001,"Update bundle_hu.properties (#9229)
+
+Fix minor translation.
+hint.derelict = .... updated
+Ready to merge",1
+2023-11-03 15:19:49+00:00,Ilya246,uncap fsh shield damage (#9230),1
+2023-11-03 22:56:02+00:00,Anuken,Fixed #9224,2
+2023-11-03 22:56:10+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-11-04 13:12:21+00:00,ErosAa2,Slight adjusment (#9231),1
+2023-11-04 14:56:24+00:00,Ilya246,overdrivable meltdown (#9234),3
+2023-11-04 18:00:17+00:00,Anuken,WIP hierarchical pathfinding,3
+2023-11-04 18:00:32+00:00,summoner001,"Update bundle_hu.properties (#9236)
+
+Minor fixes",1
+2023-11-04 21:18:53+00:00,Anuken,suffering,2
+2023-11-04 21:37:29+00:00,Anuken,Better connection storage,2
+2023-11-04 21:38:50+00:00,Anuken,Fixed #9239,1
+2023-11-04 21:38:56+00:00,Anuken,Merge remote-tracking branch 'origin/master',5
+2023-11-06 00:09:23+00:00,PloVez,"Update bundle_ru.properties (#9244)
+
+I've translated the settinG",1
+2023-11-06 13:59:33+00:00,Anuken,Fixed #9247,2
+2023-11-06 13:59:40+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-11-06 18:29:40+00:00,Anuken,Fixed #9248,1
+2023-11-07 00:21:29+00:00,Anuken,Cluster A* progress,1
+2023-11-07 01:54:58+00:00,buthed010203,jlfhuyksft (#9251),1
+2023-11-07 03:51:47+00:00,Anuken,"It works, but badly",2
+2023-11-07 04:02:26+00:00,Anuken,Heuristic fixed,1
+2023-11-07 05:11:44+00:00,Anuken,Flowfield tests,1
+2023-11-07 15:56:17+00:00,Anuken,progress,3
+2023-11-07 19:42:42+00:00,ApsZoldat,Texture marker implementation,5
+2023-11-07 21:13:50+00:00,KotMilkMeoWtwo,"Update servers_v7.json (#9243)
+
+I changed the host ip.",1
+2023-11-08 02:41:13+00:00,TheRadioactiveBanana,Eradication Mindustry IP change (#9241),1
+2023-11-08 03:38:53+00:00,The1Crux,"Update servers_v7.json (#9255)
+
+Crux's Revelations servers addition",1
+2023-11-08 03:44:22+00:00,GeraldEV,"Move Surge Alloy in ErekirTechTree to the correct position (#9253)
+
+Surge Alloy can be first obtained on the ""Ravine"" map.
+Thorium can be first obtained on the ""Caldera"" map.
+The ""Ravine"" map must be unlocked and completed before the ""Caldera"" map can be accessed.
+Since Surge Alloy isn't required to produce Thorium (and vice versa), they should appear at the same level of the tech tree, under Tungsten.
+
+Signed-off-by: Gerald Elder-Vass <geraldev@hotmail.co.uk>",1
+2023-11-08 13:42:48+00:00,Anuken,progress,2
+2023-11-08 13:47:40+00:00,Anuken,Update servers_v7.json,1
+2023-11-08 13:56:12+00:00,StalkerBaran,"Update servers_v7.json (#9256)
+
+Update ""MeowIsland"" IP servers (Dont ask about ""minecraft"" in IP names, I using host for minecraft and its working on mindustry(no jokes plz, I know... its stupid... but its working))",1
+2023-11-08 14:02:20+00:00,Anuken,Fixed #9257,2
+2023-11-08 14:02:27+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-11-08 15:12:35+00:00,Anuken,Reverted fix for #9257,1
+2023-11-08 18:20:07+00:00,Anuken,Moving new pathfinding to a new thread,1
+2023-11-08 22:18:30+00:00,KotMilkMeoWtwo,"Update servers_v7.json (#9258)
+
+I'm sorry, I made a mistake in the domain",1
+2023-11-09 14:49:50+00:00,Anuken,progress,1
+2023-11-10 06:57:04+00:00,Anuken,progress,1
+2023-11-10 07:00:15+00:00,Anuken,Fixed #9260,1
+2023-11-10 07:00:20+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-11-10 18:48:41+00:00,Anuken,progress,1
+2023-11-11 06:46:18+00:00,XuwenMeimei,Update servers_v7.json (#9262),1
+2023-11-11 14:36:22+00:00,osp54,someone forgot to place comma 💀 (#9263),1
+2023-11-11 14:55:01+00:00,ApsZoldat,"Minor ban/unban instruction and join dialog changes (#9249)
+
+* Make PlacementFragment update after world processor's ban/unban instructions, add buttons in community server list to add server as remote
+
+* Small world processor ban/unban optimization",3
+2023-11-11 15:41:53+00:00,Anuken,progress,2
+2023-11-11 16:26:42+00:00,Anuken,progress,1
+2023-11-11 17:28:10+00:00,Anuken,progress,1
+2023-11-11 19:20:48+00:00,Anuken,"Actually functional, but terrible",3
+2023-11-12 00:59:14+00:00,Anuken,Still terrible,3
+2023-11-12 01:48:15+00:00,ArkSourcer,"Agua part 2 (#9266)
+
+* Funny change
+
+* Update servers_v7.json
+
+* Update bundle_es.properties
+
+Traductions for the bundle_es
+By ArkSource
+
+* Update servers_v7.json
+
+* Agua prt 2",1
+2023-11-12 14:49:07+00:00,Anuken,Fixed #9269,1
+2023-11-12 14:49:12+00:00,Anuken,Merge remote-tracking branch 'origin/master',4
+2023-11-12 14:49:20+00:00,Hahaa13,"Good Bye VnDustry (#9268)
+
+* Update servers_v7.json
+
+* Update servers_v7.json",1
+2023-11-12 17:34:03+00:00,Anuken,progress,2
+2023-11-13 02:19:45+00:00,phinner,"Update French translations (#9140)
+
+* chore: Synchronize lines
+
+* chore: Remove empty space in bundle.properties
+
+* chore: Translate to baguette
+
+* Fixes for baguette language translations (#3)
+
+* fix fpr translate to bagette language
+
+---------
+
+Co-authored-by: Phinner <62483793+phinner@users.noreply.github.com>
+
+* chore: Smolchange
+
+* chore: Apply @VizardAlpha suggestions
+
+---------
+
+Co-authored-by: ZetaMap <56844734+ZetaMap@users.noreply.github.com>",2
+2023-11-13 02:55:16+00:00,Anuken,Crash fix,2
+2023-11-13 02:55:21+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-11-13 07:10:45+00:00,BalaM314,Correctly read item capacity in linked vaults (#9273),1
+2023-11-13 17:38:07+00:00,abcxyzDustry,Update servers_v7.json (#9276),1
+2023-11-13 20:25:44+00:00,ApsZoldat,Add drawing layers to markers,7
+2023-11-14 15:27:51+00:00,Darkness6030,Update Blocks.java (#9278),1
+2023-11-15 01:08:13+00:00,Anuken,Beam nodes now display graph status,1
+2023-11-15 01:08:22+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-11-15 02:33:36+00:00,abcxyzDustry,Update servers_v7.json (#9280),1
+2023-11-15 02:38:26+00:00,Anuken,arc,1
+2023-11-15 02:38:30+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,1
+2023-11-15 05:08:27+00:00,Kieaer,Update servers_v7.json (#9282),1
+2023-11-16 01:03:55+00:00,Anuken,Proper path cost support,6
+2023-11-16 01:50:24+00:00,Anuken,progress,1
+2023-11-16 14:56:58+00:00,Anuken,Invalidate path requests,1
+2023-11-16 14:58:01+00:00,Anuken,Debug property,1
+2023-11-16 14:58:25+00:00,Anuken,Removed flowfield time restrictions,1
+2023-11-16 16:00:31+00:00,Anuken,Cleanup,2
+2023-11-16 16:01:42+00:00,GergoEB,"Fix format, it was breaking my thing (#9283)",1
+2023-11-17 13:18:48+00:00,abcxyzDustry,Update servers_v7.json (#9286),1
+2023-11-17 21:48:03+00:00,Anuken,Minor optimizations,1
+2023-11-17 22:04:47+00:00,Anuken,Debugging disabled,1
+2023-11-17 23:47:52+00:00,Anuken,RailBulletType pierceCap,1
+2023-11-17 23:47:59+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-11-18 00:12:56+00:00,Anuken,BulletType delayFrags workaround,3
+2023-11-18 05:15:30+00:00,XuwenMeimei,Update servers_v7.json (#9288),1
+2023-11-18 13:35:10+00:00,Ilya246,"fix shield arc ability (#9290)
+
+* fix shield arc ability
+
+* Update ShieldArcAbility.java",1
+2023-11-18 13:37:40+00:00,Darkness6030,"Remove Darkdustry from the Global Server List (#9289)
+
+The time has come. It's been more than two years since we started Mindurka, which was later renamed to Darkdustry. It was an amazing time and an amazing experience to maintain the server, to create plugins and gamemodes, to discuss mindustry with all of you. But It's enough. The server is getting constantly DDoSed, the host dies all the time and I have no motivation to develop anything related to Mindustry. 
+Goodbye. And I hope, we'll meet again.",1
+2023-11-18 16:11:21+00:00,abcxyzDustry,Update servers_v7.json (#9293),1
+2023-11-18 16:25:31+00:00,Anuken,Re-enabled mod unit tests,2
+2023-11-18 16:25:38+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-11-19 01:54:20+00:00,ArkSourcer,"Agua 3,  20% more water (#9295)
+
+* Funny change
+
+* Update servers_v7.json
+
+* Update bundle_es.properties
+
+Traductions for the bundle_es
+By ArkSource
+
+* Update servers_v7.json
+
+* Agua prt 2
+
+* Update servers_v7.json
+
+* Update servers_v7.json",1
+2023-11-19 15:55:42+00:00,Anuken,Fixed #9298,1
+2023-11-19 23:32:14+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry into new-pathfinding,29
+2023-11-20 00:09:15+00:00,Anuken,Closes Anuken/Mindustry-Suggestions/issues/4780 (dumping neoplasm from tanks),5
+2023-11-22 13:24:45+00:00,112Hack,Update servers_v7.json (#9303),1
+2023-11-22 19:33:05+00:00,ApsZoldat,"World processor markers: remove toggleVisibility, swap makemarker's type and id arguments for instruction consistency",3
+2023-11-22 22:06:05+00:00,abcxyzDustry,Update servers_v7.json (#9304),1
+2023-11-23 09:59:32+00:00,Electron215,"Update servers_v7.json (#9294)
+
+Co-authored-by: Electron <135461023+Electorn215@users.noreply.github.com>",1
+2023-11-23 11:25:36+00:00,Hahaa13,"Back back vndustry (#9297)
+
+* Update servers_v7.json
+
+* Update servers_v7.json
+
+* Back :))",1
+2023-11-23 11:28:57+00:00,Anuken,Reject invalid tile configs,1
+2023-11-23 11:29:38+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,1
+2023-11-23 18:35:26+00:00,karlo292,Update servers_v7.json (#9307),1
+2023-11-23 19:24:59+00:00,Anuken,ConnectFilter API now public,2
+2023-11-23 19:25:07+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,1
+2023-11-23 23:59:14+00:00,LixieWulf,f (#9309),1
+2023-11-24 00:04:17+00:00,Anuken,arc,3
+2023-11-24 00:04:19+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,1
+2023-11-24 07:46:19+00:00,TheRadioactiveBanana,"Eradication Mindustry Merge (#9310)
+
+Anuke finally gave the go ahead",1
+2023-11-25 17:54:05+00:00,abcxyzDustry,Update servers_v7.json (#9315),1
+2023-11-27 09:51:47+00:00,osp54,Update servers_v7.json (#9318),1
+2023-11-27 11:05:57+00:00,Anuken,Revert #9294,1
+2023-11-27 11:53:43+00:00,Anuken,Cleanup,1
+2023-11-27 11:55:40+00:00,Anuken,Fixed bombers stopping when patrolling,1
+2023-11-27 11:57:01+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,1
+2023-11-27 14:06:29+00:00,alexpvpmindustry,"Update servers_v7.json (#9319)
+
+add more servers",1
+2023-11-27 19:56:26+00:00,ApsZoldat,Add minimap mode to other objective markers,4
+2023-11-27 22:40:13+00:00,The1Crux,"Update servers_v7.json (#9321)
+
+last servers exploded 💀",1
+2023-11-28 01:35:56+00:00,unknown,Automatic bundle update,34
+2023-11-28 01:37:25+00:00,Anuken,Added draw print instruction,6
+2023-11-28 01:38:02+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,1
+2023-11-28 01:47:24+00:00,Anuken,Clarify that only ASCII is supported,2
+2023-11-28 01:48:11+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,34
+2023-11-28 10:29:04+00:00,ArkSourcer,"Agua en HD (#9323)
+
+* Funny change
+
+* Update servers_v7.json
+
+* Update bundle_es.properties
+
+Traductions for the bundle_es
+By ArkSource
+
+* Update servers_v7.json
+
+* Agua prt 2
+
+* Update servers_v7.json
+
+* Update servers_v7.json
+
+* Agua 2-3",1
+2023-11-28 10:31:14+00:00,Anuken,Fixed #9322,1
+2023-11-28 19:00:08+00:00,ApsZoldat,"Marker autoscale now works outside of minimap mode, another yet lmarkercontrol instructions cleanup, fix renderer's draw color breaking after drawing markers",4
+2023-11-28 19:08:33+00:00,ApsZoldat,Merge branch 'master' of https://github.com/Anuken/Mindustry into markers-update,69
+2023-11-28 19:19:08+00:00,ApsZoldat,"""i forgor"" fix",1
+2023-11-28 19:24:48+00:00,ApsZoldat,Minor setmarker ui statement fix (farming tiny commits?),1
+2023-11-28 20:00:39+00:00,Anuken,Fixed #9325,1
+2023-11-28 20:02:31+00:00,Anuken,Merge branch 'master' of https://github.com/Anuken/Mindustry,1
+2023-11-28 22:35:49+00:00,osp54,Darkdustry reborn (#9324),1
+2023-11-29 07:10:52+00:00,BasedUser,fix typo in russian bundle (#9326),1
+2023-11-29 20:01:41+00:00,BasedUser,Clean up 0.baseduser.eu.org (servers_v7.json) (#9328),1
+2023-11-30 00:29:52+00:00,abcxyzDustry,Update servers_v7.json (#9329),1
+2023-11-30 12:18:40+00:00,MEEPofFaith,angleOffset is added twice in Weapon shoot (#9332),1
+2023-11-30 12:18:59+00:00,alexpvpmindustry,Update servers_v7.json for alex mindustry (#9330),1
+2023-11-30 15:17:09+00:00,NazrinNya,"IP change of cyandustry (#9312)
+
+* Update servers_v7.json
+
+* Update servers_v7.json
+
+* Update servers_v7.json
+
+* Update servers_v7.json",1
+2023-11-30 19:16:44+00:00,Mythril382,"Custom Launch Music for Each Planet (#8901)
+
+* plant
+
+* what
+
+* literal ctrl+c ctrl+v
+
+* more music
+
+* issue
+
+* feedback
+
+* commit return",3
+2023-11-30 19:19:30+00:00,Anuken,Simplified JSON music/sound loading,4
+2023-11-30 20:56:57+00:00,Redstonneur1256,Update servers_v7.json (#9333),1
+2023-12-01 18:34:17+00:00,Anuken,Fixed #9336,1
+2023-12-01 18:34:24+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-12-02 01:50:32+00:00,MEEPofFaith,"PointLaserBulletType support for Weapons (#9331)
+
+* PointLaserBulletType support for Weapons
+
+I hate adding more fields to Weapon, but oh well. It's the price to pay when the behavior of what should be spread across multiple classes is compacted into a single class.
+
+* Fix several problems",2
+2023-12-02 02:14:10+00:00,ApsZoldat,"Map-specific locale bundles system (#9199)
+
+* Fix text setting in marker control
+
+* Fix marker and bridge calculation game crashes, minor marker instruction code fixes
+
+* Add privileged desynced client constant global variables
+
+* Remove broken attempt to not initialize client vars on server
+
+* Make @clientLocale variable non-constant, make @server and @client privileged
+
+* WIP Implementation of map-specific locale bundles
+
+* Progress on map locale bundles: add locale data to saves, make objectives use map locales if possible
+
+* Add print formatting and map locale printing to world processors
+
+* 🗿
+
+* Minor map locales dialog ui changes
+
+* Make map locale bundles load when joining multiplayer server
+
+* Remove static declaration of current locale in MapLocales to fix tests failing
+
+* Unify name of localeprint instruction, minor instruction description change, fix map locales incorrectly loading from clipboard
+
+* Fix locale bundles not saving in game state, add  global var, make objective markers use map locale bundles and .mobile properties on mobile devices
+
+* Even more map locales dialog improvements
+
+* Fix english locale picking (when property isn't presented in current locale but english version has it) not working
+
+* Add icon pasting to map locales dialog, minor ui changes
+
+* Fix inconsistent game crash with null text in objectives, define player.locale on game loading (for clientLocale var)
+
+* Change format instruction placeholders to backslash, fix map locales system incorrectly handling default locale
+
+* understood",15
+2023-12-02 02:14:51+00:00,unknown,Automatic bundle update,34
+2023-12-02 02:16:37+00:00,Anuken,Revert back to {0}-style format,2
+2023-12-02 02:16:43+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-12-02 15:48:07+00:00,112Hack,Update servers_v7.json (#9338),1
+2023-12-03 01:04:34+00:00,Anuken,Fixed #9342,1
+2023-12-03 01:04:53+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-12-04 11:44:17+00:00,The1Crux,"Update servers_v7.json (#9345)
+
+new slots",1
+2023-12-04 15:35:37+00:00,osp54,Darkdustry reborn. Again. (#9346),1
+2023-12-04 19:39:27+00:00,ApsZoldat,"Make setmarker ignor null values, remove redundant marker control operations",5
+2023-12-04 19:43:59+00:00,ApsZoldat,Merge remote-tracking branch 'upstream/master',60
+2023-12-04 20:33:23+00:00,ApsZoldat,Minor map locales dialog fixes,1
+2023-12-05 18:54:47+00:00,Anuken,Fixed Steam kicking,3
+2023-12-05 18:54:54+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-12-05 18:55:47+00:00,Anuken,ok buthed,1
+2023-12-05 18:57:41+00:00,Anuken,steamtest task destination,1
+2023-12-05 20:17:55+00:00,Anuken,Fixed banned Steam users loading indefinitely,2
+2023-12-05 20:18:42+00:00,unknown,Automatic bundle update,34
+2023-12-05 20:43:33+00:00,Anuken,Display banned status in Steam lobbies,2
+2023-12-05 20:43:42+00:00,Anuken,Merge remote-tracking branch 'origin/master',34
+2023-12-07 12:20:14+00:00,Gamer-art9044,"Update servers_v7.json (#9352)
+
+add a STP server to the list",1
+2023-12-07 15:24:51+00:00,ApsZoldat,Small git shenanigans to actually (i really hope) revert all the bad stuff,1
+2023-12-07 15:26:55+00:00,ApsZoldat,Merge branch 'master' of https://github.com/Anuken/Mindustry into markers-update,42
+2023-12-07 17:38:12+00:00,CamoGekko,Fixed an error message (#9355),1
+2023-12-08 12:11:11+00:00,Lifeless-Darkness,Update servers_v7.json (#9357),1
+2023-12-08 22:03:40+00:00,BnDLett,"Add DDNS experimental server to server list (#9360)
+
+Added DDNS experimental server to the server list under ""mindustry.ddns.net"".",1
+2023-12-08 23:25:22+00:00,MEIQIUawa,Update servers_v7.json (#9361),1
+2023-12-09 13:37:56+00:00,aawwaaa,"Update servers_v7.json (#9365)
+
+fix a syntax error in line 12",1
+2023-12-09 13:38:46+00:00,abcxyzDustry,"Update servers_v7.json (#9364)
+
+vndustry wants to merge into abcxyzdustry",1
+2023-12-09 13:39:35+00:00,tech3mi,"Update servers_v7.json (#9362)
+
+* Update servers_v7.json
+
+We changed our server and ports
+
+* Update servers_v7.json",1
+2023-12-09 17:38:16+00:00,Anuken,Validate server JSON with org.json as well,2
+2023-12-09 17:38:25+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-12-10 01:15:20+00:00,TheRadioactiveBanana,"Load Balancing Refactor (#9369)
+
+- Move off of dumb port scheme that I was too lazy to fix
+- 3MIDustry partnership for more servers
+- Load balancing because eradication servers have maxed out my two machines (yes, really)",1
+2023-12-10 13:32:49+00:00,Anuken,Better Flare/Avert targeting / Fixed targets resetting on save load,7
+2023-12-10 13:32:56+00:00,Anuken,Merge remote-tracking branch 'origin/master',1
+2023-12-10 14:29:02+00:00,Anuken,Clear block config background on rebuild,1
+2023-12-10 19:44:30+00:00,ApsZoldat,"WIP marker changes, fix server name not appearing for saved hosts in join dialog",7
+2023-12-10 20:48:35+00:00,Anuken,Make isSaveValid check backups,1
+2023-12-11 01:01:40+00:00,Anuken,GC retention fixes,4
+2023-12-11 02:55:21+00:00,Anuken,Crash fix,3
+2023-12-11 12:46:37+00:00,Gadgetroch,"Update servers_v7.json (#9367)
+
+Good morning,
+
+Compared to your recommendations, everything was done except 2 things:
+I left the connection/disconnect message because I am logging this in my discord server (protected channel)
+
+I left the maps at default, to see over time.
+
+Thank's",1
+2023-12-12 13:47:40+00:00,BalaM314,"Allow fetching unitCount by type, and buildCount without type (#9374)
+
+* Allow fetching unitCount by type, and buildCount without type
+
+* show in processor ui",2
+2023-12-12 19:40:33+00:00,ApsZoldat,"Markers draw code refactor, minor text marker control changes",6
+2023-12-13 15:24:08+00:00,ApsZoldat,millimicronanopico setmarker texture fix (object print consistency),1
+2023-12-13 22:04:17+00:00,a-big-fish-fish,Update servers_v7.json (#9376),1
+2023-12-13 22:05:15+00:00,Estcool9,Update servers_v7.json Add My server mindustry est1.be (#9378),1
+2023-12-14 03:37:31+00:00,Anuken,Fixed #9379,1
+2023-12-14 03:37:39+00:00,Anuken,Merge remote-tracking branch 'origin/master',3
+2023-12-15 16:33:03+00:00,ApsZoldat,Small MapObjectives refactor (removal of duplicating overrided methods),1
+2023-12-15 16:39:30+00:00,ApsZoldat,Merge branch 'master' of https://github.com/Anuken/Mindustry into markers-update,22
+2023-12-15 17:21:42+00:00,Atomic-Laboratory,Update servers_v7.json (#9381),1
+2023-12-16 14:05:22+00:00,Anuken,Less confusing JITPack hash message,2
+2023-12-16 14:09:00+00:00,HamzaGSopp,Update servers_v7.json (#9382),1
+2023-12-16 17:13:09+00:00,NazrinNya,Update servers_v7.json (#9383),1
+2023-12-16 18:10:04+00:00,Anuken,Fixed FPS cap changes,1
+2023-12-17 01:39:07+00:00,HamzaGSopp,Update servers_v7.json (#9385),1
+2023-12-19 14:08:00+00:00,112Hack,Update servers_v7.json (#9395),1
+2023-12-23 00:50:39+00:00,Anuken,Fixed #9399,1
+2023-12-23 00:52:51+00:00,Anuken,Updated Arc,1
+2023-12-23 14:16:48+00:00,BalaM314,"Add config option to disable logging trace requests (#9401)
+
+* Add config option to disable logging trace requests
+
+* Actually, just remove the trace logging
+
+* Might as well
+12 (soon 13) merged PRs",2
+2023-12-24 21:29:51+00:00,Anuken,Fixed #9405,1
+2023-12-25 02:05:14+00:00,Anuken,Fixed logic display flicker with lower opacity graphics,1
+2023-12-25 02:14:44+00:00,Anuken,Minor clear optimization,2
+2023-12-25 03:56:12+00:00,Anuken,Update push.yml,1
+2023-12-25 13:56:59+00:00,a-big-fish-fish,Update servers_v7.json (#9408),1
+2023-12-28 21:35:54+00:00,Anuken,Fixed derelict break hint persisting forever,1
+2023-12-28 21:36:03+00:00,Anuken,Merge remote-tracking branch 'origin/master',2
+2023-12-29 14:48:05+00:00,Anuken,Added launch hint for Erekir,2
+2023-12-30 02:14:39+00:00,Anuken,Bigger stream packet size,1
